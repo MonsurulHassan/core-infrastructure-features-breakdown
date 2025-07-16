@@ -1,0 +1,1 @@
+1. should go to new features page after clicking on New Features

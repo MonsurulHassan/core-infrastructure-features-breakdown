@@ -1,0 +1,1 @@
+1. should logout after clicking on Log out

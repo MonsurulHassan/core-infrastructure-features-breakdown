@@ -1,0 +1,4 @@
+1. should "Manage Workspace" link remain selected and go to workspace settings page after clicking on Manage Workspace
+2. should go to new reporting page after clicking on Reporting
+3. should go to legacy reporting page after clicking on Reporting (Sunsetting Soon)
+4. should go to workspace member management page after clicking on Member Management
