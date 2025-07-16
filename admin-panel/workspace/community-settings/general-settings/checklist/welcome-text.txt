@@ -1,0 +1,6 @@
+should redirect to the Look And Feel page after clicking on the "Configure" link
+should redirect to the help article page after clicking on the "article" link
+should change the Edit Welcome Text checklist status to skipped after clicking on the "Skip" link
+should change the Edit Welcome Text checklist checklist status to "Configure" or "Skip" after clicking on the "skipped" or "undo" link
+should change the Edit Welcome Text checklist checklist status to "Completed - uncheck" after configuration
+should change the Edit Welcome Text checklist checklist status to "Configure" or "Skip" after clicking on the "Completed - uncheck" link

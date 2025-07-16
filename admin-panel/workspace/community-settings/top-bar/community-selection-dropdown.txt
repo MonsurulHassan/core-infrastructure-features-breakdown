@@ -1,0 +1,5 @@
+should show a checked icon next to the current community in the dropdown
+should view community logo, name, status icon in drop down list
+should search and select community with community name
+should not search community with invalid name
+should navigate to the manage workspace page by clicking on the workspace name

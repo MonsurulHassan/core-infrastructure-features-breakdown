@@ -1,0 +1,4 @@
+should authenticate successfully with a valid Google account
+should authenticate successfully with a valid LinkedIn account
+should authenticate successfully with a valid Microsoft account
+should authenticate successfully with a valid Apple account

@@ -1,0 +1,1 @@
+should display as member and restore previlages after clicking on Display as Member

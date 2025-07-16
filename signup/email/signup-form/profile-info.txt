@@ -1,0 +1,5 @@
+should save profile info with valid input
+should not save profile info with invalid input
+should not save profile info with HTML tag value in first name, last name, email and password field
+should validate first name and last name field does not suport more than 63 character
+should not able to save profile info without verifying captcha
