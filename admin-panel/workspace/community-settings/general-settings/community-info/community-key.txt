@@ -1,0 +1,2 @@
+should ensure the community key field is read-only
+should able to copy the community URL

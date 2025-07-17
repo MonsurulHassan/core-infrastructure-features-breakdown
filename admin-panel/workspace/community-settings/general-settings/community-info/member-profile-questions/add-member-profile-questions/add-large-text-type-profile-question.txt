@@ -1,0 +1,7 @@
+should successfully add a large text type custom field
+should show a validation error when Max Characters field is empty while adding a large text type custom field
+should add large text type custom field as private field
+should add large text type custom field as regularly update or confirm field
+should add large text type custom field as show on registration form or required for joining
+should add large text type custom field as required field
+should ensure "Required" switch is hidden after enabling the show on registration form or required for joining switch

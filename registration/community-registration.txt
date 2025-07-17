@@ -1,0 +1,8 @@
+should successfully register a member when all required fields have valid input
+should display error messages when required fields are missing during registration
+should fail registration with invalid email
+should fail registration when password combination does not match
+should prevent registration with an already registered email
+should show indicator besides the email,password,language and hide my identity field during registration
+should successfully register a member by unchecking the 'Send me news and updates about ideascale' checkbox
+should successfully register a member anonymously by checking the 'Hide my identity' checkbox

@@ -1,0 +1,7 @@
+should save organization info with valid community name and community URL
+should save organization info with valid community name, community URL and added campaign name
+should not save organization info with invalid community name and community URL
+should show validation error for HTML tag tag value in the community name and community URL field
+should validate community name field does not suport more than 128 character
+should validate community URL field does not suport more than 32 character
+should validate campaign name does not support html tag

@@ -1,0 +1,1 @@
+should go to help article after clicking on Help

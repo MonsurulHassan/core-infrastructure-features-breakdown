@@ -1,0 +1,3 @@
+should authenticate successfully with a valid SAML credential
+should authenticate successfully with a valid multipass credential
+should authenticate successfully with a valid Google apps account

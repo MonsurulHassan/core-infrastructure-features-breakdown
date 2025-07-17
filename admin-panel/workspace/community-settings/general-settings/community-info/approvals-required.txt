@@ -1,0 +1,4 @@
+should enable and disable the new ideas approval switch
+should enable and disable the new comment approval switch
+should display "moderator ideas require approval" switch after enabling the new ideas approval switch
+should enable and disable the moderator ideas require approval switch

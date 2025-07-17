@@ -1,0 +1,8 @@
+should "Community settings" menu remain selected and go to community settings page after clicking on Community Settings
+should go to new reporting page after clicking on Reporting
+should go to legacy reporting page after clicking on Reporting (Sunsetting Soon)
+should go to community member management page after clicking on Member Management
+should go to Idea Management page after clicking on Idea Management
+should go to moderator dashboard page after clicking on Moderator dashboard
+should go to community member management page after clicking on Member Management
+should go to ideascale whiteboard page after clicking on Ideascale Whiteboard

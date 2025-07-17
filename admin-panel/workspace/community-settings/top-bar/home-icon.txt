@@ -1,0 +1,2 @@
+should go to community home page after clicking on the home icon
+should go to community landing page when landing page is published in the community after clicking on workspace home icon

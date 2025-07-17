@@ -1,0 +1,7 @@
+should save organization info with valid input
+should save organization info with invalid input
+should not save organization info with empty organization name and workspace URL
+should show validation error for HTML tag value in the organization name and workspace URL field
+should validate organization name field does not suport more than 128 character
+should validate workspace URL field does not suport more than 63 character
+should validate campaign name does not support html tag

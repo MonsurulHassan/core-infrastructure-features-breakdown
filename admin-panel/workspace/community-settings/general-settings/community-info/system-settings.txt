@@ -1,0 +1,6 @@
+should enable and disable the private community switch
+should display "Joinable Community" switch after enabling the private community switch
+should enable and disable the joinable community switch
+should able to select campaign from the default campaign drop-down
+should ensure archived campaign is not showing in the default campaign drop-down
+should ensure default campaign can't be deleted

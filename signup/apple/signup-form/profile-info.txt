@@ -1,0 +1,7 @@
+should save profile info with valid organization name and workspace URL
+should not save profile info with invalid organization name and workspace URL
+should not save profile info with HTML tag value in organization name and workspace URL field
+should validate organization name field does not suport more than 128 character
+should validate workspace URL field does not suport more than 63 character
+should save profile info without checking the 'Allow anyone with ideascale.com join in the Workspace' checkbox
+should save profile info checking the 'Allow anyone with ideascale.com join in the Workspace' checkbox

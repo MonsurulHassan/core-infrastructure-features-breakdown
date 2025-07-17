@@ -1,0 +1,6 @@
+should able to save community settings information with valid input
+should able to change community status to disabled
+should reset to Language, default community timezone and default community date format to workspace default
+should able to select language from the language drop-down
+should able to select community timezone from  the timezone drop-down
+should able to select community date format from the date format drop-down
