@@ -1,0 +1,2 @@
+should open the add new admin group modal after clicking on the Add new admin group button
+should close the add new admin group modal

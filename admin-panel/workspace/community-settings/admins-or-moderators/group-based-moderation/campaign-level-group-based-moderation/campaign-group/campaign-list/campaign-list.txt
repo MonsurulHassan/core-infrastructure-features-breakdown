@@ -1,0 +1,5 @@
+should view the all campaign under the campaign group
+should view the campaign title and description
+should view the member group count
+should view the total camaigns count
+should ensure clicking on the vew memebr groups redirect to the member groups for group based moderation page

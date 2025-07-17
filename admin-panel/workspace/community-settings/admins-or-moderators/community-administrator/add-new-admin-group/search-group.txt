@@ -1,0 +1,5 @@
+should search group by group name
+should search group clicking on the Search Member Groups button
+should ensure search result does not shown when search using invalid input
+should show HTML tag error when search group using HTML tag input
+should ensure all groups show in the search result

@@ -1,0 +1,4 @@
+should enable or disable strict approval moderation switch
+should set approval order successfully
+should ensure idea needs group based approval first when approval order is set "Group Based Approval First"
+should ensure idea needs camaign based approval first when approval order is set "Campaign Based Approval First"

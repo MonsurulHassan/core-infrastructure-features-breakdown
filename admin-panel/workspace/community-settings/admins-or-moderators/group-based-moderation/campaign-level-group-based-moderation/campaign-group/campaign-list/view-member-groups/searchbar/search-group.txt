@@ -1,0 +1,3 @@
+should search group by group name
+should ensure group is not showing when search using invalid input
+should show HTML tag alert when search using HTML input

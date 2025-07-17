@@ -1,0 +1,6 @@
+should search campaign group by campaign group name
+should ensure group is not showing when search using invalid input
+should show HTML tag alert when search using HTML input
+should search campaign by campaign title
+should search campaign by campaign description
+should view the total campaign count

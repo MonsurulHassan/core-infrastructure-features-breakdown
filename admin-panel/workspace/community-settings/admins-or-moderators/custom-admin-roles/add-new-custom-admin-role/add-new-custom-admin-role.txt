@@ -1,0 +1,5 @@
+should create custom admin role successfully with valid custom admin name
+should show HTML tag alert when enter HTML tag input in the custom admin name field
+should create custom admin role successfully with valid custom admin name and given all permission
+should ensure custom admin role creation failed with empty custom admin name
+should create custom admin role successfully with valid custom admin name and given specific permission

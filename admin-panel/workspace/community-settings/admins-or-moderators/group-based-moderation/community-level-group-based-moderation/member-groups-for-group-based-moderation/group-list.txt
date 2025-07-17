@@ -1,0 +1,7 @@
+should select group and save successfully from the manage criteria page
+should redirect to the community member management page after clicking on the Create New Group link
+should update the group name
+should delete the group name
+should redirect to the group moderator page by clicking on the moderators count
+should show the all ideas after clicking on the ideas count
+should show the total member count

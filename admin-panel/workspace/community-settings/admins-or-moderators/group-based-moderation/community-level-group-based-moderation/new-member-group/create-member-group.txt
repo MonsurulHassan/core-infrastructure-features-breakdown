@@ -1,0 +1,3 @@
+should create memebr group successfully
+should show HTML alert while creating group with HTML tag
+should show validation error while creating group with empty name

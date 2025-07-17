@@ -1,0 +1,3 @@
+should unassign group moderator
+should redirect to the member profile page by clicking on the member display name
+should able to view all assigned moderator under the group moderator list

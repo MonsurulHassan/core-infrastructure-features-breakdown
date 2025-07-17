@@ -1,0 +1,6 @@
+should show the total group count in the group table
+should select all group from the group table
+should select group from the group table
+should navigate to the next page from the current page
+should navigate to the previous page from the next paga
+should show the group members in the community member management page after clicking on the group name

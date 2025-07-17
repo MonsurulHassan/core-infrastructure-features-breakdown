@@ -1,0 +1,3 @@
+should able to assign all commmunity member as a campaign moderator
+should able to assign the selected member as a campaign moderator
+should ensure already assigned moderator can't be assigned as a moderator

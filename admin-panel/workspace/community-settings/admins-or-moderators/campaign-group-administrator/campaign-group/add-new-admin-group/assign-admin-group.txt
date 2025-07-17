@@ -1,0 +1,4 @@
+should able to assign all group as an admin group
+should able to assign the selected group as an admin group
+should ensure alreaded assigned group can't be assigned as an admin group
+should show an alert message when adding a group whose member is already assigned as an admin

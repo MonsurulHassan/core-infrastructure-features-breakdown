@@ -1,0 +1,3 @@
+should able to assign all commmunity member as a custom field moderator
+should able to assign the selected member as custom field moderator
+should ensure alreaded assigned moderator can't be assigned as a moderator

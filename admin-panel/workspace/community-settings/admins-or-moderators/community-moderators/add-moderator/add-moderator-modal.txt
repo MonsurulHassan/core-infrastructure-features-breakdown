@@ -1,0 +1,2 @@
+should open the add moderator modal after clicking on the Add moderator button
+should close the add moderator modal

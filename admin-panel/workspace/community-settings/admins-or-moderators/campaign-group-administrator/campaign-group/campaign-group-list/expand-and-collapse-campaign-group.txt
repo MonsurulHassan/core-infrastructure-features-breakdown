@@ -1,0 +1,4 @@
+should expand all campaign group
+should collapse all campaign group
+should expand single campaign group
+should collapse single campaign group

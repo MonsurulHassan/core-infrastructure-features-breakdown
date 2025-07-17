@@ -1,0 +1,6 @@
+should update custom admin role
+should delete custom admin role
+should assign custom admin under the role
+should unassign custom admin under the role
+should redirect to the member profile page by clicking on the member display name
+should able to view all created role

@@ -1,0 +1,7 @@
+should search member by email address
+should search member by name
+should search member by username
+should search member by profile questions response value
+should show HTML tag error when search member using HTML tag input
+should search member using invalid input
+should ensure only verified members shows in the search result

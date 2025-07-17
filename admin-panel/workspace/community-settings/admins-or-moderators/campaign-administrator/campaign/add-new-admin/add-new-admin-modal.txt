@@ -1,0 +1,2 @@
+should open the add new admin modal after clicking on the Add new admin button
+should close the add new admin modal

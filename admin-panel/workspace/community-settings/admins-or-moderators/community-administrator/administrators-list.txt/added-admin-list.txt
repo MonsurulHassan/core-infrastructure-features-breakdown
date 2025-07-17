@@ -1,0 +1,7 @@
+should unassign community administrator
+should unassign community group administrator
+should redirect to the member profile page by clicking on the member display name
+should able to view all assigned group admin under the community administrator list
+should able to view all added admin under the community administrator list
+should show the added group members on the community member management page by clicking on the group name 
+should view the group tag name beside the admin group

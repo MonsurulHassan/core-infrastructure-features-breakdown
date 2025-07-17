@@ -1,0 +1,3 @@
+should able to assign all commmunity member as an admin
+should able to assign the selected member as an admin
+should ensure alreaded assigned admin can't be assigned as an admin
