@@ -1,0 +1,2 @@
+1. should enable workspace registration
+2. should disable workspace registration

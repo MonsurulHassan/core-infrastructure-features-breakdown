@@ -1,0 +1,5 @@
+1. should disable notification for new ideas
+2. should enable notification for new ideas in daily digest
+3. should enable notification for new ideas in weekly digest
+4. should enable notification for new ideas in real time
+5. should not get search value with invalid input

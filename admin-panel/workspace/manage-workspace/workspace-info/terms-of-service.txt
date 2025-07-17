@@ -1,0 +1,4 @@
+1. should check workspace terms of service header name and description
+2. should disable workspace terms of service
+3. should not enable workspace terms of service without terms of service
+4. should enable workspace terms of service with terms of service

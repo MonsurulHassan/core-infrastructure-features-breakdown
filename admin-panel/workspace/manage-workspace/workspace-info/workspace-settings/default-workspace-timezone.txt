@@ -1,0 +1,2 @@
+1. should set default workspace timezone
+2. should not get timezone search value with invalid input

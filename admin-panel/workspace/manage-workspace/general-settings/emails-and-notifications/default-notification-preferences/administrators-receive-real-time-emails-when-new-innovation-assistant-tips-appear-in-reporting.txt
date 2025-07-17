@@ -1,0 +1,2 @@
+1. should disable Administrators Receive Real-time emails when new Innovation Assistant Tips appear in reporting
+2. should enable Administrators Receive Real-time emails when new Innovation Assistant Tips appear in reporting

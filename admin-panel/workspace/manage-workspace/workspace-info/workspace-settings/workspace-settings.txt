@@ -1,0 +1,2 @@
+1. should check workspace settings header name and description
+2. should redirect to workspace settings help article after clicking on "click here for more information"

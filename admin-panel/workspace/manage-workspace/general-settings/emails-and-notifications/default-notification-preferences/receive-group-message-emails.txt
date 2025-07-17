@@ -1,0 +1,2 @@
+1. should disable Receive group message emails
+2. should enable Receive group message emails

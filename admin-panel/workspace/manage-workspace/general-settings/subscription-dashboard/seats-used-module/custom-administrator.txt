@@ -1,0 +1,6 @@
+1. should check custom administrator's name, community name and role after assigning and removing member as custom administrator
+2. should check custom administrator's name, community name and role after deleting the custom admin role
+3. should redirect to custom administrators settings page after clicking on the community name
+4. should not show the custom administrator after marking as pending and banned at workspace level
+5. should not show the custom administrator after marking as pending and banned at community level
+6. should not show the custom administrator after leaving the community

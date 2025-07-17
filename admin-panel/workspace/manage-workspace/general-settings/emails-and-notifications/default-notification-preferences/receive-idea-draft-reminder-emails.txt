@@ -1,0 +1,2 @@
+1. should disable Receive idea draft reminder emails
+2. should enable Receive idea draft reminder emails

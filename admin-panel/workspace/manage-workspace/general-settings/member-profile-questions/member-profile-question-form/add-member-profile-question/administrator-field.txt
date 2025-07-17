@@ -1,0 +1,3 @@
+should create workspace member profile question as administrator field visible to normal members
+should create workspace member profile question as administrator field not visible to normal members
+should not create workspace member profile question as administrator field

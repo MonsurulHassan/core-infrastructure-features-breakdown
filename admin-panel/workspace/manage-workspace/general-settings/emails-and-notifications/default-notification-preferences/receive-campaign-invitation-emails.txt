@@ -1,0 +1,2 @@
+1. should disable Receive campaign invitation emails
+2. should enable Receive campaign invitation emails

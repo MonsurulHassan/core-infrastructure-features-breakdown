@@ -1,0 +1,2 @@
+1. should check the Member Profile Questions page header name and description
+2. should redirect to help article of workspace member profile questions

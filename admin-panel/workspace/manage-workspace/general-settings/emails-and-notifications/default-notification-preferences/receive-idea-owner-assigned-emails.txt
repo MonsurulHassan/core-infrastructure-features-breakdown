@@ -1,0 +1,2 @@
+1. should enable Receive idea owner assigned emails
+2. should disable Receive idea owner assigned emails

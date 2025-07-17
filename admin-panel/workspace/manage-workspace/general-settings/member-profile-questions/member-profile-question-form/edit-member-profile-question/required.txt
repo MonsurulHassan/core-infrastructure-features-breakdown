@@ -1,0 +1,2 @@
+should update workspace member profile question be required to answer
+should update workspace member profile question not to be required to answer

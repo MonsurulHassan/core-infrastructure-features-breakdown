@@ -1,0 +1,2 @@
+1. should enable Receive Thank you email for Idea Submission
+2. should disable Receive Thank you email for Idea Submission

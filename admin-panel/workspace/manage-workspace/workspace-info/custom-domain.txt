@@ -1,0 +1,4 @@
+1. should check workspace custom domain header name and description
+2. should redirect to sales contanct page after clicking on "Contact IdeaScale's Sales Department for more information"
+3. should add custom domain
+4. should redirect to custom domain help article after clicking on "Using Custom Domains for your Workspace"

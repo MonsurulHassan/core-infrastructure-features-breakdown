@@ -1,0 +1,2 @@
+should update workspace member profile question to be shown on registration form
+should update not to be shown workspace member profile question on registration form

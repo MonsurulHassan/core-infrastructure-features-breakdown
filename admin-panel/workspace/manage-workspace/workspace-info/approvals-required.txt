@@ -1,0 +1,6 @@
+1. should check approvals required header name and description
+2. should redirect to approvals required help article after clicking on "Click here for more information"
+3. should disable new ideas approval
+4. should enable new ideas approval
+5. should disable new comments approval
+6. should enable new comments approval

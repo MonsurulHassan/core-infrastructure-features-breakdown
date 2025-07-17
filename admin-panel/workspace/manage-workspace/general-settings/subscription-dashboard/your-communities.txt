@@ -1,0 +1,5 @@
+1. should Your Communities module remain collapsed by default 
+2. should Your Communities module expand and collapse
+3. should Your Communities module contain community count and name
+4. should go to community or campaign home page after clicking on community name in Your Communities module
+5. should check the community count and name in Your Communities module after purging the community

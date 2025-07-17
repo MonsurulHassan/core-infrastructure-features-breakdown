@@ -1,0 +1,3 @@
+should update workspace member profile question as administrator field visible to normal members
+should update workspace member profile question as administrator field not visible to normal members
+should not update workspace member profile question as administrator field

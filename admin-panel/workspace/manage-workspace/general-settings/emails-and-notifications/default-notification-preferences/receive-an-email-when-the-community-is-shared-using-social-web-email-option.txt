@@ -1,0 +1,2 @@
+1. should disable Receive an email when the community is shared using Social Web Email option
+2. should enable Receive an email when the community is shared using Social Web Email option

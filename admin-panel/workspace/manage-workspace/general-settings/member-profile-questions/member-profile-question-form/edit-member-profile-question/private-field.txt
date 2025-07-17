@@ -1,0 +1,2 @@
+should update workspace member profile question as private field
+should update workspace member profile question disabling private field

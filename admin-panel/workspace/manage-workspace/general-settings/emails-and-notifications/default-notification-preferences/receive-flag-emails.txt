@@ -1,0 +1,2 @@
+1. should disable Receive flag emails
+2. should enable Receive flag emails

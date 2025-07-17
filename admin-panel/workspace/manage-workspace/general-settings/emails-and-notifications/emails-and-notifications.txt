@@ -1,0 +1,2 @@
+1. should check emails and notifications page header name and description
+2. should redirect to emails and notifications help article after clicking on "Click here for more information"

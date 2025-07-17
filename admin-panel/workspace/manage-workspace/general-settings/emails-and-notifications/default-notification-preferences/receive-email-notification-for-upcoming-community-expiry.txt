@@ -1,0 +1,4 @@
+1. should disable Receive Email notification for Upcoming Community Expiry
+2. should enable Receive Email notification for Upcoming Community Expiry
+3. should set Upcoming Community Expiry Notification (Days)
+4. should not use invalid input as Upcoming Community Expiry Notification (Days)
