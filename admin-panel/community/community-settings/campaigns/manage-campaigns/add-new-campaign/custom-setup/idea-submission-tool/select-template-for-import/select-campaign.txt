@@ -1,0 +1,5 @@
+should select campaign from the campaign selection drop-down
+should not show search result when searche campaign using invalid input
+should search campaign using keyword
+should search campaign using campaign name
+should ensure idea submission form content appears properly after selection the campaign

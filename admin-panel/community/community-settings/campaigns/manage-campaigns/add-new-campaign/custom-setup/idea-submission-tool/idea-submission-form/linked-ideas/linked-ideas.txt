@@ -1,0 +1,2 @@
+should drag and drop the linked ideas section
+should remove linked ideas section from the idea submission form

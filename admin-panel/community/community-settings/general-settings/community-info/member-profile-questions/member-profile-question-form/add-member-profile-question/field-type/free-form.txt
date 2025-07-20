@@ -1,0 +1,4 @@
+should add Large Text / Description type community member profile question
+should add max characters count for Large Text / Description type community member profile question
+should not be able to add invalid input as max characters count for Large Text / Description type community member profile question
+should add Single line Text Box type community member profile question

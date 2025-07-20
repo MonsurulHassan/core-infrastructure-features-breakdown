@@ -1,0 +1,6 @@
+should select group from the "Send To" field
+should search group using the keyword search
+should select multiple group at a time
+should selected "All community members" by default
+should remove the selected group
+should show the community level and workspace level group in the group selection drop-down

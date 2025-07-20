@@ -1,0 +1,2 @@
+should enable or disable the campaign brief switch
+should add campiagn brief using all format of rich text editor

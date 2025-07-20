@@ -1,0 +1,7 @@
+1. should Seats Used module remain collapsed by default
+2. should able to expand and collapse Seats Used module 
+3. should check seats used count and seat occupying members in Seats Used module
+4. should check the updated total number of seats in Seats Used module
+5. should disply member display name and email address in Seats Used module
+6. should disply updated member display name and email address in Seats Used module
+7. should not show the community name after community purge

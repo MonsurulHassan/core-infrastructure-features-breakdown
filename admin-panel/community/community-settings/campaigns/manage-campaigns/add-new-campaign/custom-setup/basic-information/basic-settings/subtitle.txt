@@ -1,0 +1,4 @@
+should save campaign subtitle
+should save campaign without providing the subtitle information
+should ensure Subtitle cannot contain more than 500 characters.
+should show HTML tag alert for HTML input in the subtitle field

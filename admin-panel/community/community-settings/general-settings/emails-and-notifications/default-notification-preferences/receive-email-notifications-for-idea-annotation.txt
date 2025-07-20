@@ -1,0 +1,2 @@
+1. should disable Receive email notifications for idea annotation
+2. should enable Receive email notifications for idea annotation

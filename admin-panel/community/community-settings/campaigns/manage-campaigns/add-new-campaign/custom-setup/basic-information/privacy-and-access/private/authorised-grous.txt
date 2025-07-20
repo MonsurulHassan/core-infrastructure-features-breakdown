@@ -1,0 +1,2 @@
+should enable or disable the groups switch
+should ensure community and workspace level groups are visible under the authorised groups section

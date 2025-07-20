@@ -1,0 +1,2 @@
+should idea custom field be required to answer
+should idea custom field not be required to answer

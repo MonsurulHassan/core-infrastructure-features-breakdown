@@ -1,0 +1,4 @@
+should select campaign group
+should search campaign group using keyword search
+should search campaign group using campaign group name
+should not show search result when search using invalid inpu

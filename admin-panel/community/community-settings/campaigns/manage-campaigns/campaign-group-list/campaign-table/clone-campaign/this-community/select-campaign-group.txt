@@ -1,0 +1,5 @@
+should select campaign group
+should search campaign group name using keyword search
+should search campaign using group name
+should not show search result when search using invalid input
+should not submit form without selecting campaign group

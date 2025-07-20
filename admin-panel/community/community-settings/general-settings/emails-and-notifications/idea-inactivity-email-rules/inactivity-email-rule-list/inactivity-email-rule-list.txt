@@ -1,0 +1,3 @@
+should view the rule name
+should view Enable or disabled status
+should ensure "Clone", "Edit" and "Delete" link is present

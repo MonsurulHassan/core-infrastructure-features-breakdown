@@ -1,0 +1,7 @@
+should search member by email address
+should search member by name
+should search member by username
+should search member by profile questions response value
+should search member by group name
+should serach member by "In Group" or "Not in group" option
+should show HTML tag error when search member using HTML tag input

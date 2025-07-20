@@ -1,0 +1,3 @@
+should not delete the custom field when the field is used in another campaign
+should delete custom field typing DELETE in the Type DELETE to confirm field
+should not delete custom field typing invalid input in the Type DELETE to confirm field

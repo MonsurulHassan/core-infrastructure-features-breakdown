@@ -1,0 +1,3 @@
+should create community member profile question as moderator field visible to normal members
+should create community member profile question as moderator field not visible to normal members
+should not create community member profile question as moderator field

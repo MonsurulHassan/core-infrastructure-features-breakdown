@@ -1,0 +1,4 @@
+should clone campaign to this community with all valid data
+should clone campaign to existing funnel 
+should clone campaign to different funnel 
+should not clone campaign without providing required field data

@@ -1,0 +1,5 @@
+should select image from the gallery
+should view the previous image by clicking on the previous icon
+should view the next image by clicking on the next icon
+should revert to default selection by clicking on the Ok button from the pop-over
+should not revert to default selection by clicking on the cancel button from the pop-over

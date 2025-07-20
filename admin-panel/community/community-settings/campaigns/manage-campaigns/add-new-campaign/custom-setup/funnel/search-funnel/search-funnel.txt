@@ -1,0 +1,3 @@
+should search funnel using funnel name
+should search funnel using keyword search
+should not show search result when search using invalid input

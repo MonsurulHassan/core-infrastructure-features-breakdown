@@ -1,0 +1,2 @@
+1. should disable Receive an email when members are locked
+2. should enable Receive an email when members are locked

@@ -1,0 +1,3 @@
+should not save broadcast email keeping empty subject line field
+should save broadcast email with valid subject line field
+should not save broadcast email with HTML input in the subject line field

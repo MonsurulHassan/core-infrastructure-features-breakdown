@@ -1,0 +1,2 @@
+should add the subject line prefix
+should show HTM tag error when add subject line using HTML input

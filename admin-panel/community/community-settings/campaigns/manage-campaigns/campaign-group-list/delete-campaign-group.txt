@@ -1,0 +1,4 @@
+should delete the campaign group after typing "DELETE" in the Type DELETE to confirm field
+should not delete the campaign group after typing invalid input in the Type DELETE to confirm field
+should ensure camaign moves to the default campaign group after deleting the campaign group
+should ensure delete option is not present in the default camaign group 

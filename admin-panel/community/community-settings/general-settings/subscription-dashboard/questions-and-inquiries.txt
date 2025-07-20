@@ -1,0 +1,4 @@
+1. should Questions and Inquiries module reamin expand by default
+2. should Questions and Inquiries module collapse and expand
+3. should Questions and Inquiries module contain account manager's email address and email sending option
+4. should Questions and Inquiries module contain support team's email address and email sending option

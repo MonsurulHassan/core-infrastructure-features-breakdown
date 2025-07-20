@@ -1,0 +1,1 @@
+should enable or disable the choose an image from the gallery switch                                                                                                   

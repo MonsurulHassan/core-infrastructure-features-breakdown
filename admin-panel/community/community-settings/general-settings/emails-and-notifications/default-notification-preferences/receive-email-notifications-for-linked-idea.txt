@@ -1,0 +1,2 @@
+1. should disable Receive email notifications for linked idea
+2. should enable Receive email notifications for linked idea

@@ -1,0 +1,7 @@
+1. should search email by type
+2. should search email by receiver
+3. should search email by sender
+4. should search email by subject
+5. should search email by uid
+6. should search email by message_id
+7. should search email by invalid input

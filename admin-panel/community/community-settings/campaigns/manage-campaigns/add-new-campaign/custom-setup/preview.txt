@@ -1,0 +1,1 @@
+should able to to preview the campaign by clicking on the preview button

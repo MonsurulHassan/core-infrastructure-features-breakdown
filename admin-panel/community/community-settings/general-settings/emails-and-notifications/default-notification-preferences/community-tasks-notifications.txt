@@ -1,0 +1,6 @@
+1. should disable community tasks notifications
+2. should enable community tasks notifications
+3. should set "stage notification daily digest" as community tasks digest frequency
+4. should set "stage notification weekly digest" as community tasks digest frequency
+5. should set "stage notification monthly digest" as community tasks digest frequency
+6. should not get search value with invalid input

@@ -1,0 +1,4 @@
+should enable and disable the private idea submissions switch
+should ensure force private submission switch visibility after enabling private idea submission switch
+should ensure authorised groups to view private submissions section visibility after enabling private idea submission switch
+should ensure Notify Admins, Moderators and authorised groups switch visibility after enabling private idea submission switch

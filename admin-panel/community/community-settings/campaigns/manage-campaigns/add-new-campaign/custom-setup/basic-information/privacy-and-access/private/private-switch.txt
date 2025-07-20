@@ -1,0 +1,3 @@
+should enable and disable the private switch
+should ensure accept ideas from unauthorized members switch visibility after enabling private switch
+should ensure authorised groups section visibility after enabling private switch

@@ -1,0 +1,2 @@
+should add estimate stage end date
+should ensure end date does not support invalid value

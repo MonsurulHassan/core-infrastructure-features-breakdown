@@ -1,0 +1,2 @@
+1. should disable Receive an email when the member limit is reached
+2. should enable Receive an email when the member limit is reached

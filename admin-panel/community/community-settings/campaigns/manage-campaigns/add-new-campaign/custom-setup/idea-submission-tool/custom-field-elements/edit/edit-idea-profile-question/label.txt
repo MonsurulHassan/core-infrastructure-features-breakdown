@@ -1,0 +1,3 @@
+should add idea custom field name in Label field
+should not able to add invalid input as idea custom field name in Label field
+should not allow more than 63 characters in Label field

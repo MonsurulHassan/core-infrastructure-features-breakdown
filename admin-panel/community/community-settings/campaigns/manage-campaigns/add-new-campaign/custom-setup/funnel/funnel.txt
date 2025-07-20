@@ -1,0 +1,3 @@
+should show the total funnel count
+should redirect to the funnel management page by clicking on the funnel management link
+should redirect to the video link page by clicking on the short introductory video link

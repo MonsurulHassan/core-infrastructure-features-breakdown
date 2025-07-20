@@ -1,0 +1,2 @@
+should copy the email content by typing "COPY" in the Type COPY to confirm field
+should not copy the email content by typing invalid input in the Type COPY to confirm field

@@ -1,0 +1,2 @@
+should add US Zip Code type idea custom field
+should add global Zip Code type idea custom field

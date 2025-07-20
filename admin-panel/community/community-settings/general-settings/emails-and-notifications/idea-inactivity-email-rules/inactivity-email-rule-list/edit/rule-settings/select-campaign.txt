@@ -1,0 +1,7 @@
+should select campaign from the campaign selection drop-down
+should search campaign using keyword
+should search campaign using campaign name
+should not show search result when search using invalid input
+should show all active campaigns in the campaign drop-down
+should not show archived campaigns in the campaign drop-down
+should remove selected campaign from the select campaign field

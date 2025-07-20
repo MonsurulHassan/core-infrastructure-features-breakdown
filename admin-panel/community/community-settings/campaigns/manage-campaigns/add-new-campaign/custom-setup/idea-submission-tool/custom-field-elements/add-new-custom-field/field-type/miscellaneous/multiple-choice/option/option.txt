@@ -1,0 +1,7 @@
+should add Multiple Choice type idea custom field with default option
+should not able to create Multiple Choice type idea custom field without option
+should add Multiple Choice type idea custom field with multiple options
+should able to change the order of options in Multiple Choice type idea custom field
+should able to remove the options in Multiple Choice type idea custom field
+should not able to create option with more than 500 characters
+should not able to remove the last option in Multiple Choice type idea custom field

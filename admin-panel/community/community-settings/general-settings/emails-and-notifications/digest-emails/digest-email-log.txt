@@ -1,0 +1,4 @@
+should view the digest emal send date
+should view the digest email subject
+should view the total email sent count
+should view the total bounce count

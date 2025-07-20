@@ -1,0 +1,7 @@
+should add Single Choice type community member profile question with default option
+should not able to create Single Choice type community member profile question without option
+should add Single Choice type community member profile question with multiple options
+should able to change the order of options in Single Choice type community member profile question
+should able to remove the options in Single Choice type community member profile question
+should not able to create option with more than 500 characters
+should not able to remove the last option in Single Choice type community member profile question

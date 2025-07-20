@@ -1,0 +1,2 @@
+should select import from other campaign option from the Please Select Template For Import drop-down
+should ensure campaign selection drop-down visibility after selecting import from other campaign option

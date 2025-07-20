@@ -1,0 +1,3 @@
+should drag and drop the added section
+should remove the section
+should drag and drop custom field into the section

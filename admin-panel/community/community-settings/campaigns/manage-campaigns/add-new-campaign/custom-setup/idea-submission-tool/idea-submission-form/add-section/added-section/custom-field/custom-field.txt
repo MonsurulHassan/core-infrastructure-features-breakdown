@@ -1,0 +1,2 @@
+should drag and drop the custom field
+should remove the custom field

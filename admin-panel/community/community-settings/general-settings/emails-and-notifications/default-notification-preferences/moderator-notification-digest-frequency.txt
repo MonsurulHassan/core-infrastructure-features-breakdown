@@ -1,0 +1,4 @@
+1. should disable moderator notification digest frequency
+2. should set "moderator notification weekly digest" as moderator notification digest frequency
+3. should set "moderator notification monthly digest" as moderator notification digest frequency
+4. should not get search value with invalid input

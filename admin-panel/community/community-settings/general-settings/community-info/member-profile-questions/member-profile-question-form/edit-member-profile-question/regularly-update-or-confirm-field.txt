@@ -1,0 +1,2 @@
+should enable regularly update and confirm field feature in community member profile question during update
+should disable regularly update and confirm field feature in community member profile question during update

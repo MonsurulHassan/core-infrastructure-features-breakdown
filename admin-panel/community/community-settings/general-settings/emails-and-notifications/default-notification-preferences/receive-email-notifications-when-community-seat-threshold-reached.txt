@@ -1,0 +1,4 @@
+1. should disable Receive email notifications when community seat threshold reached
+2. should enable Receive email notifications when community seat threshold reached
+3. should set seat count lower threshold
+4. should not use invalid input as seat count lower threshold

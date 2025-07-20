@@ -1,0 +1,5 @@
+should delete the campaign after typing "DELETE" in the Type DELETE to confirm field
+should not delete the campaign group after typing invalid input in the Type DELETE to confirm field
+should ensure all ideas deleted under the campaign
+should ensure deleted campaign is removed from the system settings >> default campaign section
+should ensure delete option is not present in the default camaign group 
