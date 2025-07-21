@@ -1,0 +1,4 @@
+should show the all added member in the selected member table
+should remove all added member from the selected member table by clicking on the remove all link
+should remove member from the selected member table
+should redirect to the member profile page after clicking on the member display name

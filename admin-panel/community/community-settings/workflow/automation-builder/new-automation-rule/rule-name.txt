@@ -1,0 +1,3 @@
+should add rule name with valid input
+should not add rule name with invalid input
+should add rule name with empty input

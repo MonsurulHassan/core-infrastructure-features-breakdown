@@ -1,0 +1,3 @@
+should add fund to all member using valid input 
+should not add fund to all member using invalid amount
+should close the add funds to all member popover by clicking the close icon

@@ -1,0 +1,1 @@
+should select idea submitted from the trigger value drop-down

@@ -1,0 +1,1 @@
+should select reaches stage named from the drop-down

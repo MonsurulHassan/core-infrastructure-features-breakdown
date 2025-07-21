@@ -1,0 +1,2 @@
+should create refine custom field as private field
+should not create refine custom field as private field

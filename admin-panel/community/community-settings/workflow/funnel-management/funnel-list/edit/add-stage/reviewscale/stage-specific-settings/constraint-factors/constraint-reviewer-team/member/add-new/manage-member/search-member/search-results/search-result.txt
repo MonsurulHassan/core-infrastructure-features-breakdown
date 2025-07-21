@@ -1,0 +1,6 @@
+should show the total member count in the member table
+should add all member from the member table by clicking on the add all members link
+should add member from the member table
+should navigate to the next page from the current page
+should navigate to the previous page from the next page
+should redirect to the member profile page after clicking on the member display name

@@ -1,0 +1,1 @@
+should select owner assign from the trigger value drop-down

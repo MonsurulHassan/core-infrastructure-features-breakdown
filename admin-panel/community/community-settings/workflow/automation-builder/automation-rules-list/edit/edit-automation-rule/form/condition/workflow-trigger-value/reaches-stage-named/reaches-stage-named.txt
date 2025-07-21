@@ -1,0 +1,3 @@
+should select idea submitted from the trigger value drop-down
+should select stage from the stage drop-down
+should ensure all funnel stages are shown under the stage drop-down

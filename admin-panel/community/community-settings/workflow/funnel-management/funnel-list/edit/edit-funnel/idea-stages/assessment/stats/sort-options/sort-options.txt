@@ -1,0 +1,3 @@
+should view the assessed idea list using sort options "All"
+should view the assessed idea list using sort options "Avg Rank"
+should view the assessed idea list using sort options "Rating"

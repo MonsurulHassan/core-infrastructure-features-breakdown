@@ -1,0 +1,2 @@
+should delete the funnel when confirming with "Ok" in the pop-over
+should not delete the funnel when cancelling with "Cancel" in the pop-over

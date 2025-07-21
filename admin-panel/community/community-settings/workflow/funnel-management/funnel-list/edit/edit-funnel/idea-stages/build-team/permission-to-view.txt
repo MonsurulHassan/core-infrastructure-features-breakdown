@@ -1,0 +1,2 @@
+should display user groups who have permission to view the stage activity
+should display the group name when clicking on the selected groups

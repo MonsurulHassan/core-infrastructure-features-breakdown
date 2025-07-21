@@ -1,0 +1,1 @@
+should view the rule name and enabled status

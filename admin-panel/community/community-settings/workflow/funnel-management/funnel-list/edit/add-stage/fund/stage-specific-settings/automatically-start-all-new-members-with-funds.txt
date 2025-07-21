@@ -1,0 +1,4 @@
+should enable or disable automatically start all new members with funds switch
+should diplay the "Starting Funds Per Member" field after enabling start all new members with funds switch
+should add starting fund using valid input
+should not add starting fund using invalid input

@@ -1,0 +1,4 @@
+should view the idea title and idea number
+should view the impact ratio, value score and cost score
+should view the review slider
+should view the value score weights by clicking the settings icon

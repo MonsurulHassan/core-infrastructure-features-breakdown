@@ -1,0 +1,3 @@
+should remove fund from the member using valid input
+should not remove fund from the member using invalid input
+should close the remove fund popover by cicking on the close icon

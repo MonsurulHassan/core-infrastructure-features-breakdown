@@ -1,0 +1,2 @@
+should select source stages and destination stages
+should ensure all funnels are showing with the associated stages

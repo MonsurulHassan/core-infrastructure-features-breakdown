@@ -1,0 +1,2 @@
+should delete the estimate stage when confirming with "Ok" in the pop-over
+should not delete the estimate stage when cancelling with "Cancel" in the pop-over

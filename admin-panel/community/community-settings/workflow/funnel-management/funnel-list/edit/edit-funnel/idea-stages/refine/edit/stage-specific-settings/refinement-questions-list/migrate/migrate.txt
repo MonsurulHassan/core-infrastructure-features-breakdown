@@ -1,0 +1,4 @@
+should migrate field to same funnel different refine stage
+should migarte field to the idea submission form
+should migrate field to different funnel refine stage
+should close the migrate field popover by clicking on the close icon

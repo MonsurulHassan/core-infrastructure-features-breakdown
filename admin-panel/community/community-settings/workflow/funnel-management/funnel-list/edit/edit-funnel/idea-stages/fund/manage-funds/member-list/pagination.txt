@@ -1,0 +1,3 @@
+should navigate to the next page by clicking on the page number
+should navigate to the previous page by clicking on the page number
+should view the total member count

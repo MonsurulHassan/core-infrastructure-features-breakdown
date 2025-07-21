@@ -1,0 +1,4 @@
+should add funnel with valid name and description
+should not add funnel without providing required field value
+should show HTMl tag error when enter HTML tag input in the Name and Description field
+should back to the funnel management page by clicking cancel link

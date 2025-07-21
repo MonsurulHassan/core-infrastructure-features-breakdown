@@ -1,0 +1,1 @@
+should enable or disable automatically assign idea submitter as team memebr switch

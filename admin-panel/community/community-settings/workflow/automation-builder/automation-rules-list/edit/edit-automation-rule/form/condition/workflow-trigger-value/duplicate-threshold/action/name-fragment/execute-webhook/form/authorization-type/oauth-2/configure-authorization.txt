@@ -1,0 +1,2 @@
+should configure oauth 2.0 authorization with valid input
+should not configure oauth 2.0 authorization with invalid input

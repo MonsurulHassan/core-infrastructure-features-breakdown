@@ -1,0 +1,2 @@
+should set target net vote threshold with valid input
+should not set target net vote threshold with invalid input

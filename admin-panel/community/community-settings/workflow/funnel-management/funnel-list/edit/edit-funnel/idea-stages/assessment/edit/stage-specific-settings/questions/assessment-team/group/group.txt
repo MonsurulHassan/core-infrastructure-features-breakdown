@@ -1,0 +1,3 @@
+should select all community member as value reviewer team
+should select specific group as value reviewer team
+should select team members as value reviewer team

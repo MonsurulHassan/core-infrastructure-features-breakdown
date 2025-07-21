@@ -1,0 +1,1 @@
+should view thw stage label

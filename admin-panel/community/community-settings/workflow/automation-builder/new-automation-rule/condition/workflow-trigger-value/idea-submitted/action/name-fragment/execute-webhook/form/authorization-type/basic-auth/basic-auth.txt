@@ -1,0 +1,2 @@
+should save user name and password with valid input
+should not save user name and password with invalid input

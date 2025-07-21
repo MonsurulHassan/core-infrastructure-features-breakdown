@@ -1,0 +1,6 @@
+should select moderator tag matches from the trigger value drop-down
+should select moderator tags from the drop-down
+should remove selected moderator tag
+should search moderator tag with tag name
+should search moderator tag using keyword search
+should not search moderator tag with invalid input

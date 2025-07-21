@@ -1,0 +1,6 @@
+should display the total number of campaigns where the funnel is used
+should update name and description with valid input
+should not update name and description with HTML tag input
+should not update funnel without providing required field input
+should set default stage by selecting stage from the "Default stage" drop-down
+should ensure All stage is selected as default stage by default

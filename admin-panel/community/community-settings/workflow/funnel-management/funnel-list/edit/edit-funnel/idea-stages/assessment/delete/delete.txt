@@ -1,0 +1,2 @@
+should delete the assessment stage when confirming with "Ok" in the pop-over
+should not delete the assessment stage when cancelling with "Cancel" in the pop-over

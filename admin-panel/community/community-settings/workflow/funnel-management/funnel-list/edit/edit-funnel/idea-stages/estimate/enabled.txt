@@ -1,0 +1,1 @@
+should verify whether the stage is enabled or disabled

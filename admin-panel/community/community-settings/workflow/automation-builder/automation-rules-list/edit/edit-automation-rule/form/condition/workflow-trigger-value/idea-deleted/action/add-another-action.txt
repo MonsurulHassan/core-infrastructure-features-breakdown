@@ -1,0 +1,1 @@
+should add another action by clicking on the "add another action" button

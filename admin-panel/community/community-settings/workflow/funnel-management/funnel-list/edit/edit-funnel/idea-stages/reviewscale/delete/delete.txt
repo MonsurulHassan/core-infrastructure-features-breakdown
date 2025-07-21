@@ -1,0 +1,2 @@
+should delete the reviewscale stage when confirming with "Ok" in the pop-over
+should not delete the reviewscale stage when cancelling with "Cancel" in the pop-over

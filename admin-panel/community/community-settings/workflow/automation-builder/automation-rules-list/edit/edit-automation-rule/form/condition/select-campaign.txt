@@ -1,0 +1,4 @@
+should select the campaign from the drop-down
+should search the campaign using the campaign name
+should search campaign using keyword search
+should not search campaign using the invalid input

@@ -1,0 +1,2 @@
+should allow selection of the vote counting method
+should prevent changing the vote counting method after a vote has been cast

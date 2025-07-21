@@ -1,0 +1,4 @@
+should select the target set and edited by option from the drop-down
+should search the target set and edited by option using the option name
+should search target set and edited by option using keyword search
+should not search target set and edited by option using the invalid input

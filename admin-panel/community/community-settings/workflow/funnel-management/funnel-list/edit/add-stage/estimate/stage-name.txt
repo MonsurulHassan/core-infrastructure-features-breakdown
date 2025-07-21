@@ -1,0 +1,2 @@
+should save stage name with valid inpput
+should not save stage name with HTML tag

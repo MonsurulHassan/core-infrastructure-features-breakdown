@@ -1,0 +1,4 @@
+should enable or disable edit default introduction to refinement questions switch
+should diplay the edit field after enabling edit default introduction to refinement questions switch
+should add introduction message using valid input
+should not add introduction message using invalid input

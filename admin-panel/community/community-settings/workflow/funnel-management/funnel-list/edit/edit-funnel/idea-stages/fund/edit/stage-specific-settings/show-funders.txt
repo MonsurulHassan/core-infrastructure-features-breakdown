@@ -1,0 +1,1 @@
+should enable or disable show funders switch

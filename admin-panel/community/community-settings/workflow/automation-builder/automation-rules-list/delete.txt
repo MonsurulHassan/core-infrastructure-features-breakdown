@@ -1,0 +1,2 @@
+should delete the rule after clicking "OK" from the popover
+should not delete the rule after clicking cancel from the popover

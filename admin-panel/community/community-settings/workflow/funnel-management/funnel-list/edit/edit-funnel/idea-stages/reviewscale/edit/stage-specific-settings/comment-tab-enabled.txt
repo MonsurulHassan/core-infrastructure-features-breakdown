@@ -1,0 +1,1 @@
+should enable or disable comment tab enabled switch

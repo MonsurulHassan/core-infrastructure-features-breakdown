@@ -1,0 +1,2 @@
+should send a reminder email to all unassessed members by clicking the "remind all unassessed members" link
+should show a warning alert when clicking the "remind all unassessed members" link if reminder emails have already been sent that day

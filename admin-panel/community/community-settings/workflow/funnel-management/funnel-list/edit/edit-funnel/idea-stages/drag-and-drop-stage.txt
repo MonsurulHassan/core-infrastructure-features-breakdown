@@ -1,0 +1,2 @@
+should move a stage from the front-end stages to the final stage using drag and drop
+should move a stage from the final stage to the front-end stages using drag and drop

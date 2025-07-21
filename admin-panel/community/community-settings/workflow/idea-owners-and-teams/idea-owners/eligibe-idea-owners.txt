@@ -1,0 +1,2 @@
+should select eligible idea owners
+should ensure workspace and community groups are visible in the eligible idea owners drop-down

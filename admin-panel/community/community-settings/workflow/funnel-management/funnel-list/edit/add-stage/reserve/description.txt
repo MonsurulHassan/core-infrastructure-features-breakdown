@@ -1,0 +1,2 @@
+should save description with valid inpput
+should not save description with HTML tag

@@ -1,0 +1,6 @@
+should select funnel from the funnel drop-down
+should select From stage from the stage drop-down
+should select To stage from the stage drop-down
+should show all funnel under the funnel drop-down
+should show stage with the associated funnel under the From stage drop-down
+should show stage with the associated funnel under the To stage drop-down

@@ -1,0 +1,3 @@
+should add refine custom field explanation with valid input
+should not able to add invalid input as refine custom field name in explanation field
+should view the infotip information by clicking on the infotip icon

@@ -1,0 +1,4 @@
+should select template from the template type
+should add template by clicking on the add button
+should close the modal by clicking on the close button
+should verify five templates are visible under the template drop-down

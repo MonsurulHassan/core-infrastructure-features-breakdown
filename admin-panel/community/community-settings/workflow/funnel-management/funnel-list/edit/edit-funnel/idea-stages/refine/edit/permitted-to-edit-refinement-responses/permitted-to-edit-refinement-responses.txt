@@ -1,0 +1,3 @@
+should allow all community members to be selected as permitted to edit refinement responses
+should allow a specific group to be selected as permitted to edit refinement responses
+should allow specific team members to be selected as permitted to edit refinement responses

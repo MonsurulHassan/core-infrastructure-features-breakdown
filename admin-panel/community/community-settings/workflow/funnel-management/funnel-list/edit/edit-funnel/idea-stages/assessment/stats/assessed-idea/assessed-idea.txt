@@ -1,0 +1,4 @@
+should display the rating count for the idea
+should display the assessment questions and their ratings
+should show the count of members who have completed the assessment
+should show the count of members who have not assessed the idea

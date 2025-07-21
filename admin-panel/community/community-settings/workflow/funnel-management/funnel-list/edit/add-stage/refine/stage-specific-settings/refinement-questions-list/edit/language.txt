@@ -1,0 +1,2 @@
+should select language to add refine custom field
+should not get language search value with invalid input

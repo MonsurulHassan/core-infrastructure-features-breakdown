@@ -1,0 +1,4 @@
+should redirect to the edit funnel page by clicking the cancel link
+should save the stage by clicking the save button
+should redirect to the edit funnel page by clicking the save and exit button
+should redirect to the edit funnel page by clicking the Edit Funnel link

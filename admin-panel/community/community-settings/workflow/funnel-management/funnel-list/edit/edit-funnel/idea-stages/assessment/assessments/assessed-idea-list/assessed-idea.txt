@@ -1,0 +1,7 @@
+should view the assessed idea title
+should verify clicking on the idea title redirects to the idea details page
+should verify clicking on the assessor display name redirects to the member profile page
+should view the assessment ranking and note
+should view the assessor list
+should delete the member's review when confirming with "Ok" in the pop-over
+should not delete the member's review when cancelling with "Cancel" in the pop-over

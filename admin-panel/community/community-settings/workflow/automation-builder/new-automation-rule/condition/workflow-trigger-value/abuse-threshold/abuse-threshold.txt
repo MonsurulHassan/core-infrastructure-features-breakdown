@@ -1,0 +1,4 @@
+should select abuse threshold from the trigger value drop-down
+should set condition value with valid input
+should not set condition value with invalid input
+should not set condition value with empty input

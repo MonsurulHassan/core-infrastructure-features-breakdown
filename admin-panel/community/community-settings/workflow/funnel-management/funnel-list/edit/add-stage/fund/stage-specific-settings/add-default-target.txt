@@ -1,0 +1,2 @@
+should add default target using valid input
+should not add default target using invalid input

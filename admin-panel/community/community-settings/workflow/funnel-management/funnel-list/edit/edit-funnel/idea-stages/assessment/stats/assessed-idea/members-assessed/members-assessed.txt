@@ -1,0 +1,2 @@
+should view the total assessed member list
+should view the assessed member email, member since, source, membership and email status

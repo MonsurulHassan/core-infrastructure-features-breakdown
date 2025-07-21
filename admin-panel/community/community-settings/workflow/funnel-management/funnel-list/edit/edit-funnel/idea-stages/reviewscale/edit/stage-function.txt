@@ -1,0 +1,1 @@
+should ensure stage function is read only

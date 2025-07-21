@@ -1,0 +1,3 @@
+should close the manage menber modal by clicking on the close icon
+should save the changes by clicking on the save button
+should close the manage menber modal by clicking on the close button

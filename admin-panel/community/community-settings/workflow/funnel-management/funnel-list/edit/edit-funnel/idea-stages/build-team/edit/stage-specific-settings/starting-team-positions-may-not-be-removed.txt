@@ -1,0 +1,1 @@
+should enable or disable starting team ositions may not be removed switch

@@ -1,0 +1,4 @@
+should select the currency type from the drop-down
+should search the currency type using the currency name
+should search currency using keyword search
+should not search currency using the invalid input

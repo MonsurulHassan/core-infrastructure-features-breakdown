@@ -1,0 +1,3 @@
+should search member using the valid email
+should not search member using invalid input
+should show HTML error when search using HTML tag 

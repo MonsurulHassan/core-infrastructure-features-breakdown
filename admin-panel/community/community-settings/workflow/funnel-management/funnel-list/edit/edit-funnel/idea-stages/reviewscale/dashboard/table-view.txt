@@ -1,0 +1,3 @@
+should view the reviewed idea list
+should view the idea number, idea title, cost score, constraints, impact ration and vector chart
+should navigate to the next page by clicking on the page number

@@ -1,0 +1,2 @@
+should add new value factor
+should remove value factor

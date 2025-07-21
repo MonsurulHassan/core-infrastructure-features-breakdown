@@ -1,0 +1,1 @@
+should redirect to the edit funnel page by clicking on the return to funnel link

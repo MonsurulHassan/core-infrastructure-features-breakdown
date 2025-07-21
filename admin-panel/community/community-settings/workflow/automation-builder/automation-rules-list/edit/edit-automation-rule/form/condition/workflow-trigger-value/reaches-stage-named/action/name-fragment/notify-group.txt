@@ -1,0 +1,3 @@
+should select group from the group drop-down
+should ensure workspace and community level groups are shown under the group drop-down
+should ensure "here" link redirects to the community group management page 

@@ -1,0 +1,3 @@
+should select label from the label drop-down
+should remove the selected label from the label field
+should show system label and custom label in the drop-down

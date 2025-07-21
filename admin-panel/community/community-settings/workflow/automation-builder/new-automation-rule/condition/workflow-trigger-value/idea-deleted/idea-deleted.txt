@@ -1,0 +1,1 @@
+should select idea deleted from the trigger value drop-down

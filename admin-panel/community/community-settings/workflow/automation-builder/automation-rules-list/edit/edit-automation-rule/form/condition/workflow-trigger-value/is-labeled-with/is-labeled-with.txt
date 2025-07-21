@@ -1,0 +1,6 @@
+should select is labeled with from the trigger value drop-down
+should select label from the drop-down
+should remove selected label
+should search label with label name
+should search label using keyword search
+should not search label with invalid input

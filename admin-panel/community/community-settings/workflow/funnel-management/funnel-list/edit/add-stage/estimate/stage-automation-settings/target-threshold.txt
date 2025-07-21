@@ -1,0 +1,2 @@
+should set target threshold with valid input
+should not save target threshold with invalid input

@@ -1,0 +1,1 @@
+should ensure webhook configuration form appears after saving the rule

@@ -1,0 +1,1 @@
+should select idea modify from the trigger value drop-down

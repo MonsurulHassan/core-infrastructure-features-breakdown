@@ -1,0 +1,2 @@
+should delete the role after typing "DELETE" in the Type DELETE to confirm field
+should not delete the role after typing invalid input in the Type DELETE to confirm field

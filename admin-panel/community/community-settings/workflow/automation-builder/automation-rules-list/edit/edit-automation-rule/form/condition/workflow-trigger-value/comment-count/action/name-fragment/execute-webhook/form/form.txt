@@ -1,0 +1,3 @@
+should enable or disable enabled switch
+should save the rule by clicking the save button
+should close the add new rule page by clicking the cancel button

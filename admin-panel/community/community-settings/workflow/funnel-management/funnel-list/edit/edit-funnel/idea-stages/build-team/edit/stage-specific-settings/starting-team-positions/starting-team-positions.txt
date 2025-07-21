@@ -1,0 +1,4 @@
+should dispaly the statring team positions count
+should add new team position
+should remove team position
+should scroll the team position list

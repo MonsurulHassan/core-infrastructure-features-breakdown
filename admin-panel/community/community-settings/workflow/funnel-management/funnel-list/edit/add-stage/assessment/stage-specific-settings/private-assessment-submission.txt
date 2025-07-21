@@ -1,0 +1,3 @@
+should enable or disable private assessment submission switch
+should diplay the "Display Anonymized Assessments To Stage Viewers" switch after enabling private assessment submission switch
+should enable or disable "Display Anonymized Assessments To Stage Viewers" switch

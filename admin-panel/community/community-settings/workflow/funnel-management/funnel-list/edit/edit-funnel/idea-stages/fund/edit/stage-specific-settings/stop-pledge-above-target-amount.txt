@@ -1,0 +1,1 @@
+should enable or disable stop pledge above target amount of an idea switch

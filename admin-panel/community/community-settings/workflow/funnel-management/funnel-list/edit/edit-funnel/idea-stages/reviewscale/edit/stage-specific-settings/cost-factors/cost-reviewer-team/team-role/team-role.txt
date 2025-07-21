@@ -1,0 +1,5 @@
+should diplay the all team role
+should select the team role
+should deselect the team role
+should display add team role link when team role is not present
+should ensure add team role link redirects to the add team role page

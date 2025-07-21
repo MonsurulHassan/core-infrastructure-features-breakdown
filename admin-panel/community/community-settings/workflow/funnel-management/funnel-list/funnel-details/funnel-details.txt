@@ -1,0 +1,6 @@
+should expand and collapse the funnel
+should expand funnel by clicking on the read more link
+should display the names of campaigns where the funnel is used
+should show the all stage under the funnel
+should display the total idea count for each stage
+should show an info-tip next to the delete link

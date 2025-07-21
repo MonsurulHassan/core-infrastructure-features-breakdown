@@ -1,0 +1,3 @@
+should view the key section
+should customize key value with valid input
+should not customize key value with HTML tag input

@@ -1,0 +1,7 @@
+should mark the stage as "Selected"
+should mark the stage as "Implemented"
+should mark the archive stage as "In Reserve"
+should display the report idea pop-up when marking the first stage as "Selected" or "Implemented"
+should mark the next stage as "Selected" by clicking "change to selected" in the report idea pop-up
+should mark the next stage as "Implemented" by clicking "change to implemented" in the report idea pop-up
+should dismiss the report idea pop-up
