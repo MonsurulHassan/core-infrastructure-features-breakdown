@@ -1,0 +1,2 @@
+should disable "exlude private ideas from statistics" switch
+should enable "exlude private ideas from statistics" switch

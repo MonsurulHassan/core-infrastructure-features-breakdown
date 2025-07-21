@@ -1,0 +1,4 @@
+should add email domains as auto approve list
+should not allow to add invalid email domain as auto approve list
+should search auto approved email domain by domain name
+should delete email domain from auto approve list

@@ -1,0 +1,2 @@
+should set global session timeout for previleged users
+should not able to set invalid input as global session timeout for previleged users

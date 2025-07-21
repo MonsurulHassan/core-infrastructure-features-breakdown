@@ -1,0 +1,3 @@
+should select Trending as default ideas filter
+should select Recent as default ideas filter
+should select Idea Views as default ideas filter

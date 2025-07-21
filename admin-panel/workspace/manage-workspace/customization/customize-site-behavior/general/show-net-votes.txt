@@ -1,0 +1,3 @@
+should disable "show net votes"
+should enable "show net votes" and show up and down vote counts
+should enable "show net votes" and not show up and down vote counts

@@ -1,0 +1,3 @@
+should make sso_google default
+should edit the sso_google
+should delete the sso_google

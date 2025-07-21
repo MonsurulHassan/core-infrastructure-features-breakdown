@@ -1,0 +1,5 @@
+should check the header name and description
+should redirect to the help article of the 2 step authentication
+should disable "Require 2 Step Authentication" switch
+should enable "Require 2 Step Authentication" switch and set every 30 days a user use the second authentication step
+should enable "Require 2 Step Authentication" switch and set "Do not support trusted devices"

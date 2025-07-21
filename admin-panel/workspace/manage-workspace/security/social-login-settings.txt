@@ -1,0 +1,6 @@
+should check the header name and description
+should redirect to help article of the social login settings
+should enable and disable google login
+should enable and disable linkedin login
+should enable and disable apple login
+should enable and disable microsoft login

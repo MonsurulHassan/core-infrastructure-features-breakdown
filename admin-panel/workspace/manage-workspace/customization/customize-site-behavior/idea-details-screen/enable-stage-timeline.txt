@@ -1,0 +1,2 @@
+should disable "enable stage timeline" switch
+should enable "enable stage timeline" switch

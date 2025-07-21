@@ -1,0 +1,2 @@
+should enable "allow members to upload profile pictures" switch
+should disable "allow members to upload profile pictures" switch

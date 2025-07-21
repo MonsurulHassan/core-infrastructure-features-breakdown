@@ -1,0 +1,4 @@
+should add email domains as blocklist
+should not allow to add invalid email domain as blocklist
+should search blocked email domain by domain name
+should delete email domain from blocklist

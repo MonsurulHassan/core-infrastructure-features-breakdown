@@ -1,0 +1,2 @@
+should check the page header name and description
+should redirect to help article of look & feel

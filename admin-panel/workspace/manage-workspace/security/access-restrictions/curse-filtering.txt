@@ -1,0 +1,5 @@
+should check the header name and description
+should redirect to the help article of curse filtering
+should disable curse filtering
+should enable curse filtering and add keyword and emoji to be filtered
+should not be able to add invalid keyword and emoji as curse filtering

@@ -1,0 +1,5 @@
+should check the search/manage strings header name and description
+should redirect to the help article of search/manage strings
+should set language 
+should search strings filtered by text
+should customize the string

@@ -1,0 +1,3 @@
+should check the header name and description
+should redirect to the help article of approvals required
+should enable and disable "New Members Approval" switch

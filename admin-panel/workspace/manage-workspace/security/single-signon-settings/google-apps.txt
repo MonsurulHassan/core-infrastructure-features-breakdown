@@ -1,0 +1,2 @@
+should add google-apps type sso
+should not able to add google-apps type sso with invalid inputs

@@ -1,0 +1,1 @@
+should enable and disable "Allow Auto-Login for Actions by Email Token" switch

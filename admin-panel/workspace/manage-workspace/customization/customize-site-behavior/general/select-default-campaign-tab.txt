@@ -1,0 +1,4 @@
+should select Ideas as default campaign tab
+should select About as default campaign tab
+should select Team as default campaign tab
+should select Workflow as default campaign tab

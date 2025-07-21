@@ -1,0 +1,3 @@
+should select Compact View as default view
+should select Grid View as default view
+should select List View as default view

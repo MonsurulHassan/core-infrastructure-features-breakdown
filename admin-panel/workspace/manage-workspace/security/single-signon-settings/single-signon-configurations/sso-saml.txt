@@ -1,0 +1,5 @@
+should edit the sso_saml
+should map saml attributes
+should not map saml attributes with invalid inputs
+should add saml login condition attributes
+should not add saml login condition attributes with invalid inputs

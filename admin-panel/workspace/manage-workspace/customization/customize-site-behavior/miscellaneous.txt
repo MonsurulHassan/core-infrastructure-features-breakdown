@@ -1,0 +1,4 @@
+should enable and disable "automatically vote for own idea" switch
+should enable and disable "username setup required" switch
+should enable and disable "enable @username" switch
+should enable and disable "private messaging on/off" switch

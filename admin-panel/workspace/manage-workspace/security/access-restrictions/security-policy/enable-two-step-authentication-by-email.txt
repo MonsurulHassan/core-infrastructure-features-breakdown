@@ -1,0 +1,3 @@
+should disable "Enable Two Step Authentication by Email" switch
+should enable "Enable Two Step Authentication by Email" and set email based otp expire time
+should not able to set invalid input as email based otp expire time

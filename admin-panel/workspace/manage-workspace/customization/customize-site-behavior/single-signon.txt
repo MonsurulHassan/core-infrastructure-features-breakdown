@@ -1,0 +1,2 @@
+should enable "allow to access ideascale profile" switch
+should disable "allow to access ideascale profile" switch

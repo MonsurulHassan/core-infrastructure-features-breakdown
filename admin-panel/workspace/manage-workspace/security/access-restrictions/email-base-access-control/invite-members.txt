@@ -1,0 +1,5 @@
+should disable "Invite Members" switch
+should add email domains in invite members allow list
+should not allow to add invalid email domain in invite members allow list
+should search added email domain by domain name
+should delete added email domain from invite members allow list

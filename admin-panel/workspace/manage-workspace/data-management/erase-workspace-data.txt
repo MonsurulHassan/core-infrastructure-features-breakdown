@@ -1,0 +1,4 @@
+should check header name and description
+should redirect to help article of the Erase Workspace Data
+should erase unassigned members
+should not erase unassidned members with invalid inputs in confirmation field

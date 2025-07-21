@@ -1,0 +1,3 @@
+should disable the "Strict Transport Security" switch
+should enable the "Strict Transport Security" switch and set max age
+should not able to set invalid input as max age

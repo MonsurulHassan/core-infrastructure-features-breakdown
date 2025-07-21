@@ -1,0 +1,2 @@
+should enable "Remember Me"
+should not enable "Remember Me"

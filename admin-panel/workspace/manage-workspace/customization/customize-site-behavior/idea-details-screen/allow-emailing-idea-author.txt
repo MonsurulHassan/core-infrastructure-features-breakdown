@@ -1,0 +1,2 @@
+should disable "allow emailing idea author" switch
+should enable "allow emailing idea author" switch

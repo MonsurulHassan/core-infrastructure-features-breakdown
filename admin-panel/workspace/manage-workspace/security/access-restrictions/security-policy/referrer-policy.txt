@@ -1,0 +1,2 @@
+should disable the "Referrer Policy" switch
+should enable the "Referrer Policy" switch and select the referrer policy

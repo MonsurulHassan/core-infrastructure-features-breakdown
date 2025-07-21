@@ -1,0 +1,7 @@
+should check the page header name and description
+should redirect to help article of workspace logo
+should upload image as workspace logo
+should not allow invalid image format as workspace logo
+should not allow exceeded file size as workspace logo
+should set workspace home page logo redirect link
+should not set invalid input as workspace home page logo redirect link

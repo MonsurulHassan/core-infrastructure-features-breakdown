@@ -1,0 +1,2 @@
+should disable the "Content Security Policy" switch
+should enable the "Content Security Policy" switch

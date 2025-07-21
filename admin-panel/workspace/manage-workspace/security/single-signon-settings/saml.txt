@@ -1,0 +1,2 @@
+should add saml type sso
+should not able to add saml type sso with invalid inputs

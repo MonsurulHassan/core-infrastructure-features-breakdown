@@ -1,0 +1,5 @@
+should check the page header name and description
+should redirect to help article of custom favicon
+should upload image as custom favicon
+should not allow invalid image format as custom favicon
+should not allow exceeded file size as custom favicon

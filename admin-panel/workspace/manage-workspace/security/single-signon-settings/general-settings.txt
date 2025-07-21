@@ -1,0 +1,7 @@
+should enable and disable "Remove/Sync groups when group is empty" switch
+should enable and disable "Want Assertion Signing" switch
+should enable and disable "Authn Requests Signed" switch
+should enable and disable "Redirect to SSO Login Automatically" switch
+should enable and disable "Ideascal Email/Password Login" switch
+should enable and disable "Allow members/persons to change username" switch
+should enable and disable "Enable username prompt" switch

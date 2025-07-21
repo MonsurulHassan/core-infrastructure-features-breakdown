@@ -1,0 +1,2 @@
+should disable "vote down"
+should enable "vote down"

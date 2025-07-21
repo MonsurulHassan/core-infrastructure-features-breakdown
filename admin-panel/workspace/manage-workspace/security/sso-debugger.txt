@@ -1,0 +1,5 @@
+should check header name and description
+should redirect to help article of sso debugger
+should see successful sso login attemps
+should see failed sso login attemps
+should not debug sso login attemps with invalid inputs

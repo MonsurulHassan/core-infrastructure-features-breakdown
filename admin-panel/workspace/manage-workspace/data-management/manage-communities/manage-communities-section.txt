@@ -1,0 +1,7 @@
+should check header name and description
+should redirect to help article of Manage Communites
+should redirect to community or campaign home page after clicking on community name
+should redirect to community settings page after clicking on "Administer" link
+should not display the "Delete" link for a single community in the workspace
+should delete the community
+should not delete the community with invalid inputs in confirmation field

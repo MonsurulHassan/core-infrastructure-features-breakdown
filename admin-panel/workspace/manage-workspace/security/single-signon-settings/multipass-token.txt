@@ -1,0 +1,2 @@
+should add multipass token type sso
+should not able to add multipass token type sso with invalid inputs

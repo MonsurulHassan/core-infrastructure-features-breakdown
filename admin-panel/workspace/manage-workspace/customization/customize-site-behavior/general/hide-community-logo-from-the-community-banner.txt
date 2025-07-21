@@ -1,0 +1,2 @@
+should disable "hide community logo from the community banner" switch
+should enable "hide community logo from the community banner" switch

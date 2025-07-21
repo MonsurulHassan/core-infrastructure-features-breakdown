@@ -1,0 +1,3 @@
+should set idea body length
+should remain set 0 as unlimited idea body length by default
+should not able to set invalid input as idea body length

@@ -1,0 +1,2 @@
+should set allowed file extensions
+should not be able to set invalid input as allowed file extensions

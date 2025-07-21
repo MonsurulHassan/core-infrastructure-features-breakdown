@@ -1,0 +1,4 @@
+should not redirect to community home page after clicking on the community title
+should undelete the community
+should permanently delete the community
+should not delete the community permanently with invalid inputs in confirmation field

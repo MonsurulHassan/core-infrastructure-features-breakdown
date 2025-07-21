@@ -1,0 +1,2 @@
+should disable "show vote details in activity stream" switch
+should enable "show vote details in activity stream" switch

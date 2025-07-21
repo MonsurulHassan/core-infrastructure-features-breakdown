@@ -1,0 +1,2 @@
+should set Maximum allowed inactive days
+should not able to set invalid input as Maximum allowed inactive days
