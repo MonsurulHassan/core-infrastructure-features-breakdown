@@ -1,0 +1,2 @@
+should view the group names if the member is added to any group
+should not show the group name if the member is not added to any group

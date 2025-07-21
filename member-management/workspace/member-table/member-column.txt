@@ -1,0 +1,3 @@
+should sort the members in ascending and descending order
+should contain member avatar, display name and username
+should change the column width

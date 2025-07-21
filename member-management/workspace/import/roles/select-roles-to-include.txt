@@ -1,0 +1,4 @@
+should select "All" roles to include in template
+should select "Workspace Administrator" role to include in template
+should select "Workspace Translation Moderator" role to include in template
+should remove the selected role from the "Select roles to include in template" field

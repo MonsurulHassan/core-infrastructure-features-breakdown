@@ -1,0 +1,4 @@
+should unlock the locked members
+should not able to unlock the unlocked members
+should not able to unlock members without selecting members
+should cancel unlocking members

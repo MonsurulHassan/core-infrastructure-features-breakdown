@@ -1,0 +1,6 @@
+should view member avatar, display name, username and email address
+should send message to the member
+should not send message without message body
+should not allow invalid inputs in "Subject" field
+should close the "Compose New Message" modal
+should redirect to the member's profile page after clicking on "View Profile"

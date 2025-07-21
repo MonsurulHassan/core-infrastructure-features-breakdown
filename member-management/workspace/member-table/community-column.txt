@@ -1,0 +1,4 @@
+should contain member's assigned community
+should not show any community if member has not assigned community
+should show the community names in details after clicking on three dots notation
+should change the column width

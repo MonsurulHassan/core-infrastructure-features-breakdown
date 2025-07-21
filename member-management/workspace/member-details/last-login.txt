@@ -1,0 +1,2 @@
+should view the last login time of the member
+should not show the last login time if the member has not logged in yet

@@ -1,0 +1,7 @@
+should add members to the communities
+should search community by community name
+should not search community by invalid inputs
+should select and deselect all communities
+should close the "Add to Community" modal
+should change the page size in pagination
+should not add members to the community without selecting member

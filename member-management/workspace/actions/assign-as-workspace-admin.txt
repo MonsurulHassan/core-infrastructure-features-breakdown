@@ -1,0 +1,3 @@
+should assign members as Worksapce Administrator
+should not assign members as Worksapce Administrator without selecting member
+should cancel assigning members as Worksapce Administrator

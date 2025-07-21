@@ -1,0 +1,4 @@
+should delete members
+should delete members and their contributions
+should not able to delete member without selecting member
+should cancel deleting members

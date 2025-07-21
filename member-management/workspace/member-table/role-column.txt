@@ -1,0 +1,3 @@
+should contain member's role
+should change the column width
+should show "+1" for more than one role

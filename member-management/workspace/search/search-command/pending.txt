@@ -1,0 +1,2 @@
+should search member with "Pending" search command
+should not allow search member by invalid search value

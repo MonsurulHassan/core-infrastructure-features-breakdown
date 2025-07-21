@@ -1,0 +1,3 @@
+should view community logo, name, status icon in drop down list
+should search and select community with community name
+should not search community with invalid name

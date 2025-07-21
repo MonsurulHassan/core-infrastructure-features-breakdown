@@ -1,0 +1,2 @@
+should view the "Accepted" invitation status of the member
+should view the "Yet to Join" invitation status of the member

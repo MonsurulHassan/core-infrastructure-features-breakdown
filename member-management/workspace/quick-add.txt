@@ -1,0 +1,4 @@
+should add new member(s)
+should not add member by invalid email address
+should not add member for more than 3000 email addresses
+should cancel adding new member

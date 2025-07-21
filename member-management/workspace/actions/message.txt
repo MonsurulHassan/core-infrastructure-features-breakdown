@@ -1,0 +1,6 @@
+should send message to members
+should not send message without selecting members
+should not send message without receipient and message body
+should remove the message receipient from the "To" field
+should not allow invalid inputs in "Subject" field
+should close the "Compose New Message" modal

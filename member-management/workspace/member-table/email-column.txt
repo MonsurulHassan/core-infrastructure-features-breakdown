@@ -1,0 +1,3 @@
+should sort the member's email address in ascending and descending order
+should contain member's email address
+should change the column width

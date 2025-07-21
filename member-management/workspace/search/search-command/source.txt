@@ -1,0 +1,4 @@
+should search member by "admin" source
+should search member by "upload" source
+should search member by "sso" source
+should not allow search member by invalid search value

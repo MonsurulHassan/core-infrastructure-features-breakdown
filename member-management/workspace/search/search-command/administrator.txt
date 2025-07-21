@@ -1,0 +1,2 @@
+should search member by "Workspace Administrator"
+should not allow search member by invalid search value

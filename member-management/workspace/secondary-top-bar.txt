@@ -1,0 +1,4 @@
+should view Workspace Member Management page title
+should redirect to the help article of Workspace Member Management
+should "Members" link remain selected in Workspace Member Management page
+should redirect to Workspace Group Management page after clicking on "Groups" link

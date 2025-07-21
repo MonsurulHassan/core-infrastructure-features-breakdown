@@ -1,0 +1,4 @@
+should search member by "Administrator" role
+should search member by "Translation Moderator" role
+should search member by "Workspace Member" role
+should not allow search member by invalid search value
