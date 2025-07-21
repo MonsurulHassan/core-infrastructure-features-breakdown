@@ -1,0 +1,4 @@
+should redirect to manage workspace page after clicking on Manage Workspace
+should redirect to new reporting page after clicking on Reporting
+should redirect to legacy reporting page after clicking on Reporting (Sunsetting Soon)
+should "Member Management" link remain selected and redirect to workspace member management page clicking on Member Management

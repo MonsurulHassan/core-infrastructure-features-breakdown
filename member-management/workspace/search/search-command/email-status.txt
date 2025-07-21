@@ -1,0 +1,7 @@
+should search member by "Assumed" email status
+should search member by "No email sent" email status
+should search member by "Sent" email status
+should search member by "Bounced" email status
+should search member by "Verified" email status
+should search member by "Reverification required" email status
+should not allow search member by invalid search value

@@ -1,0 +1,7 @@
+should add members to the groups
+should search group by group name
+should "Add to Group(s)" modal has alert info and groups allowing manual assignment method are available in group selection list
+should not search group by invalid inputs
+should remove a single group and all the groups from the group options list
+should close the "Add to Group(s)" modal
+should not add members to the group without selecting member

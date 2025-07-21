@@ -1,0 +1,3 @@
+should view "Sent" email status of the member 
+should view "Verified" email status of the member 
+should view "No email sent" email status of the member 

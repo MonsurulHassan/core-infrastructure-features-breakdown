@@ -1,0 +1,1 @@
+should go to invite members page after clicking on Invite Members

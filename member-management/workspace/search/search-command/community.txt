@@ -1,0 +1,2 @@
+should search member by communities
+should not allow search member by invalid search value

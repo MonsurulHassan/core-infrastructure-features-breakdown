@@ -1,0 +1,6 @@
+should remove members from the groups
+should search group by group name
+should not search group by invalid inputs
+should remove a single group and all the groups from the group options list
+should close the "Remove from Group(s)" modal
+should not remove members from the group without selecting member

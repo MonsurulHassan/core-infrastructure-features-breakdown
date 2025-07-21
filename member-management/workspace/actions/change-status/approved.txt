@@ -1,0 +1,3 @@
+should mark member as Approved
+should cancel marking member as Approved
+should not mark member as Approved without selecting member

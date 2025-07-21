@@ -1,0 +1,3 @@
+should view the accessable community names of the member
+should view the community logo and membership state badge beside the community name
+should not show the accessable community name if the member is not a community member

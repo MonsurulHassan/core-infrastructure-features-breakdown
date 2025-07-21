@@ -1,0 +1,3 @@
+should mark member as Banned
+should cancel marking member as Banned
+should not mark member as Banned without selecting member

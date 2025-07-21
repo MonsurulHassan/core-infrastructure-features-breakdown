@@ -1,0 +1,6 @@
+should redirect to help article of Bulk Import Usernames
+should import bulk usernames by file upload
+should not import bulk usernames without file upload
+should not import bulk usernames status by invalid file format
+should not import bulk usernames status by exceeded file size
+should cancel the Bulk Import of usernames

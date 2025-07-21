@@ -1,0 +1,8 @@
+should redirect to help article of Bulk Import Members
+should import bulk members by file upload
+should not import bulk members without file upload
+should not import bulk members by invalid file format
+should not import bulk members by exceeded file size
+should import bulk members by enabling the "Disable Verification Email" switch
+should import bulk members by enabling the "Set Group" switch
+should cancel Bulk Import of Members

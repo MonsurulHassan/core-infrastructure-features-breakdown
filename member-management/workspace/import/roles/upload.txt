@@ -1,0 +1,7 @@
+should redirect to help article of Bulk Import Roles
+should generate template
+should import bulk Roles by file upload
+should not import bulk Roles without file upload
+should not import bulk Roles status by invalid file format
+should not import bulk Roles status by exceeded file size
+should cancel the Bulk Import of Roles

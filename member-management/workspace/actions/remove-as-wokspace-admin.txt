@@ -1,0 +1,3 @@
+should remove members from Worksapce Administrator
+should not remove members from Worksapce Administrator without selecting member
+should cancel removing members from Worksapce Administrator
