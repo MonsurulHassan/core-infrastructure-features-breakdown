@@ -1,0 +1,6 @@
+should select language from the language selection drop-down
+should not show search result when searche language using invalid input
+should search language using keyword
+should save campign group using valid input
+should not save campign group name with HTML input
+should not save campign group name with empty input

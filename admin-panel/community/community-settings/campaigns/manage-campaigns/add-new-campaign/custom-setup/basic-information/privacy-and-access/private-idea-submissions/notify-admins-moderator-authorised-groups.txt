@@ -1,0 +1,1 @@
+should enable or disable the Notify Admins, Moderators and authorised groups switch

@@ -1,0 +1,7 @@
+should select stage from the stage selection drop-down
+should search search using keyword
+should search stage using stage name
+should not show search result when search using invalid input
+should show all funnel stages associated with the campaign in the campaign drop-down
+should show the stages associated with the selected campaign when campaign is selected in the campaign drop-down
+should remove selected stage from the select stage field

@@ -1,0 +1,3 @@
+1. should disable Receive email notifications for new Ideas
+2. should enable Receive email notifications for new Ideas
+3. should view info tip and alert info

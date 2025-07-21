@@ -1,0 +1,4 @@
+should add inactive days threshold with range between 1 to 60
+should not add inactive days threshold with value smaller than 1
+should not add inactive days threshold with value greater than 60
+should not add inactive days threshold with invalid value

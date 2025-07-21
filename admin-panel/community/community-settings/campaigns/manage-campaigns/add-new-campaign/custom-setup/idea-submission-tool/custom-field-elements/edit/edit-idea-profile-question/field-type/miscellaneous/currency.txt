@@ -1,0 +1,1 @@
+should add Currency type idea custom field

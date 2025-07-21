@@ -1,0 +1,4 @@
+1. should header display "Subscription Dashboard"
+2. should Current Subscription module remain expand by default
+3. should collapse and expand the Current Subscription module
+4. should Current Subscription module contain subscription name, logo, end date

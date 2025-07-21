@@ -1,0 +1,3 @@
+should enable or disable the allow anonymous idea submission switch
+should ensure idea anonymous by default switch visibility after enabling the allow anonymous idea submission switch
+should enable or disable the idea anonymous by default switch

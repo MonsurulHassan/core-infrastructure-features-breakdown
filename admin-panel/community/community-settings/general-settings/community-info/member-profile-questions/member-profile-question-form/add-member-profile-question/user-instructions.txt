@@ -1,0 +1,1 @@
+should add user instruction in all the available formats of rich text editor

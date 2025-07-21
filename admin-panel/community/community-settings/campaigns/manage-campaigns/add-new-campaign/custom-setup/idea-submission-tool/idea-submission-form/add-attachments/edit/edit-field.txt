@@ -1,0 +1,2 @@
+should enable or disable make file attachment mandatory switch
+should restore the changes

@@ -1,0 +1,2 @@
+should save email invitation with valid subject line field
+should not save email invitation with HTML input in the subject line field

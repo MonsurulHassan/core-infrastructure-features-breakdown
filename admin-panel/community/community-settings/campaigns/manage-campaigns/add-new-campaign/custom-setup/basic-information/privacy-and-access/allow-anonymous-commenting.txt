@@ -1,0 +1,3 @@
+should enable or disable the allow anonymous commenting switch
+should ensure comment anonymous by default switch visibility after enabling the allow anonymous commenting switch
+should enable or disable the comment anonymous by default switch

@@ -1,0 +1,2 @@
+should add rule name with valid input
+should show HTML tag alert for the HTML input in the rule name field

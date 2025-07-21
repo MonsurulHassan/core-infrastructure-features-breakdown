@@ -1,0 +1,1 @@
+should save challenge statement with all type rich text editor features

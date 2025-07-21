@@ -1,0 +1,2 @@
+should open the add sponsor modal after clicking on the Add campaign sponsor button
+should close the add sponsor modal

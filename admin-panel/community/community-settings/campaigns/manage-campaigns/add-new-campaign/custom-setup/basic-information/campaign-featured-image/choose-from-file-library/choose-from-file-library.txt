@@ -1,0 +1,3 @@
+should upload image using browse file option
+should upload image using drag & drop file option
+should select image from the file library

@@ -1,0 +1,4 @@
+should enable or disable the terms of service switch
+should add terms of service introductory message using valid data
+should show HTML tag error for HTML tag input in the terms of service introductory message field
+should add terms of service content using all type of rich text editor format

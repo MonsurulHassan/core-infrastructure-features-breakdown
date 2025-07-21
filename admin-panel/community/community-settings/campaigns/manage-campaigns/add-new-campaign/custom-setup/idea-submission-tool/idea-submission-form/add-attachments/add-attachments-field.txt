@@ -1,0 +1,2 @@
+should drag and drop add attachments field
+should remove the add attachments field

@@ -1,0 +1,2 @@
+should update community member profile question as private field
+should update community member profile question disabling private field

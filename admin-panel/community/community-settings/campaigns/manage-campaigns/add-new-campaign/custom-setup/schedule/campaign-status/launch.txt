@@ -1,0 +1,1 @@
+should launch campaign clicking on the launch button

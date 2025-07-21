@@ -1,0 +1,5 @@
+should view the daily email count
+should view the weekly email count
+should send weekly email notification manually by clicking on the "Send Manual Notification"
+should view the real time email count
+should vie wthe none count

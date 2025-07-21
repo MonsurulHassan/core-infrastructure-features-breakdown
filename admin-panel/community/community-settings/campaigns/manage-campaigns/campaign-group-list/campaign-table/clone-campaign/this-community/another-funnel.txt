@@ -1,0 +1,5 @@
+should select funnel
+should search funnel using keyword search
+should search funnel using funnel name
+should not show search result when search using invalid input
+should not submit form without selecting funnel

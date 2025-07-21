@@ -1,0 +1,1 @@
+should add idea custom field as team only field

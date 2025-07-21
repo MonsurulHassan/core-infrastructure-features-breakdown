@@ -1,0 +1,2 @@
+1. should disable Receive assessment reminder emails
+2. should enable Receive assessment reminder emails

@@ -1,0 +1,2 @@
+1. should disable Receive email notifications when you are assigned as a team member
+2. should enable Receive email notifications when you are assigned as a team member

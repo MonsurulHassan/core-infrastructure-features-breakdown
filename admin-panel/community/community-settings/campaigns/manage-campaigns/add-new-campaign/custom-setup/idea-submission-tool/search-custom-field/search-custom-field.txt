@@ -1,0 +1,4 @@
+should search custom field using the custom field name
+should search custom field using keyword search
+should not show search result when search using invalid input
+should show HTML error when search using HTML tag

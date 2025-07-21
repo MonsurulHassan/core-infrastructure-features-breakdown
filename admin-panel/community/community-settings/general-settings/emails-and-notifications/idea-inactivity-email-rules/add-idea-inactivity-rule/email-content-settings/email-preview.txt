@@ -1,0 +1,6 @@
+should view the email preview
+should show the email message in the email preview section
+should show the idea title in the email preview section
+should show the "Inactive for days" count in the email preview section
+should show the email banner logo in the email preview section
+should show the "Revist your idea" link in the email preview section

@@ -1,0 +1,6 @@
+should view the email preview
+should show the email message in the email preview section
+should show the community URL in the email preview section
+should show the campaign name in the email preview section
+should show the email banner logo in the email preview section
+should show the "Cick here to contribute to this campaign" link in the email preview section

@@ -1,0 +1,2 @@
+1. should disable Receive Broadcast emails
+2. should enable Receive Broadcast emails

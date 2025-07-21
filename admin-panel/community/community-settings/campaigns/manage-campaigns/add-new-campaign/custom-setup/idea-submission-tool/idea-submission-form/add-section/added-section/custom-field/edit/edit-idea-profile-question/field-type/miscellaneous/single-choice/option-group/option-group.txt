@@ -1,0 +1,7 @@
+should add Single Choice type idea custom field with default option group
+should add Single Choice type idea custom field with multiple option groups
+should able to change the order of option groups in Single Choice type idea custom field
+should able to change the order of options inside the option group in Single Choice type idea custom field
+should not able to remove the option group without removing option in Single Choice type idea custom field
+should not able to create option group with more than 100 characters
+should not able to create option group without option

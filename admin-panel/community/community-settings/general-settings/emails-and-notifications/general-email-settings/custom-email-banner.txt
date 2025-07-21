@@ -1,0 +1,5 @@
+1. should check custom email banner header name and description
+2. should redirect to custom email banner help article after clicking on "Click here for more information"
+3. should set default custom email banner
+4. should set uploaded image as custom email banner
+5. should set no banner as custom email banner

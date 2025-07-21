@@ -1,0 +1,6 @@
+1. should check campaign moderator's name, community name and role after assigning and removing member as campaign moderator
+2. should redirect to campaign moderators settings page after clicking on the community name
+3. should not show the campaign moderator after marking as pending and banned at workspace level
+4. should not show the campaign moderator after marking as pending and banned at community level
+5. should not show the campaign moderator after leaving the community
+6. should not show the campaign moderator after deleting the campaign

@@ -1,0 +1,5 @@
+should view the campaign title
+should view the campaign description
+should ensure the campaign is private or not
+should ensure campaign is archived or not
+should ensure campaign is launched or not

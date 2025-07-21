@@ -1,0 +1,2 @@
+1. should enable Receive import report emails
+2. should disable Receive import report emails

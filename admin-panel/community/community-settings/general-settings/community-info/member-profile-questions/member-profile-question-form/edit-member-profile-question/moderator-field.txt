@@ -1,0 +1,3 @@
+should update community member profile question as moderator field visible to normal members
+should update community member profile question as moderator field not visible to normal members
+should not update community member profile question as moderator field

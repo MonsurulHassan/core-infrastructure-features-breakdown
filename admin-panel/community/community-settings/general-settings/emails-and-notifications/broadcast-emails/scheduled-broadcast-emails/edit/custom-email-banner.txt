@@ -1,0 +1,3 @@
+should upload banner image using browse file
+should upload banner image using Drag & drop
+should choose image from the file library

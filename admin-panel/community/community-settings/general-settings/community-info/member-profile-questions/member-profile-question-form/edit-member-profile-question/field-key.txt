@@ -1,0 +1,2 @@
+should update field key in valid form
+should not keep field key field blank during update

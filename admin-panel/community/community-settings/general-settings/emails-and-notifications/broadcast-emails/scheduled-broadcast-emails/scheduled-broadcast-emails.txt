@@ -1,0 +1,3 @@
+should view the scheduled send date
+should view the subject line
+should view the receipients

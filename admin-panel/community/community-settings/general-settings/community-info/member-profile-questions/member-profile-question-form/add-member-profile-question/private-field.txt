@@ -1,0 +1,2 @@
+should create community member profile question as private field
+should not create community member profile question as private field

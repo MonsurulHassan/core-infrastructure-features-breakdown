@@ -1,0 +1,2 @@
+1. should disable Receive idea inactivity emails
+2. should enable Receive idea inactivity emails

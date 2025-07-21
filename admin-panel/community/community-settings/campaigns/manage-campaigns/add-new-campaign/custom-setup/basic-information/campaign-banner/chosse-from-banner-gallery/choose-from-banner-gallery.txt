@@ -1,0 +1,2 @@
+should select imgae from the banner gallery
+should scroll the banner image from the gallery

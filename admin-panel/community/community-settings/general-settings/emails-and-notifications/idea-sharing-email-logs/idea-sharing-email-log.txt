@@ -1,0 +1,5 @@
+should view the idea sharing email send date
+should view the Source/From name
+should view the idea sharing email subject
+should view the total email sent count
+should view the total bounce count

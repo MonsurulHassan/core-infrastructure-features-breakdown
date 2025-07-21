@@ -1,0 +1,2 @@
+should drag and drop idea submission elements to the idea submission form
+should ensure Submit idea on behalf of, Add co-submitter and Tags elements are present in the idea submission elements section

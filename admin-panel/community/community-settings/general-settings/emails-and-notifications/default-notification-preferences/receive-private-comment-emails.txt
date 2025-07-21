@@ -1,0 +1,2 @@
+1. should enable Receive private comment emails
+2. should disable Receive private comment emails

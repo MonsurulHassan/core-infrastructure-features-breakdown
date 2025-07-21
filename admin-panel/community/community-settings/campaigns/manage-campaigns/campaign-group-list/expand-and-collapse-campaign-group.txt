@@ -1,0 +1,4 @@
+should show expanded the first campaign group by default
+should collapsed all campaign group except the first campaign group by default
+should expand the campagin group
+should collapse the campagin group

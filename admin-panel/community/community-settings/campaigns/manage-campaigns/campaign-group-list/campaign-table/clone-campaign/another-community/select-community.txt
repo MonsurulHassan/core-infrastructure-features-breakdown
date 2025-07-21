@@ -1,0 +1,6 @@
+should select community
+should search community using keyword search
+should search community using community name
+should not show search result when search using invalid input
+should not submit form without selecting community group
+should show the lock icon besides the private community in the community selection drop-down

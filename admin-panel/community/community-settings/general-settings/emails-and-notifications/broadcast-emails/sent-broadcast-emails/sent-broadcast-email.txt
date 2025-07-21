@@ -1,0 +1,3 @@
+should view the sent dateshould view the subject lineshould view the receipients
+should vie thw total sent count
+should view the bounce count

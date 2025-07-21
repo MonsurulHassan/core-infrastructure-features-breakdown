@@ -1,0 +1,3 @@
+should show community member profile question on registration form
+should not show community member profile question on registration form
+should community member profile question shown on registration form not be required

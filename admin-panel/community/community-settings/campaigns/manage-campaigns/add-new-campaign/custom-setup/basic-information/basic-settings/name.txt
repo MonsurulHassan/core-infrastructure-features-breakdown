@@ -1,0 +1,4 @@
+should save name with valid input
+should show HTML tag alert for HTML input in the name field
+should ensure name field is mandatory
+should ensure Name cannot contain more than 128 characters.

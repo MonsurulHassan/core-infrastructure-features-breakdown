@@ -1,0 +1,2 @@
+1. should enable digest notifications globally
+2. should disable digest notifications globally

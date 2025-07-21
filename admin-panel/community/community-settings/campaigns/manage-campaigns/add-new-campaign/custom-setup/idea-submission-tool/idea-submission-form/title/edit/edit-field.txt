@@ -1,0 +1,6 @@
+should save title field with valid input
+should show HTML tag error for HTML tag input in the title field
+should save user instruction with all type of rich text editor format
+should ensure user instruction does not support more than 280 character
+should ensure title field does not support more than 256 character
+should restore the changes

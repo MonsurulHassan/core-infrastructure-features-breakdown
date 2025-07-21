@@ -1,0 +1,3 @@
+should create idea custom field as moderator field visible to normal members
+should create idea custom field as moderator field not visible to normal members
+should not create idea custom field as moderator field

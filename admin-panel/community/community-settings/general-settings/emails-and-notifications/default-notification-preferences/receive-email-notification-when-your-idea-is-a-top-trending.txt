@@ -1,0 +1,2 @@
+1. should disable Receive email notification when your idea is a top trending
+2. should enable Receive email notification when your idea is a top trending

@@ -1,0 +1,5 @@
+should select receipient from the receipient selection drop-down
+should search search using keyword
+should not show search result when search using invalid input
+should remove selected receipients from the Recipients field
+should add multiple receipients from the receipient selection drop-down

@@ -1,0 +1,4 @@
+1. should disable notification for trending ideas
+2. should enable notification for trending ideas in weekly digest
+3. should enable notification for trending ideas in monthly digest
+4. should not get search value with invalid input

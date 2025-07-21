@@ -1,0 +1,2 @@
+should update community member profile question to be shown on registration form
+should update not to be shown community member profile question on registration form

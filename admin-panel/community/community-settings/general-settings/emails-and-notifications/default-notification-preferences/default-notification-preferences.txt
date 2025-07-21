@@ -1,0 +1,2 @@
+1. should check Default Notification Preferences header name and description
+2. should redirect to Default Notification Preferences help article

@@ -1,0 +1,3 @@
+should unassign campaign sponsor
+should redirect to the member profile page by clicking on the member display name
+should able to view all assigned sponsor under the campaign sponsor list

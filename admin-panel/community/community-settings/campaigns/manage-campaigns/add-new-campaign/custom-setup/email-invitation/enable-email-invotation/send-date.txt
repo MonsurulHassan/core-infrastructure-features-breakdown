@@ -1,0 +1,2 @@
+should select send date from the calendar
+should not set send date using invalid input

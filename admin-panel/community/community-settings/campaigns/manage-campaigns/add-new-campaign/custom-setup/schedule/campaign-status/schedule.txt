@@ -1,0 +1,7 @@
+should add launch date
+should launch immediately
+should add close date
+should ensure Archive immediately link visibity after clicking on the Add close date link
+should archive immediately
+should ensure launch date does not support invalid value
+should ensure end date does not support invalid value

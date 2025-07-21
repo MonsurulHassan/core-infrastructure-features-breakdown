@@ -1,0 +1,2 @@
+1. should check email transport log header name and description
+2. should redirect to email transport log help article

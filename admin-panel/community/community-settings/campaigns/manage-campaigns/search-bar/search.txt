@@ -1,0 +1,6 @@
+should search campaign using campaign group name
+should search campaign using campaign title
+should search campaign using campaign description
+should show search resule when search using invalid input
+should show HTL tag error when search using HTML tag input
+should show all campaigns when click on the search icon without any input in the search field

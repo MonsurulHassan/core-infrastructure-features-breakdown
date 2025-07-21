@@ -1,0 +1,3 @@
+should able to assign all commmunity member as a community sponsor
+should able to assign the selected member as a community sponsor
+should ensure alreaded assigned sponsor can't be assigned as a sponsor

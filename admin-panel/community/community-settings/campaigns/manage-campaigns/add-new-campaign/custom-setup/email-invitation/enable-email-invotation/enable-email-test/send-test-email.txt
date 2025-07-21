@@ -1,0 +1,2 @@
+should send test email to the valid email address
+should not send test email to the invalid email address

@@ -1,0 +1,2 @@
+1. should disable Receive email notifications to approve new members
+2. should enable Receive email notifications to approve new members

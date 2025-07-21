@@ -1,0 +1,1 @@
+should add email message using all format of rich text editor

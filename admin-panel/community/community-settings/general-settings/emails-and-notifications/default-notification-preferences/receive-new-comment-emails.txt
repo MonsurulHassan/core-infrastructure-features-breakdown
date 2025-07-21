@@ -1,0 +1,2 @@
+1. should enable Receive new comment email
+2. should disable Receive new comment email

@@ -1,0 +1,3 @@
+should go to the translation moderator section by clicking on the translation moderatos link
+should ensure save the basic information with all required field
+should ensure save and continue redirects to the next tab when all required information are provided

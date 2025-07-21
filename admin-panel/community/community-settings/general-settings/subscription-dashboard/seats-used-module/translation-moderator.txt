@@ -1,0 +1,4 @@
+1. should check translation moderator's name after assigning and removing member as translation moderator
+2. should not show the translation moderator after marking as pending and banned at workspace level
+3. should not show the translation moderator after marking as pending and banned at community level
+4. should not show the translation moderator after leaving the community
