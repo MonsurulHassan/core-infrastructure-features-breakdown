@@ -1,0 +1,2 @@
+should select predefined tag
+should select moderator tag

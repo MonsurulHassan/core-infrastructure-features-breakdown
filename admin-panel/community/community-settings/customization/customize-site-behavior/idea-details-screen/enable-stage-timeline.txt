@@ -1,0 +1,4 @@
+should disable "enable stage timeline" switch
+should enable "enable stage timeline" switch
+should reset the "enable stage timeline" switch state to workspace default by clicking the "Reset to workspace default" link
+should verify that the "enable stage timeline" switch state is inherited from the workspace

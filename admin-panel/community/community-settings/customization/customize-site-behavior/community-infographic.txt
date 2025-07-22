@@ -1,0 +1,4 @@
+should set default community info country map
+should not view search result with invalid input
+should reset the "default community info country map" selection to workspace default by clicking the "Reset to workspace default" link
+should verify that the "default community info country map" selected value is inherited from the workspace

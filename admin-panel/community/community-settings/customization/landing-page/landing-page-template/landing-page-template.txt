@@ -1,0 +1,3 @@
+should view the "Armstrong", "Berners-lee", "Curie" and Eastman landing page template
+should ensure "make it public" switch only visible for private community
+should enable or disable "make it public" switch

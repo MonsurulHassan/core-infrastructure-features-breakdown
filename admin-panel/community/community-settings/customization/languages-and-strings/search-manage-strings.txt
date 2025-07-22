@@ -1,0 +1,8 @@
+should filter strings using selected language
+should search strings filtered by text
+should not search strings using html filter
+should search strings filtered by text and checked regex option
+should refresh the searched strings
+should customize the string checking customized checkbox
+should not customize the string without checking customized checkbox
+should revert all custom strings

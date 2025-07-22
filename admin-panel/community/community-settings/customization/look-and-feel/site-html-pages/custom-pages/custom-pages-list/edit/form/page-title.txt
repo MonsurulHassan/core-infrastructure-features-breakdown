@@ -1,0 +1,3 @@
+should add page titile with valid input
+should not add page title with empty input
+should not add page title with HTML input

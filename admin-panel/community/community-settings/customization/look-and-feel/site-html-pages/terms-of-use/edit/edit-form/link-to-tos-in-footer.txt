@@ -1,0 +1,1 @@
+should enable or disable Link to TOS in footer switch

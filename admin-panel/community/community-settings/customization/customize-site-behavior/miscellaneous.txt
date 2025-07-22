@@ -1,0 +1,8 @@
+should enable and disable "automatically vote for own idea" switch
+should enable and disable "enable @username" switch
+should enable and disable "AI text assist enabled" switch
+should enable and disable "AI image assist enabled" switch
+should reset the "enable @username" switch to workspace default by clicking the "Reset to workspace default" link
+should verify that the "enable @username" switch state is inherited from the workspace
+should reset the "automatically vote for own idea" switch to workspace default by clicking the "Reset to workspace default" link
+should verify that the "automatically vote for own idea" switch state is inherited from the workspace

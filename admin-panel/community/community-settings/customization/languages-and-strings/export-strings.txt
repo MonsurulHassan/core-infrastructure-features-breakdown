@@ -1,0 +1,1 @@
+should export the string by clicking the export strings button

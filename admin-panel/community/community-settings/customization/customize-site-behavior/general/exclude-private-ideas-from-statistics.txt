@@ -1,0 +1,4 @@
+should disable "exlude private ideas from statistics" switch
+should enable "exlude private ideas from statistics" switch
+should reset the "exlude private ideas from statistics" switch state to workspace default by clicking the "Reset to workspace default" link
+should verify that the "exlude private ideas from statistics" switch state is inherited from the workspace

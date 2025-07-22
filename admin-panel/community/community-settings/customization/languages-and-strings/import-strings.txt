@@ -1,0 +1,6 @@
+should check the page header name and description
+should redirect to the help article of import strings
+should select language
+should import by string file upload
+should not allow invalid file format
+should not allow exceeded file size

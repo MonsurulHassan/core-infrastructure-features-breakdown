@@ -1,0 +1,5 @@
+should set idea body length
+should remain set 0 as unlimited idea body length by default
+should not able to set invalid input as idea body length
+should reset the "idea body length" limit to workspace default by clicking the "Reset to workspace default" link
+should verify that the "idea body length" limit value is inherited from the workspace

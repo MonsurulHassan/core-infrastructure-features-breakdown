@@ -1,0 +1,3 @@
+should check predefined tags button
+should check user created tags button
+should check both button

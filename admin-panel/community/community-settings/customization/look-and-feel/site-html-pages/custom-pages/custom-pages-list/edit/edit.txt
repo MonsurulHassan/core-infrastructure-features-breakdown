@@ -1,0 +1,1 @@
+should open the edit site html pages after clicking the Edit link

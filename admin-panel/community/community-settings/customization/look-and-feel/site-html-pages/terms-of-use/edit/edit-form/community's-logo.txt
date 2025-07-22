@@ -1,0 +1,3 @@
+should select community's logo from the selection drop-down
+should save community's logo content
+should prevent adding Javascript, inline CSS styles, and embedded stylesheets as content

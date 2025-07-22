@@ -1,0 +1,6 @@
+should select Ideas as default campaign tab
+should select About as default campaign tab
+should select Team as default campaign tab
+should select Workflow as default campaign tab
+should reset the "select default campaign tab" selected value to workspace default by clicking the "Reset to workspace default" link
+should verify that the "select default campaign tab" switch state is inherited from the workspace

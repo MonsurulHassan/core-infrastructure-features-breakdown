@@ -1,0 +1,1 @@
+should ensure single signon section is in read only mode

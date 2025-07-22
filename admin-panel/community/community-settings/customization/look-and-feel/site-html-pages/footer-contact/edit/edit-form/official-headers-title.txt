@@ -1,0 +1,3 @@
+should select official headers title from the selection drop-down
+should save official headers title content
+should prevent adding Javascript, inline CSS styles, and embedded stylesheets as content

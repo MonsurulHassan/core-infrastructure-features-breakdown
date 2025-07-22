@@ -1,0 +1,2 @@
+should delete the custom page after typing "DELETE" in the Type DELETE to confirm field
+should not delete the custom page after typing invalid input in the Type DELETE to confirm field

@@ -1,0 +1,1 @@
+should modify tags successfully by clicking the modify tags button

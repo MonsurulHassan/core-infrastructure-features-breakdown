@@ -1,0 +1,2 @@
+should add content with valid input
+should prevent adding Javascript, inline CSS styles, and embedded stylesheets as content

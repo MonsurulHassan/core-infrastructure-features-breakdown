@@ -1,0 +1,3 @@
+should enable or disable "force community wide anonymity" switch
+should enable or disable "hide my identity" switch
+should enable or disable "default value for hide my identity" switch

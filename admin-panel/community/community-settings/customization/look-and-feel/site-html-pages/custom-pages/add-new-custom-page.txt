@@ -1,0 +1,1 @@
+should add new custom page by clicking the add a new custom page button

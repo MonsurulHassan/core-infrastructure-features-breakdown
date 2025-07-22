@@ -1,0 +1,6 @@
+should display the "preview" button when hovering over the template
+should redirect to the landing page preview mode when clicking the "preview" button
+should display "unpublish" and "edit" buttons when hovering over the published landing page template
+should show the published landing page in the selected state
+should unpublish the published landing page
+should redirect to the landing page edit mode when clicking the "edit" button

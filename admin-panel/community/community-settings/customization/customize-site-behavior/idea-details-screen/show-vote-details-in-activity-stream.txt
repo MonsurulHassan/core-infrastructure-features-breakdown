@@ -1,0 +1,4 @@
+should disable "show vote details in activity stream" switch
+should enable "show vote details in activity stream" switch
+should reset the "show vote details in activity stream" switch state to workspace default by clicking the "Reset to workspace default" link
+should verify that the "show vote details in activity stream" switch state is inherited from the workspace

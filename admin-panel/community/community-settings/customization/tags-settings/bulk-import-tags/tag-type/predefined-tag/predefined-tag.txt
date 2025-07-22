@@ -1,0 +1,4 @@
+should upload file using browse file or drag and drop option
+should not upload file exceeding the max size
+should not upload file using invalid file format
+should enable or disable remove existing switch

@@ -1,0 +1,1 @@
+should enable or disable require TOS acceptance to participate switch

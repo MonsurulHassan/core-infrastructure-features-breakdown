@@ -1,0 +1,4 @@
+should add tag
+should remove tag 
+should remove mutiple tags at a time
+should display pagination in the campaign tags list

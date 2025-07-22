@@ -1,0 +1,6 @@
+should select tags in the "select tags to merge" section
+should move selected tags for merging
+should sort tags by name in ascending order
+should sort tags by name in descending order
+should sort tags by usage count in ascending order
+should sort tags by usage count in descending order

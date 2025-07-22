@@ -1,0 +1,8 @@
+should check the page header name and description
+should redirect to help article of workspace colors
+should set valid color format as higlight
+should not able to set invalid color format as higlight
+should set valid color format as accent 1
+should not able to set invalid color format as accent 1
+should set valid color format as accent 2
+should not able to set invalid color format as accent 2

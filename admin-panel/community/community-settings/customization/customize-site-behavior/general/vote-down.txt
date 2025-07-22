@@ -1,0 +1,4 @@
+should disable "vote down"
+should enable "vote down"
+should reset the "vote down" switch state to workspace default by clicking the "Reset to workspace default" link
+should verify that the "vote down" switch state is inherited from the workspace

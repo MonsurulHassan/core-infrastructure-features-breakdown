@@ -1,0 +1,3 @@
+should add friendly url with valid input
+should not add friendly url with empty input
+should not add friendly url with HTML input

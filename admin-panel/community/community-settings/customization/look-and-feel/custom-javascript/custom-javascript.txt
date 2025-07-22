@@ -1,0 +1,3 @@
+should add custom javascript with valid content
+should reset to workspace default by clicking the "Reset to workspace default" link
+should verify content inherited from the workspace 

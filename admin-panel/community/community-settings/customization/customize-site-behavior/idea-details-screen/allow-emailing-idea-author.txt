@@ -1,0 +1,4 @@
+should disable "allow emailing idea author" switch
+should enable "allow emailing idea author" switch
+should reset the "allow emailing idea author" switch state to workspace default by clicking the "Reset to workspace default" link
+should verify that the "allow emailing idea author" switch state is inherited from the workspace

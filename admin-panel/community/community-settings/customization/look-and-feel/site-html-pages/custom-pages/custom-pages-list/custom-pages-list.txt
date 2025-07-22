@@ -1,0 +1,3 @@
+should view the all custom pages list
+should drag and drop the custom page
+should view the custom page name, expolre tab status and footer status

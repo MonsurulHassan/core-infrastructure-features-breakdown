@@ -1,0 +1,5 @@
+should disable "show net votes"
+should enable "show net votes" and show up and down vote counts
+should enable "show net votes" and not show up and down vote counts
+should reset the "show net votes" switch state to workspace default by clicking the "Reset to workspace default" link
+should verify that the "show net votes" switch state is inherited from the workspace

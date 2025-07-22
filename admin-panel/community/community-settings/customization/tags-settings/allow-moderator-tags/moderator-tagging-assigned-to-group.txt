@@ -1,0 +1,5 @@
+should enable or disable moderator tagging assigned to group switch
+should select group
+should search group using keyword search
+should search group using group name
+should not show search result when search using invalid input

@@ -1,0 +1,4 @@
+should select campaign
+should search campaign using keyword search
+should search campaign using campaign name
+should not show search result when search using invalid input
