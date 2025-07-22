@@ -1,0 +1,2 @@
+should check workspace info header name and description
+should redirect to workspace info help article after clicking on "Learn More"
