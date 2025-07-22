@@ -1,0 +1,6 @@
+should add groups
+should select and deselct all groups
+should show group avatar, name, member count
+should select the page size
+should go to specific page
+should close the modal

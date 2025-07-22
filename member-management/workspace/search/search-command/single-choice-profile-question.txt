@@ -1,2 +1,2 @@
-should search member by single choice member profile question responses
+should search member by single choice workspace member profile question responses
 should not allow search member by invalid search value

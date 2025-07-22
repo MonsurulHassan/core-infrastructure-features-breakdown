@@ -1,0 +1,2 @@
+should search group by single choice workspace member profile question responses
+should not allow search group by invalid search value
