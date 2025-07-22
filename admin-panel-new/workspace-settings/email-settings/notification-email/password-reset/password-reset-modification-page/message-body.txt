@@ -1,0 +1,3 @@
+should update message body
+should not update message body with empty input
+should not update message body with HTML text

@@ -1,0 +1,6 @@
+should check custom email banner header name and description
+should redirect to custom email banner help article after clicking on "Click here for more information"
+should verify ideascale default image is set as default custom email banner
+should set custom email banner by browse file or drag and drop option
+should set no banner as custom email banner
+should not upload more than one file using drag and drop option

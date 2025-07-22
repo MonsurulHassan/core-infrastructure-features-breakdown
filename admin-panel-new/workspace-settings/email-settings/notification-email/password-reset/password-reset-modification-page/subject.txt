@@ -1,0 +1,3 @@
+should update subject
+should not update subject with empty input
+should not update subject with HTML tag

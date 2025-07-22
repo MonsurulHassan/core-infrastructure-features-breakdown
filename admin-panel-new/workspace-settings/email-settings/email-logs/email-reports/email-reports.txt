@@ -1,0 +1,4 @@
+should view email deliver reports
+should verify pagination display in the email deliver reports 
+should navigate to the previous and next page using pagination
+should display total email delivery report count

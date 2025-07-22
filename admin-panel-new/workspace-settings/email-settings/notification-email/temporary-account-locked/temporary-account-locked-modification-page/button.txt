@@ -1,0 +1,3 @@
+should update button text
+should not update button text with empty input
+should not update button text with HTML text

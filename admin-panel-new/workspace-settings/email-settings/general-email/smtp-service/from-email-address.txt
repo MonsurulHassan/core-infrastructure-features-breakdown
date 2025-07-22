@@ -1,0 +1,4 @@
+should add from email address with valid input
+should not add from email address with invalid email
+should not add from email address with email having space
+should verify from email address is required field

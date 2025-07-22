@@ -1,0 +1,4 @@
+should view email delivery logs
+should display total email delivery logs count
+should display pagination
+should navigate to the previous and next page using pagination

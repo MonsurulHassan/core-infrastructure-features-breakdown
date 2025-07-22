@@ -1,0 +1,3 @@
+should add smtp host with valid input
+should not add smtp host with invalid input
+should verify smtp host is required field

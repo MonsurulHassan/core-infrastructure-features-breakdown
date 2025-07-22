@@ -1,0 +1,2 @@
+should display the temporary account locked email form text
+should redirect to the temporary account locked email content modification page by clicking the email icon
