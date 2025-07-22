@@ -1,0 +1,3 @@
+should create group with group description
+should not allow html tag in Group Description field
+should not allow more than 512 characters in Group Description field

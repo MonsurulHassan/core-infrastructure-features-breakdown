@@ -1,0 +1,2 @@
+should search group by communities
+should not allow search group by invalid search value

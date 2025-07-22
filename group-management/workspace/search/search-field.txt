@@ -1,0 +1,3 @@
+should search group with group name
+should not allow to search group with invalid inputs in search field
+should clear the search value in search field

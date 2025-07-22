@@ -1,0 +1,2 @@
+should create group hiding visibility in the leaderboard
+should create group not hiding visibility in the leaderboard
