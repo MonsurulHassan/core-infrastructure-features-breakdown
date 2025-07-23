@@ -1,0 +1,3 @@
+should display the authentication page header and description
+should redirect to the help article by clicking the learn more link
+should not disable all switch at a time

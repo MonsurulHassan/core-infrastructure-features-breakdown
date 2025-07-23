@@ -1,0 +1,2 @@
+should add User name with valid input
+should not add user name with HTML tag

@@ -1,0 +1,2 @@
+should add SAML Idp metadata with valid input
+should verify SAML Idp metadata is required field

@@ -1,0 +1,2 @@
+should add avatar with valid input
+should not add avatar with HTML tag

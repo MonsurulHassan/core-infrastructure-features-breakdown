@@ -1,0 +1,2 @@
+should dispaly site key
+should verify multipass site key field is read only

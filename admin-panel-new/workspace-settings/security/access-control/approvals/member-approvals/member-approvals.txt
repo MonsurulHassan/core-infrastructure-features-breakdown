@@ -1,0 +1,3 @@
+should display the Memebr approval header and description
+should set approval at workspace level
+should not set approval at workspace level

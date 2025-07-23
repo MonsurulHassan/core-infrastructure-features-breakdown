@@ -1,0 +1,4 @@
+should enable or disable single signon switch
+should display the SSO help text
+should open the SSO login settings modal by clicking the settings icon
+should display SAML 2.0, Multipss and Google apps after clicking the Add SSO button

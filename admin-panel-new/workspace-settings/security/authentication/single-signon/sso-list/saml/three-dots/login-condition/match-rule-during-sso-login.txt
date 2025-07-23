@@ -1,0 +1,2 @@
+should check "All conditions" as match rule
+should check any condition as match rule

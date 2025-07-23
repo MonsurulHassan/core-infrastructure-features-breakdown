@@ -1,0 +1,2 @@
+should add groups with valid input
+should not add groups with HTML tag

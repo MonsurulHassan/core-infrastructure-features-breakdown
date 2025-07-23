@@ -1,0 +1,2 @@
+should add email with valid input
+should not add email with HTML tag

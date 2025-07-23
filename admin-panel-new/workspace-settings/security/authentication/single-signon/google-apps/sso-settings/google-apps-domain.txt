@@ -1,0 +1,3 @@
+should add google apps domain with valid input
+should not add google apps domain with invalid input
+should verify google apps domain field is mandatory

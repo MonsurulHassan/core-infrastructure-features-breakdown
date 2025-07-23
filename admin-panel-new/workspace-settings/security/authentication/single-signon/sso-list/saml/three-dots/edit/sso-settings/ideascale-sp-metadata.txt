@@ -1,0 +1,2 @@
+should display the metadata link
+should verify clicking on the metadata link redirects to the metadata page

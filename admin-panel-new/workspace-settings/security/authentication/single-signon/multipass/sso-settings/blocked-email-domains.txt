@@ -1,0 +1,4 @@
+should display the blocked email domains help text
+should add blocked email domain with valid input
+should not add blocked domain with HTML tag
+should remove the added blocked domain 

@@ -1,0 +1,3 @@
+should add display name with valid input
+should not add display name with HTML tag
+should verify display name is required field
