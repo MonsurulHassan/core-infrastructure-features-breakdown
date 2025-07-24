@@ -1,0 +1,3 @@
+should customize the string and check the impact
+should not allow html tag as customized text
+should not allow blank as customized text

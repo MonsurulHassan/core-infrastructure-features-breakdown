@@ -1,0 +1,4 @@
+should show Languages & Strings count
+should select the paze size
+should go to a specific page clicking on the page number
+should go to the page clicking on the left and right arrow icon

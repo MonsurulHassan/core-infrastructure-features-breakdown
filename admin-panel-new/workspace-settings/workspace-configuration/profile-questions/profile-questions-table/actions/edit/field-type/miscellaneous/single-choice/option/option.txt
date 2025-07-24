@@ -1,0 +1,7 @@
+should update Single Choice type workspace member profile question with default option
+should not able to update Single Choice type workspace member profile question without option
+should update Single Choice type workspace member profile question with multiple options
+should able to update the order of options in Single Choice type workspace member profile question
+should able to remove the options in Single Choice type workspace member profile question during update
+should not able to update option with more than 500 characters
+should not able to remove the last option in Single Choice type workspace member profile question during update

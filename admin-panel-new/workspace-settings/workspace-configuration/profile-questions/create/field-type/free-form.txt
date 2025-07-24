@@ -1,0 +1,5 @@
+should create Large Text / Description type workspace member profile question
+should remain 0 as default value in "Max Characters" field
+should add max characters count for Large Text / Description type workspace member profile question
+should not allow invalid inputs as max characters count for Large Text / Description type workspace member profile question
+should create Single line Text Box type workspace member profile question

@@ -1,0 +1,4 @@
+should check the modal content
+should redirect to the help article of "Import Strings"
+should close the modal
+should select the language

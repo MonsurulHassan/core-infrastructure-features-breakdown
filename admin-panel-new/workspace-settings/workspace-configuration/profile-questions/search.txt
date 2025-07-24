@@ -1,0 +1,4 @@
+should search by profile question name
+should trim space from the start and end of the search text
+should not show search result with invalid search inputs
+should clear search text

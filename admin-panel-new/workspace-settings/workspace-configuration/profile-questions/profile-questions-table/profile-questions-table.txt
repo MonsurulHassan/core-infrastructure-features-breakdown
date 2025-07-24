@@ -1,0 +1,4 @@
+should "Questions" column contain profile question name
+should "Field Type" column contain profile question field type
+should "Field Details" column contain profile question field Details
+should "Used In" column contain profile question used in groups

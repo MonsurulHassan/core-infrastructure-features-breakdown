@@ -1,0 +1,8 @@
+should not set workspace url by any user other than superuser
+should set workspace url by superuser via sudo
+should not keep "Workspace URL" field blank
+should not allow html tag in "Workspace URL" field
+should not allow special characters in "Workspace URL" field
+should trim space in the start and end of the workspace url in "Workspace URL" field
+should not allow any character other than hyphen in between the texts in "Workspace URL" field
+should cancel settings workspace url

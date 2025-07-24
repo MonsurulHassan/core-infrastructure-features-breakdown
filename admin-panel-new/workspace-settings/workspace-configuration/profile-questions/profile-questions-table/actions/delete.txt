@@ -1,0 +1,5 @@
+should delete the workspace member profile question
+should not able to delete the workspace member profile question with invalid input
+should cancel deleting the workspace member profile question
+should check the modal contant
+should close the modal

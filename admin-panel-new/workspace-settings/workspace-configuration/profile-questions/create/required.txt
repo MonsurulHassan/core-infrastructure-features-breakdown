@@ -1,0 +1,2 @@
+should mark workspace member profile question as "Required" and check its impact
+should not mark workspace member profile question as "Required" and check its impact

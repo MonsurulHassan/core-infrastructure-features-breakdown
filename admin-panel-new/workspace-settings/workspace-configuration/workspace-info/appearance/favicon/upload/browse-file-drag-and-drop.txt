@@ -1,0 +1,6 @@
+should upload a file via browse
+should upload a file via drag & drop
+should not allow unsupported file
+should not allow exceeded file size
+should show updated maximum file upload size from superuser app
+should delete the uploaded file

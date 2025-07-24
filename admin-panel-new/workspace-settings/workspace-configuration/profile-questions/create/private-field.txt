@@ -1,0 +1,2 @@
+should create workspace member profile question as private field
+should not create workspace member profile question as private field

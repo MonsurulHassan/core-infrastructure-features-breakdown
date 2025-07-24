@@ -1,0 +1,3 @@
+should set timezone and observe the effect in community
+should cancel changing timezone
+should show "No options" with invalid search input

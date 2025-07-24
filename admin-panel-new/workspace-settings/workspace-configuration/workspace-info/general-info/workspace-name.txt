@@ -1,0 +1,7 @@
+should set workspace name
+should not keep "Workspace Name" field blank
+should not allow html tag in "Workspace Name" field
+should not allow special characters in "Workspace Name" field
+should not allow exceeded characters limit in "Workspace Name" field
+should trim space in the start and end of the workspace name in "Workspace Name" field
+should cancel saving the workspace name

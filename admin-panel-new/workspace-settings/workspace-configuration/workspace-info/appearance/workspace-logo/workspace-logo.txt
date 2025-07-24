@@ -1,0 +1,5 @@
+should check the header name and description
+should remove the image
+should add logo redirection link
+should not add html tag as logo redirection link
+should not add invalid input as logo redirection link

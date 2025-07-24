@@ -1,0 +1,5 @@
+should import via browse
+should import via drag and drop
+should not allow unsupported file
+should not allow the file exceeding the limit
+should cancel uploading the file

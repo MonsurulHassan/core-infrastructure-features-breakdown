@@ -1,0 +1,5 @@
+should create profile question name in Label field
+should not allow html tag as profile question name in Label field
+should not allow more than 63 characters in Label field
+should not allow to create profile question with duplicate name
+should not allow to keep Label field blank

@@ -1,0 +1,2 @@
+should check the header name and description
+should remove the image

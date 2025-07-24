@@ -1,0 +1,2 @@
+should add alt text
+should not allow html tag as alt text

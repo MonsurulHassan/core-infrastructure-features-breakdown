@@ -1,0 +1,4 @@
+should zoom in the file
+should zoom out the file
+should close the modal
+should save the changes

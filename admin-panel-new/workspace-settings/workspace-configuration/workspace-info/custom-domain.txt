@@ -1,0 +1,6 @@
+should check custom domain header name and description
+should add custom domain
+should not allow html tag as custom domain
+should not allow domain without dns record
+should cancel updating custom domain
+should redirect to custom domain setup article after clicking on "Using Custom Domains for your Workspace"

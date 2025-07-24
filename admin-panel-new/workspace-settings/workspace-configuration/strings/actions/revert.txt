@@ -1,0 +1,2 @@
+should revert all custom strings
+should cancel reverting all custom strings

@@ -1,0 +1,6 @@
+should terms of service remains disabled by default
+should enable terms of service
+should check all the formats of rich text editor
+should check redirecting to the other pages without accepting terms of service
+should not update terms of service without accepting terms of service
+should notify users about the updates

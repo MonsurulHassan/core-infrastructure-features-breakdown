@@ -1,0 +1,4 @@
+should search with string
+should search with string and regex
+should not show search result with invalid search text
+should clear search text
