@@ -1,0 +1,3 @@
+should disable the "Public Key Pins" switch
+should enable the "Public Key Pins" switch and set pin value hash, expire time, include subdomain, report uri.
+should verify pin value hash, expire time, include subdomain, report uri field shows after enabling the public key pins switch

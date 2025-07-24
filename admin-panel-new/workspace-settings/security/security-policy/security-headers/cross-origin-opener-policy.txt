@@ -1,0 +1,4 @@
+should enable and disable the "Cross Origin Opener Policy" switch
+should verify Cross Origin Opener Policy input field shows after enable the "Cross Origin Embedder Policy" switch
+should add Cross Origin Opener Policy with valid input
+should not add Cross Origin Opener Policy with invalid input

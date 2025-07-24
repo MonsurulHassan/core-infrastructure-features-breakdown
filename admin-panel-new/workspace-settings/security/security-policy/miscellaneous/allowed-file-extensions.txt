@@ -1,0 +1,4 @@
+should set allowed file extensions
+should not be able to set invalid input as allowed file extensions
+should verify added allowed file extension is removed from the extensions can be added section
+should verify default allowed file extension can't be added as allowed file extension

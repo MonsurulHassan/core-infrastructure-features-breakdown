@@ -1,0 +1,4 @@
+should save Global Session Timeout for Privileged Users value
+should not save Global Session Timeout for Privileged Users value with empty input
+should not save Global Session Timeout for Privileged Users value with long input
+should display the Global Session Timeout for Privileged Users default value

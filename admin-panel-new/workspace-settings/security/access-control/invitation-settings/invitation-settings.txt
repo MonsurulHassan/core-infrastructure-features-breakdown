@@ -1,5 +1,4 @@
-should display the profanity filtering header and description
-should redirect to the help article by clicking the Learn more link 
+should display the invitation settings header and description
 should save the changes by clicking save button
 should cancel the changes by clicking cancel button
 should display a warning modal for unsaved changes when attempting to navigate to another tab

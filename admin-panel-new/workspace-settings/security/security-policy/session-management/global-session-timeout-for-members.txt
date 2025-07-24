@@ -1,0 +1,4 @@
+should save Global Session Timeout for Members value
+should not save Global Session Timeout for Members value with empty input
+should not save Global Session Timeout for Members value with long input
+should display the Global Session Timeout for Members default value

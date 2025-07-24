@@ -1,0 +1,2 @@
+should set rank reviewscale link expire time
+should not able to set invalid input as rank reviewscale link expire time

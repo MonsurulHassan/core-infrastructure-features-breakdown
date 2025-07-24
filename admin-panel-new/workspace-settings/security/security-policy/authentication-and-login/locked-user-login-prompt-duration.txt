@@ -1,0 +1,2 @@
+should set Locked user login prompt duration
+should not able to set invalid input as Locked user login prompt duration

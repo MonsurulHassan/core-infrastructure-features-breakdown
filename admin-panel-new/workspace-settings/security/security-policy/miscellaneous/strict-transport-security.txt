@@ -1,0 +1,4 @@
+should enable and disable the "Strict Transport Security" switch
+should verify max age in days input field shows after enabling the "Strict Transport Security" switch
+should not able to set invalid input as max age
+should set max age with valid input

@@ -1,0 +1,2 @@
+should set Locked down period after maximum number failed Two Factor Authentication login attempt (in minutes)
+should not able to set invalid input as Locked down period after maximum number failed Two Factor Authentication login attempt (in minutes)

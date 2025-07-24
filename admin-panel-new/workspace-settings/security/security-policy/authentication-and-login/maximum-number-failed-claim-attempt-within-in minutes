@@ -1,0 +1,2 @@
+should set Maximum number failed claim attempt within (in minutes)
+should not able to set invalid input as Maximum number failed claim attempt within (in minutes)
