@@ -1,0 +1,2 @@
+should delete the sso configuration when confirming with "OK" in the pop-over
+should not delete the sso configuration when cancelling with "Cancel" in the pop-over

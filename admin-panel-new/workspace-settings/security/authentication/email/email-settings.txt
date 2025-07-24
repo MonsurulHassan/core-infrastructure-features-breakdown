@@ -1,0 +1,7 @@
+should enable or disable the "Remember Me" switch
+should enable or disable the two-step authentication switch
+should select "Every 30 days" as the frequency for second authentication on trusted devices
+should select "Do not support trusted device" as the frequency for second authentication on trusted devices
+should display the help text for "Frequency of second authentication on trusted devices?"
+should cancel the email settings modal by clicking the cancel button
+should close the email settings modal by clicking the close button

@@ -1,0 +1,3 @@
+should enable or disable email switch
+should diplay the email switch help text
+should open email settings modal by clicking on the settings modal

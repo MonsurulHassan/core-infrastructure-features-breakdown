@@ -1,0 +1,2 @@
+should set idea pending auth link expire time
+should not able to set invalid input as idea pending auth link expire time

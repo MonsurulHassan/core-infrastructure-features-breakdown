@@ -1,0 +1,3 @@
+should add google apps admin email with valid email
+should not add google apps admin email with invalid email
+should verify google apps admin email field is mandatory

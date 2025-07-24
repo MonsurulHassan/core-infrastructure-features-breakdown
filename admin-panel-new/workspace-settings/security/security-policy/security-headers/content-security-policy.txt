@@ -1,0 +1,3 @@
+should disable the "Content Security Policy" switch
+should enable the "Content Security Policy" switch
+should verify content security policy content after enabling the content security policy switch

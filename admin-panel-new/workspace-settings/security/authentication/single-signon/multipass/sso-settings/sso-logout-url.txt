@@ -1,0 +1,2 @@
+should add logout success URL with valid input
+should not add logout success URL with HTML tag

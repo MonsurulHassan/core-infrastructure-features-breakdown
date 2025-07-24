@@ -1,0 +1,4 @@
+should save maximum allowed inactive days field value
+should not save maximum allowed inactive days field value with empty input
+should not save maximum allowed inactive days field value with long input
+should display the maximum allowed inactive days field default value

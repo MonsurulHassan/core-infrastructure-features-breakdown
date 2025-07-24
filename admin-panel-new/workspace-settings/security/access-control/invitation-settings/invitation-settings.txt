@@ -1,0 +1,6 @@
+should display the invitation settings header and description
+should save the changes by clicking save button
+should cancel the changes by clicking cancel button
+should display a warning modal for unsaved changes when attempting to navigate to another tab
+should verify clicking on the discard changes from the warning modal navigates to the another tab
+should verify clicking on the continue editing from the warning modal keeps the user on the same page

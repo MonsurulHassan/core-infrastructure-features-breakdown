@@ -1,0 +1,7 @@
+should search email by type
+should search email by receiver
+should search email by sender
+should search email by subject
+should search email by uid
+should search email by message_id
+should not search email by invalid input

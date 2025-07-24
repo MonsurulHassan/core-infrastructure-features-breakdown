@@ -1,0 +1,5 @@
+should display the concurrent login limit field help text
+should save concurrent login limit value
+should not save password concurrent login limit value with empty input
+should not save password concurrent login limit value with long input
+should display the concurrent login limit default value

@@ -1,0 +1,3 @@
+should display the email verification form text
+should redirect to the email verification email content modification page by clicking the email icon
+should verify that each line in the mail body ends with a full stop followed by a space

@@ -1,0 +1,5 @@
+should search email using email subject
+should search email using keyword search
+should not show search result when search using invalid input
+should show HTL tag error when search using HTML tag input
+should show all email when click on the search icon without any input in the search field

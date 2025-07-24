@@ -1,0 +1,4 @@
+should disable the "Referrer Policy" switch
+should enable the "Referrer Policy" switch and select the referrer policy
+should verify Select a Referrer Policy field shows after enable the "Referrer Policy" switch
+should select Referrer policy

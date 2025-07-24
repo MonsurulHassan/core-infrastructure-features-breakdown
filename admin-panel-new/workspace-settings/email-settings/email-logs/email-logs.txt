@@ -1,0 +1,2 @@
+should check email logs header name and description
+should redirect to email deliver reports help article after clicking on "Learn more"

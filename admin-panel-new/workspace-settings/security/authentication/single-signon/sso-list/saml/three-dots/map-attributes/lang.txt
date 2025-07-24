@@ -1,0 +1,2 @@
+should add lang valid input
+should not add lang with HTML tag

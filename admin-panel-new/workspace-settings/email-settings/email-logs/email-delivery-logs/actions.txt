@@ -1,0 +1,2 @@
+should view details of email delivery logs
+should view debug log of email delivery logs

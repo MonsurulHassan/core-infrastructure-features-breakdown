@@ -1,0 +1,3 @@
+should add from name with valid input
+should not add from name with invalid input
+should verify from name does not support email address

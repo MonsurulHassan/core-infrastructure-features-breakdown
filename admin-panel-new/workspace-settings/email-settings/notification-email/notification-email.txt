@@ -1,0 +1,4 @@
+should check email logs header name and description
+should redirect to the notification emails help article after clicking on "Learn more"
+should verify deliverability test
+should save general email settings information

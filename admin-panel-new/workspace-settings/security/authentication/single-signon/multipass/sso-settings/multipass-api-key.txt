@@ -1,0 +1,3 @@
+should dispaly api key
+should verify multipass api key field is read only
+should copy the api key

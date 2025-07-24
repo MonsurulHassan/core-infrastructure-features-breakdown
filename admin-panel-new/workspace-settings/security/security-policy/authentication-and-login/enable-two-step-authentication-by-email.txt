@@ -1,0 +1,6 @@
+should disable "Enable Two Step Authentication by Email" switch
+should enable "Enable Two Step Authentication by Email" and set email based otp expire time
+should not able to set invalid input as email based otp expire time
+should not able to set empty input as email based otp expire time
+should display email based OTP exppire time field after enabling the "Enable Two Step Authentication by Email" switch
+should not display email based OTP exppire time field after disabling the "Enable Two Step Authentication by Email" switch

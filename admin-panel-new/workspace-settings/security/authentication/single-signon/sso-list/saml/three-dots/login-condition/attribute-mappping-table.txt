@@ -1,0 +1,3 @@
+should view the attribute name and value
+should delete the mapped attribute when confirming with "OK" in the pop-over
+should not delete the mapped attribute when cancelling with "Cancel" in the pop-over

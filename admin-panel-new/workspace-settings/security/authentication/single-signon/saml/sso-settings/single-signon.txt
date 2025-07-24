@@ -1,0 +1,4 @@
+should verify SAML is selected by default in the single signon drop-down
+should verify SAML settings form is opened by default
+should open the multipass token settings form aftre selecting the multipass token from the drop-down
+should open the google apps settings form aftre selecting the google apps from the drop-down

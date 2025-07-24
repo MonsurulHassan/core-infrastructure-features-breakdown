@@ -1,0 +1,2 @@
+should set the SSO configuration as default
+should verify that the "Make Default" button is disabled after setting the SSO configuration as default

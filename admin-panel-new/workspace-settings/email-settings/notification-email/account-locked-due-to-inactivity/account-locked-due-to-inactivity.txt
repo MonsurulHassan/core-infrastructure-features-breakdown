@@ -1,0 +1,2 @@
+should display the account locked due to inactivity email form text
+should redirect to the account locked due to inactivity email content modification page by clicking the email icon

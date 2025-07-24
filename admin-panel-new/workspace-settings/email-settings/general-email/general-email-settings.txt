@@ -1,0 +1,4 @@
+should check general email settings header name and description
+should redirect to general email settings help article after clicking on "Learn more"
+should verify deliverability test
+should save general email settings information

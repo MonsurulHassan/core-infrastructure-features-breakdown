@@ -1,0 +1,6 @@
+should enable or disable social switch
+should enable or disable google login switch
+should enable or disable LinkedIn switch
+should enable or disable Apple switch
+should enable or disable Microsoft switch
+should display social help text

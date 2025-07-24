@@ -1,0 +1,2 @@
+should display the global email footer form text
+should redirect to the global email footer content modification page by clicking the email icon

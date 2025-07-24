@@ -1,0 +1,2 @@
+should set email claim link expire time
+should not able to set invalid input as email claim link expire time

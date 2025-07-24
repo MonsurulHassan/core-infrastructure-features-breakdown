@@ -1,0 +1,2 @@
+should set member reject link expire time
+should not able to set invalid input as member reject link expire time

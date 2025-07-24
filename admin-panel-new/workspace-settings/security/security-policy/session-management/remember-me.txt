@@ -1,0 +1,3 @@
+should verify that the "Remember Me" checkbox is checked by default at the instance level
+should verify that the "Remember Me" option is checked and cannot be modified in an SSO-enabled workspace
+should verify that the "Remember Me" checkbox can be checked and unchecked

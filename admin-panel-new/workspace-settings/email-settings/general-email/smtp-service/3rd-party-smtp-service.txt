@@ -1,0 +1,4 @@
+should display 3rd party SMTP form text
+should redirect to the third party smtp help article after clicking on "Learn more"
+should open third party smtp service add form after check the third party smtp service checkbox
+should validate smtp

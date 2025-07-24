@@ -1,0 +1,3 @@
+should add emiji filtering
+should remove added emoji filtering individually
+should remove all added emoji filtering at once
