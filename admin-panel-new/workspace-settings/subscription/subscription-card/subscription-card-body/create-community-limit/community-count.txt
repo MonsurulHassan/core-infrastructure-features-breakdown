@@ -1,0 +1,4 @@
+should show the community count under the subscription account
+should increase the community count after community creation
+should not decrease the community count after temporary community deletion
+should decrease the community count after community purge

@@ -1,0 +1,4 @@
+should show the community logo and name in community list
+should truncate the long community name and show the full community name on hover
+should show the community logo and name in community list after temporary community deletion
+should not show the community logo and name in community list after community purge

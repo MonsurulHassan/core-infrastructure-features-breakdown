@@ -1,0 +1,6 @@
+should check group moderator's name, community name and role after assigning and removing member as group moderator
+should redirect to group moderators settings page after clicking on the community name
+should not show the group moderator after marking as pending and banned at workspace level
+should not show the group moderator after marking as pending and banned at community level
+should not show the group moderator after leaving the community
+should not show the group moderator after deleting the group

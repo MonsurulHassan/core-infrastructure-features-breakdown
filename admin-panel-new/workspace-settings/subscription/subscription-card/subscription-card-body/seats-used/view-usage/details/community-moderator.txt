@@ -1,0 +1,5 @@
+should check community moderator's name, community name and role after assigning and removing member as community moderator
+should redirect to community moderators settings page after clicking on the community name
+should not show the communtiy moderator after marking as pending and banned at workspace level
+should not show the communtiy moderator after marking as pending and banned at community level
+should not show the communtiy moderator after leaving the community

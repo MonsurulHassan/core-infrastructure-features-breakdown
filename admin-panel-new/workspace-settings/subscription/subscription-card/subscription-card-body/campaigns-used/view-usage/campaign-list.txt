@@ -1,0 +1,6 @@
+should show the community name, campaign logo and name in campaign list
+should truncate the long campaign name and show the full campaign name on hover
+should not show the future launched campaign name in campaign list
+should not show the archived campaign name in campaign list
+should not show the deleted campaign name in campaign list
+should not show the campaign name after community purge

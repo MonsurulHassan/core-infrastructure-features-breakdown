@@ -1,0 +1,6 @@
+should check community administrator's name, community name and role after assigning and removing member as community administrator
+should check community administrator's name, community name and role after assigning and removing group as community administrator 
+should go to community administrators settings page after clicking on the community name
+should not show the communtiy administrator after marking as pending and banned at workspace level
+should not show the communtiy administrator after marking as pending and banned at community level
+should not show the communtiy administrator after leaving the community

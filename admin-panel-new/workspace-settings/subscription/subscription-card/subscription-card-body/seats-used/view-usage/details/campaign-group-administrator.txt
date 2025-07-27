@@ -1,0 +1,7 @@
+should check campaign group administrator's name, community name and role after assigning and removing member as campaign group administrator
+should check campaign group administrator's name, community name and role after assigning and removing group as campaign group administrator 
+should redirect to campaign group administrators settings page after clicking on the community name
+should not show the campaign group administrator after marking as pending and banned at workspace level
+should not show the campaign group administrator after marking as pending and banned at community level
+should not show the campaign group administrator after leaving the community
+should not show the campaign group administrator after deleting the campaign group

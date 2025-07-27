@@ -1,0 +1,5 @@
+should show subscription account logo
+should show subscription account name
+should show subscription account name updated from superuser app
+should show subscription account status
+should show subscription account status updated from superuser app

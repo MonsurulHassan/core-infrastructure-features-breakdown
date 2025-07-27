@@ -1,0 +1,5 @@
+should check campaign administrator's name, community name and role after assigning and removing member as campaign administrator
+should not show the campaign administrator after marking as pending and banned at workspace level
+should not show the campaign administrator after marking as pending and banned at community level
+should not show the campaign administrator after leaving the community
+should not show the campaign administrator after deleting the campaign

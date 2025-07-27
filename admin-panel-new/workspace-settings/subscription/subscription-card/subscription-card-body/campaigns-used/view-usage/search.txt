@@ -1,0 +1,4 @@
+should search by campaign name
+should search by campaign name by trimming space at the start and end of the search text
+should not show search result by invalid search text
+should clear the search text

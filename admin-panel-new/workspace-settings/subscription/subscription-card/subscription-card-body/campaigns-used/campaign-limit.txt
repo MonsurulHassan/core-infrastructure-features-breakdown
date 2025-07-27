@@ -1,0 +1,1 @@
+should campaign creation limit be updated from superuser app

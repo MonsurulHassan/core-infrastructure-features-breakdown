@@ -1,0 +1,6 @@
+should show the used campaign count
+should increase the campaign count after campaign creation
+should not show the campaign count of archived campaign
+should not show the campaign count of future launched campaign
+should decrease the campaign count after campaign deletion
+should decrease the campaign count after community deletion

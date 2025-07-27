@@ -1,0 +1,6 @@
+should show subscription account activation date
+should show subscription account activation date updated from superuser app
+should show subscription account activation date as per workspace date format
+should show subscription account expiry date
+should show subscription account expiry date updated from superuser app
+should show subscription account expiry date as per workspace date format

@@ -1,0 +1,6 @@
+should check custom field moderator's name, community name and role after assigning and removing member as custom field moderator
+should redirect to custom field moderators settings page after clicking on the community name
+should not show the custom field moderator after marking as pending and banned at workspace level
+should not show the custom field moderator after marking as pending and banned at community level
+should not show the custom field moderator after leaving the community
+should not show the custom field moderator after deleting the custom field

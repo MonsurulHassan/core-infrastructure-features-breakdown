@@ -1,0 +1,1 @@
+should seat limit be updated from superuser app
