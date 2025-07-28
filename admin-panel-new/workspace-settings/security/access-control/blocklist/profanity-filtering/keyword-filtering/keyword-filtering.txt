@@ -1,3 +1,7 @@
 should add keyword filtering
 should remove added keyword filtering individually
 should remove all added keyword filtering at once
+should verify that the display name is hidden in member management after adding a member using keyword filtering
+should verify profanity word can't be used in member name, bio, member profile questions
+should verify profanity word can't be used in idea title, description and idea custom field
+should verify profanity word can't be used in comments, refine custom field

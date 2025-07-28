@@ -1,5 +1,6 @@
 should enable or disable allow member invitation switch
 should add allowed email domains with valid input
 should not add allowed email domains with invalid input
+should not add allowed email domains with blocklisted domain
 should remove allowed email domains individually
 should remove all added allowed email domains at once
