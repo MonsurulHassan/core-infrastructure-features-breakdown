@@ -1,0 +1,4 @@
+should display header and description
+should redirect to the hel article link by clicking Click here for more information. link
+should enable and disable search engine optimization switch
+should reset to workspace default by clicking reset to workspace default link

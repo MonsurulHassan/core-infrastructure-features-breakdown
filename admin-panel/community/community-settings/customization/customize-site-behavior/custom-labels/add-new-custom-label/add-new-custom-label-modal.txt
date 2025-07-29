@@ -1,0 +1,4 @@
+should display the help text
+should close the modal by clicking the close icon
+should cancel the modal by clicking the cancel button
+should save the modal by clicking the save button

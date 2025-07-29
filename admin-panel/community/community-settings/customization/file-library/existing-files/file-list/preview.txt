@@ -1,0 +1,2 @@
+should preview the uploaded image file
+should not preview the non-image uploaded files

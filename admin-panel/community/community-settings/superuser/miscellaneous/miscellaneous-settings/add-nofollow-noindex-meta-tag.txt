@@ -1,0 +1,1 @@
+should enable and disable Add "nofollow, noindex" Meta Tag on All Pages switch

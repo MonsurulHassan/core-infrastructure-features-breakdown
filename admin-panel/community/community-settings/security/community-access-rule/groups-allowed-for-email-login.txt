@@ -1,0 +1,5 @@
+should display "All community member" is selected by default
+should select group from the drop-down
+should remove the selected groups
+should search group using keyword search
+should not search group using invalid input

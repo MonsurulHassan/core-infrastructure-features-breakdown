@@ -1,0 +1,5 @@
+should add auto approved domains with valid input
+should not add auto approved domains with invalid input
+should not add auto approved domains with blocklisted domain
+should remove added domains individually
+should remove all added domains at once

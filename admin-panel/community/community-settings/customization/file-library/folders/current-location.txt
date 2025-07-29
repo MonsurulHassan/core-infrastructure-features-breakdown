@@ -1,0 +1,1 @@
+should verify "Root" folder is showing under current location

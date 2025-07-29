@@ -1,0 +1,2 @@
+should save the name with valid input
+should verify HTML tag is not allowed in the name field

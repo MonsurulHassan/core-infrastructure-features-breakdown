@@ -1,0 +1,3 @@
+should enable and disable SAML switch
+should enable and disable multipass switch
+should enable and disable Google apps switch

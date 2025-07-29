@@ -1,0 +1,1 @@
+should open the edit new custom label modal by clicking the edit button

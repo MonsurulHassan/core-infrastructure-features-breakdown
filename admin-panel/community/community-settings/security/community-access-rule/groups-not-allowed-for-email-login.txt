@@ -1,0 +1,5 @@
+should verify that no group is selected by default
+should select a group from the drop-down
+should remove selected groups
+should search for a group using a keyword
+should not return results when searching with invalid input

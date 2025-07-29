@@ -1,0 +1,4 @@
+should verify email.deliver.reports folder is showing under the sub folders list
+should delete the selected subfolder by clicking the "Delete Current Folder" button and confirming with "Ok" in the delete pop-up
+should not delete the selected subfolder when cancelling with "Cancel" in the delete pop-up
+should redirect to the previous page by clicking the root folder from the delete folder page

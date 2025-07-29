@@ -1,0 +1,5 @@
+should select "Compact/Grid/List/Detail View" from the where can this label be applied drop-down
+should select "Comments" from the where can this label be applied drop-down
+should select "Idea Submission" from the where can this label be applied drop-down
+should search value using keyword search
+should not search value using invalid input

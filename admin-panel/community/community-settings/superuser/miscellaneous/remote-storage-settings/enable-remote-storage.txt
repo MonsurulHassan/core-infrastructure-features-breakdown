@@ -1,0 +1,1 @@
+should enable and disable enable remote storage switch.

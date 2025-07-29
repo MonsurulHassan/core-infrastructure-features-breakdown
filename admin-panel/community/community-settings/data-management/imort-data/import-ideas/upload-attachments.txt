@@ -1,0 +1,6 @@
+should enable or disable the upload attachments switch
+should display the "Attachments file to upload" field after enabling the switch
+should upload an attachment file using the browse file option
+should upload an attachment file using the drag and drop option
+should prevent unsupported files from being uploaded as attachments
+should display the maximum upload size limit for attachment files

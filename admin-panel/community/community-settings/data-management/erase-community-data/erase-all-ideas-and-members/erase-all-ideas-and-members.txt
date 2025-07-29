@@ -1,0 +1,6 @@
+should erase all ideas and members by typing delete in the clear ideas/members field
+should not erase all ideas and members by typing invalid input in the clear ideas/members field
+should verify Ideas and non admin members delete process completed for community email has been sent to the community owner
+should verify Ideas and non admin members delete process completed for community email has been sent to the community owner
+should dispaly Erase all ideas and members header and description
+should ensure all member deleted except administrators and superadmins.

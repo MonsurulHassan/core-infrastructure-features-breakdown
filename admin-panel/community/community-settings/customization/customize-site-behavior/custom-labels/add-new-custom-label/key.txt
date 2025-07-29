@@ -1,0 +1,3 @@
+should save the key with valid input
+should verify HTML tag is not allowed in the key field
+should automatically populate the key field with the name input value after clicking on the key field

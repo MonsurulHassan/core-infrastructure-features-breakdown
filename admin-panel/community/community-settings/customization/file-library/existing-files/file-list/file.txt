@@ -1,0 +1,5 @@
+should display the file name
+should display the alt text
+should update the alt text
+should display the HTML code
+should display the file URL

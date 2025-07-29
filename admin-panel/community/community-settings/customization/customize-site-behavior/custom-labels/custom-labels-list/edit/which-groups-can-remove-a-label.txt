@@ -1,0 +1,7 @@
+should select "All community members" from the which groups can remove a label drop-down
+should select "Author" from the which groups can remove a label drop-down
+should select "All Team Members" from the which groups can remove a label drop-down
+should select "Idea Owners" from the which groups can remove a label drop-down
+should select "Moderator" from the which groups can remove a label drop-down
+should search group name using keyword search
+should not search group name using invalid input
