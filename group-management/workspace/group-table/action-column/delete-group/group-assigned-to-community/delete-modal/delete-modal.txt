@@ -1,0 +1,6 @@
+should check the modal name and alert info
+should close the modal
+should show the community count, logo, and name
+should check the campaign count where the group is used
+should check the stage count where the group is used
+should cancel deleting the group

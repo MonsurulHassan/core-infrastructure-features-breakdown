@@ -1,0 +1,4 @@
+should verify only manually added members are shown in the list
+should remove all the members of the current page
+should remove all the members of all the pages
+should "Remove" button remains disabled without selecting any member

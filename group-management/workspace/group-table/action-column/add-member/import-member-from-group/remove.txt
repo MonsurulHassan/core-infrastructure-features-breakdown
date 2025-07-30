@@ -1,0 +1,4 @@
+should show the added group count
+should show the group avatar, name and member count
+should remove the single group
+should remove all the groups

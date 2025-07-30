@@ -1,0 +1,6 @@
+should group name column contain the group name and avatar
+should show the full group name hovering on the truncated group name
+should select all the groups of the current page
+should select all the groups of all the pages
+should sort the group name by ascending and descending order
+should adjust the column width

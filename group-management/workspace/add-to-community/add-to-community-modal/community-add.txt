@@ -1,0 +1,4 @@
+should add the group to a community
+should add bulk number of groups to a community
+should add the group to all the communities of the current page
+should add the group to all the communities of all the pages

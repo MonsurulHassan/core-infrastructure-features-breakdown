@@ -1,0 +1,5 @@
+should check the modal name and content
+should close the modal
+should delete the group
+should not allow the invalid input in the confirmation field
+should cancel deleting the group

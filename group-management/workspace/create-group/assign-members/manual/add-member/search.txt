@@ -1,3 +1,0 @@
-should search member with member name and email address
-should not show search result with invalid inputs
-should clear search text

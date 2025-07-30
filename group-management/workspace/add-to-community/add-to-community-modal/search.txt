@@ -1,0 +1,3 @@
+should search the community with community name
+should not show the search result with invalid search text
+should clear the search text in search field

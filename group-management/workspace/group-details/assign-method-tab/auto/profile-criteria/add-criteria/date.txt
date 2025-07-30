@@ -1,0 +1,2 @@
+should add Date type profile question criteria and check the question in profile question table
+should close the modal

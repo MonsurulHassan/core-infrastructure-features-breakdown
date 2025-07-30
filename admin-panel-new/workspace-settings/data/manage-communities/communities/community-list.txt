@@ -1,0 +1,6 @@
+should check the community logo, name and campaign count
+should check the modal content
+should confirm deleting the community
+should not allow invalid input other than "DELETE" in the field
+should cancel deleting the community
+should redirect to the community settings page after clicking on "Administer" link

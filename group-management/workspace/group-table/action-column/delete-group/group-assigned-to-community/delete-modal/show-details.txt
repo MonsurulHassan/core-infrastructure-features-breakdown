@@ -1,0 +1,7 @@
+should show the campaigns used count
+should expand and collapse the campaigns used section
+should show the campaign group, campaign name and logo
+should show the stages used count
+should expand and collapse the stages used section
+should show the workflow name and stage
+should click on the community name to go back

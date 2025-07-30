@@ -1,0 +1,2 @@
+should check header name and description
+should check help article redirection after clicking on "Learn More"

@@ -1,0 +1,4 @@
+should select the language
+should check the member with selected language added to the group after group creation
+should not show search list with invalid search input
+should close the modal

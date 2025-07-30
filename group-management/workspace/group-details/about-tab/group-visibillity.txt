@@ -1,0 +1,2 @@
+should hide the group visibility in the leaderboard
+should not hide the group visibility in the leaderboard

@@ -1,0 +1,3 @@
+should add the group to a single community
+should add the group to all the communities of the current page
+should add the group to all the communities of all the pages

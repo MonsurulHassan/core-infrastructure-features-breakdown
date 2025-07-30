@@ -1,0 +1,1 @@
+should select "All New Members" and check new members added to the group

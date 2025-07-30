@@ -1,0 +1,3 @@
+should search member with member name and email address
+should not allow to search member with invalid inputs in search field
+should clear the search value in search field

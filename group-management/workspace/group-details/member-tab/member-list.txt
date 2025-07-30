@@ -1,0 +1,3 @@
+should show the member avatar, name and email address
+should show the member count
+should show the assignment method beside the member name

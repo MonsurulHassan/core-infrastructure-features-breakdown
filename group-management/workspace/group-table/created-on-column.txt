@@ -1,0 +1,3 @@
+should "Created On" column contain the group creation date
+should sort the group creation date by ascending and descending order
+should adjust the column width

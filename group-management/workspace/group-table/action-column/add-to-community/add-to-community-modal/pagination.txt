@@ -1,0 +1,2 @@
+should select the page size
+should go to a specific page by clicking on the page number

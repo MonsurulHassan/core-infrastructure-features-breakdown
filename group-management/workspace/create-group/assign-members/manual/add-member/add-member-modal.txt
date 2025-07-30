@@ -1,6 +1,0 @@
-should add members
-should select and deselct all members
-should show member avatar, name, email address
-should select the page size
-should go to specific page
-should close the modal

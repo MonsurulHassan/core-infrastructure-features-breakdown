@@ -1,0 +1,2 @@
+should select the page size
+should traverse to the pages by clicking on the page number and arrow icons

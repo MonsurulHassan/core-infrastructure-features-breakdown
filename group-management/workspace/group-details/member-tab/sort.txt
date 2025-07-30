@@ -1,0 +1,5 @@
+should sort member by "Manual" sort criteria
+should sort member by "Email Domain" sort criteria
+should sort member by "Profile Criteria" sort criteria
+should sort member by "All New Members" sort criteria
+should sort member by "SSO" sort criteria
