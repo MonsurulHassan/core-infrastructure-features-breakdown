@@ -1,0 +1,2 @@
+should show the avatar and count of the groups
+should close the modal

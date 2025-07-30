@@ -1,0 +1,2 @@
+should show the number of community where group has been added in "Assign Method" column
+should adjust the column width

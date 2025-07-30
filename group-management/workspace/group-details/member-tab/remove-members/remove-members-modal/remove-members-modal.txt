@@ -1,0 +1,3 @@
+should check the modal name
+should close the modal
+should show the group avatar and name

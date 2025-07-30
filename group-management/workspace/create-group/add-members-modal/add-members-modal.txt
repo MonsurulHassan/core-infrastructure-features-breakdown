@@ -1,0 +1,2 @@
+should close the modal
+should go back to "Create Group" modal

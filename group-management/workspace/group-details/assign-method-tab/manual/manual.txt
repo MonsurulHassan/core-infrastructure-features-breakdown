@@ -1,0 +1,1 @@
+should disable manual assignment of members

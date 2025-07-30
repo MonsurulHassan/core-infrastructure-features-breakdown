@@ -1,0 +1,4 @@
+should show the group avatar, name and member count
+should add all the groups of the current page
+should add all the groups of all the pages
+should clear the selection of the groups

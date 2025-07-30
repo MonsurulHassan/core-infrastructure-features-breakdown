@@ -1,0 +1,5 @@
+should check the count of member unassigned to the community
+should check the modal content
+should confirm deleting the unassigned members
+should not allow invalid input other than "DELETE" in the field
+should cancel deleting the unassigned members

@@ -1,0 +1,1 @@
+should "Add to Community" option remain disabled without selecting any group

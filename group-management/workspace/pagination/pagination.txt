@@ -1,0 +1,2 @@
+should select the page size and check the groups are shown accordingly
+should traverse the pages by selecting a specific page and clicking on arrow icons

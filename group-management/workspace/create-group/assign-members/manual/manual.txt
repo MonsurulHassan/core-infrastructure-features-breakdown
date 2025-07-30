@@ -1,2 +1,0 @@
-should disable manual assignment of members
-should enable manual assignment of members

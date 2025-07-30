@@ -1,0 +1,4 @@
+should show the count of used community
+should show the community logo and name
+should verify the campaign count where the group is used
+should verify the stage count where the group is used

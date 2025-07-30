@@ -1,0 +1,1 @@
+should group permission section remain disabled during workspace group creation

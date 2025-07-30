@@ -1,3 +1,0 @@
-should search group with group name
-should not show search result with invalid inputs
-should clear search text

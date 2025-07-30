@@ -1,0 +1,1 @@
+should "Add to New Group" option remain disabled without selecting atleast two groups

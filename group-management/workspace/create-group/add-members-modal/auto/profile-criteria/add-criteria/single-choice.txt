@@ -1,0 +1,3 @@
+should check Single Choice type profile question criteria and check the question in profile question table
+should not show the search result with invalid search input
+should close the modal
