@@ -1,0 +1,2 @@
+should select the color from the color selection drop-down
+should ensure not able to select more than one color

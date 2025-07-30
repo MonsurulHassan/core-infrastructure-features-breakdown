@@ -1,0 +1,4 @@
+should display the page header
+should display the help text
+should ensure help article link redirects to the correct help article page
+should change the Basic to Advanced switch

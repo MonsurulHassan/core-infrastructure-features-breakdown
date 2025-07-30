@@ -1,0 +1,2 @@
+should display the page header and description
+should enable and disable enable community access rule switch

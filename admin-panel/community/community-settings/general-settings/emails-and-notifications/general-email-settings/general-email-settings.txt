@@ -1,4 +1,6 @@
-1. should check general email settings header name and description
-2. should redirect to general email settings help article after clicking on "Click here for more information"
-3. should set up email settings
-4. should not able to set up email settings with invalid input
+should check general email settings header name and description
+should redirect to general email settings help article after clicking on "Click here for more information"
+should set up email settings
+should not able to set up email settings with invalid input
+should verify "all email notification disabled" switch is disabled by default
+should enable and disable "all email notification disabled" switch 

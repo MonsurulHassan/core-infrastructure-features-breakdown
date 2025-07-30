@@ -1,0 +1,2 @@
+should display the help text
+should upload the file to a specific folder

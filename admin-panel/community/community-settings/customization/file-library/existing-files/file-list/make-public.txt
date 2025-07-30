@@ -1,0 +1,2 @@
+should make the image public by clicking the "Make Public" link
+should verify that the image is moved to the public folder

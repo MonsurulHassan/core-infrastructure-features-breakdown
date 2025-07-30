@@ -1,0 +1,2 @@
+should delete the file by clicking delete button when confirming with "Ok" in the delete pop-up
+should not delete the file when cancelling with "Cancel" in the delete pop-up 

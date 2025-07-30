@@ -1,0 +1,3 @@
+should add custom copyright
+should display the header text
+should reset to workspace default by clicking reset to workspace default link

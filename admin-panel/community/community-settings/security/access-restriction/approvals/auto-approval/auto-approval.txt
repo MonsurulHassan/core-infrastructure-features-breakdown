@@ -1,0 +1,1 @@
+should display the Auto approval header and description

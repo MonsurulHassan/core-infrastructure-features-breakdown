@@ -1,0 +1,4 @@
+should upload a zip file using the upload and unpack option
+should prevent unsupported files from being uploaded
+should display the description text for bulk upload using zip file
+should display the maximum upload size limit for zip files

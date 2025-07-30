@@ -1,0 +1,4 @@
+should generate template by clicking generate template button
+should able to download the generated template
+should verify batch processing email has been sent to the community owner after generating template
+should not able to generate template without selecting campaign

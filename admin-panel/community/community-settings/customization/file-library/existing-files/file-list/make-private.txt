@@ -1,0 +1,2 @@
+should make the image private by clicking the "Make Private" link from the public folder
+should verify that the image is moved to the root folder

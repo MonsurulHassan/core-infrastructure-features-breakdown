@@ -2,3 +2,5 @@ should add auto blocked domains with valid input
 should not add auto blocked domains with invalid input
 should remove added domains individually
 should remove all added domains at once
+should not quick add member using the blocklisted domain
+should not email adress using the blocklisted domain from profile >> settings >> email, services and devices section

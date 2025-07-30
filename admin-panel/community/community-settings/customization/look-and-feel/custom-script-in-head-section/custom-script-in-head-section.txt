@@ -1,0 +1,2 @@
+should add custom script
+should display the header text

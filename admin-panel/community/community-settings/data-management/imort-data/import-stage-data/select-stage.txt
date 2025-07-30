@@ -1,0 +1,2 @@
+should select assessment stage from the drop-down
+should verify only assessment stages are showing in the drop-down

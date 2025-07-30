@@ -1,0 +1,2 @@
+should display the access restriction header and description
+should redirect to the help article by clicking the "Click here for more information"

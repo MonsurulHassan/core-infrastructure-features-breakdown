@@ -1,0 +1,5 @@
+should display the maximum file upload size limit
+should upload a file using the browse file option
+should upload a file using drag and drop
+should not allow uploading more than 5 images at a time using drag and drop
+should prevent uploading unsupported file types

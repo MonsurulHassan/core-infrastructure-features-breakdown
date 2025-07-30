@@ -1,0 +1,2 @@
+should delete the added label by clicking the "Delete" button and confirming with "Ok" in the delete pop-up
+should not delete the added label when cancelling with "Cancel" in the delete pop-up

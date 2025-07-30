@@ -1,0 +1,4 @@
+should display the global theme description text
+should enable and disable custom CSS switch
+should save theme
+should display custom CSS description text

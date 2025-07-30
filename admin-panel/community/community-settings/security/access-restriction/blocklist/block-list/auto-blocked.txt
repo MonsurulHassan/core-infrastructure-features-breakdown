@@ -1,0 +1,3 @@
+should display the Auto blocked header and description
+should delete added domains individually
+shoould display the all added domains

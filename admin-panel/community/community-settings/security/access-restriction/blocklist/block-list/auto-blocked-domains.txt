@@ -1,0 +1,3 @@
+should add auto blocked domains with valid input
+should not add auto blocked domains with invalid input
+should not quick add member from the community member management using the blocklisted domain

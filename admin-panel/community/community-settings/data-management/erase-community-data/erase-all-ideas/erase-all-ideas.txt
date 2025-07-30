@@ -1,0 +1,5 @@
+should erase all ideas by typing delete in the clear ideas field
+should not erase all ideas by typing invalid input in the clear ideas field
+should verify Ideas delete process started for community for community email has been sent to the community owner
+should verify Ideas delete process completed for community email has been sent to the community owner
+should dispaly Erase all ideas header and description

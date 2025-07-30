@@ -1,0 +1,4 @@
+should display the Enabled label besides the display name for enabled configuration
+should not display the Enabled label besides the display name for disabled configuration
+should display Multipass logo
+should view the full display name

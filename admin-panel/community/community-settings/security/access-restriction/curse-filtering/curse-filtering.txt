@@ -1,0 +1,4 @@
+should display the curse filtering header and description
+should redirect to the help article by clicking the Learn more link 
+should enable or disable curse filtering switch
+should reset to workspace default by clicking reset to workspace default option

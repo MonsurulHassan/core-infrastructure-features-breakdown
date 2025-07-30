@@ -1,0 +1,4 @@
+should add emiji filtering
+should remove added emoji filtering individually
+should remove all added emoji filtering
+should reset to workspace default by clicking reset to workspace default option

@@ -1,0 +1,3 @@
+should prevent registration of new members when "Reject" is selected in the Email Domains Do Not Match Auto-Approval drop-down
+should send the member for approval after registration when "Moderate" is selected in the Email Domains Do Not Match Auto-Approval drop-down
+should automatically approve the member after registration when "Approve" is selected in the Email Domains Do Not Match Auto-Approval drop-down

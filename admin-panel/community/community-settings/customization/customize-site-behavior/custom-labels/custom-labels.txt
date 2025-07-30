@@ -1,0 +1,2 @@
+should display the page header and help text
+should verify after clicking on the help article link redirects to the correct page

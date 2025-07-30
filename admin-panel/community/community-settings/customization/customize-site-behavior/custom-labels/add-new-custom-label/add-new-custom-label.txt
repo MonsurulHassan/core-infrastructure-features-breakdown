@@ -1,0 +1,1 @@
+should open the add new custom label modal by clicking the add new custom label button

@@ -1,0 +1,4 @@
+should display the Memebr approval header and description
+should redirect to the help article page by clicking the Click here for more information link
+should enable new members approval switch
+should disable new members approval switch

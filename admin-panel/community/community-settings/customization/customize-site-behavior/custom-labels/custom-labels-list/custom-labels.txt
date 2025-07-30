@@ -1,0 +1,3 @@
+should display the added label name and the groups that can view, add, or remove it
+should verify configure link redircts to the new automation rule creation page
+should display the pagination
