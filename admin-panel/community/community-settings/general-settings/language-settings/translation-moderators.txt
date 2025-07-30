@@ -1,4 +1,4 @@
-1. should check translation moderators header name and description
-2. should assign translation moderator
-3. should not get member email address search value with invalid input
-4. should unassign translation moderator
+should check translation moderators header name and description
+should assign translation moderator
+should not get member email address search value with invalid input
+should unassign translation moderator

@@ -1,4 +1,4 @@
-1. should Total REST Api Calls module remain collapsed by default
-2. should Total REST Api Calls module expand and collapse
-3. should check total REST API Calls count and per community REST API calls count in Total REST Api Calls module
-4. should go to community or campaign home page after clicking on community name in Total REST Api Calls module
+should Total REST Api Calls module remain collapsed by default
+should Total REST Api Calls module expand and collapse
+should check total REST API Calls count and per community REST API calls count in Total REST Api Calls module
+should go to community or campaign home page after clicking on community name in Total REST Api Calls module

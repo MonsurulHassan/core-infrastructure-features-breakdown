@@ -1,0 +1,3 @@
+should mark member as Pending
+should cancel marking member as Pending
+should not mark member as Pending without selecting member

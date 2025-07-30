@@ -1,0 +1,6 @@
+should redirect to help article of Bulk Import Members Status
+should import bulk members status by file upload
+should not import bulk members without file upload
+should not import bulk members status by invalid file format
+should not import bulk members status by exceeded file size
+should cancel the Bulk Import of Members Status

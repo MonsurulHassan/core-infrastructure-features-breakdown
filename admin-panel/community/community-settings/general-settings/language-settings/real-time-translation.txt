@@ -1,5 +1,5 @@
-1. should check real time translation header name and description
-2. should enable "Show Translated Ideas & Comments By Default"
-3. should disable "Show Translated Ideas & Comments By Default"
-4. should enable "Display Unverified Translation"
-5. should disable "Display Unverified Translation"
+should check real time translation header name and description
+should enable "Show Translated Ideas & Comments By Default"
+should disable "Show Translated Ideas & Comments By Default"
+should enable "Display Unverified Translation"
+should disable "Display Unverified Translation"

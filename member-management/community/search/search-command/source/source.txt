@@ -1,0 +1,4 @@
+should select search value using ↑  and ↓ option
+should complete selected search using ↲  option
+should not allow search member by invalid search value
+should redirect to the help article by clicking "Learn how to use search commands" link

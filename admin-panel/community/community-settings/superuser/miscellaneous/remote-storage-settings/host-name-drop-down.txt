@@ -1,0 +1,6 @@
+should select FTP from the Host name drop-down
+should select FTPS from the Host name drop-down
+should select SFTP from the Host name drop-down
+should search value using keyword search
+should not search value using invalid input
+shoould verify Host Name is mandatory field

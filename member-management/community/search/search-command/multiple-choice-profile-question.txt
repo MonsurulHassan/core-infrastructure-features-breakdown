@@ -1,0 +1,2 @@
+should search member by multiple choice workspace and community member profile question responses
+should not allow search member by invalid search value

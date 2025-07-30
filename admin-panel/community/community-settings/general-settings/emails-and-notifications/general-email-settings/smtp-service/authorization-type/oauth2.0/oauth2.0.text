@@ -1,0 +1,4 @@
+should display the configuration status
+should display not configured when authorization is not configured
+should view the configured consumer key, consumer secret, access token, refresh token and expires in field value
+should ensure consumer key, consumer secret, access token, refresh token and expires in field is viewable only

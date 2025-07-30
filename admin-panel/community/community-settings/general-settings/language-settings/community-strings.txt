@@ -1,3 +1,3 @@
-1. should check community strings header name and description
-2. should enable "Only Display User Interface in Supported Languages"
-3. should disable "Only Display User Interface in Supported Languages"
+should check community strings header name and description
+should enable "Only Display User Interface in Supported Languages"
+should disable "Only Display User Interface in Supported Languages"

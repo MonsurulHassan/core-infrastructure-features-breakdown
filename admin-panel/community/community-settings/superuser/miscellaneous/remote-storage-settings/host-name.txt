@@ -1,0 +1,2 @@
+should save host name with valid input
+should not save host name with HTML tag input

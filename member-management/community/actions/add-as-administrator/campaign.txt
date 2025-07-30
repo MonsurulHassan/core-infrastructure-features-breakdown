@@ -1,0 +1,6 @@
+should display the add campaign administrator modal when clicking the campaign option
+should select a campaign from the drop-down
+should close the campaign administrator modal
+should add a campaign administrator
+should remove an added campaign from the modal
+should search for a campaign using the campaign name

@@ -1,0 +1,4 @@
+should view Community Member Management page title
+should redirect to the help article of Community Member Management
+should "Members" link remain selected in community Member Management page
+should redirect to Community Group Management page after clicking on "Groups" link

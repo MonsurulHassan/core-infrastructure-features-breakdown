@@ -1,0 +1,4 @@
+should search member by "Administrator" role
+should search member by "Moderator" role
+should search member by "Community Member" role
+should not allow search member by invalid search value

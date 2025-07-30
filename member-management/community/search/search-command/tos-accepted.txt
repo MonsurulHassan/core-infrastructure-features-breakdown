@@ -1,0 +1,3 @@
+should search by "Yes" value of "TOS Accepted" search command
+should search by "No" value of "TOS Accepted" search command
+should not allow search member by invalid search value

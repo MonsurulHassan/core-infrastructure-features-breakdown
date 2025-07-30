@@ -1,0 +1,4 @@
+should get token by clicking the get token button
+should redirect to the smtp setup page by clicking the cancel button
+should display the oauth 2.0 form text
+should redirect to the 

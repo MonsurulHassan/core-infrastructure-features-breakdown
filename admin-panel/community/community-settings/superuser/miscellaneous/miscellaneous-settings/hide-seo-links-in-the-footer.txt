@@ -1,0 +1,1 @@
+should enable and disable Hide "SEO Links in the Footer" switch

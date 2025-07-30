@@ -1,0 +1,6 @@
+should redirect to help article of Bulk Import Hide Identity
+should import bulk members hide identity by file upload
+should not import bulk members hide identity without file upload
+should not import bulk members hide identity by invalid file format
+should not import bulk members hide identity by exceeded file size
+should cancel the Bulk members hide identity 

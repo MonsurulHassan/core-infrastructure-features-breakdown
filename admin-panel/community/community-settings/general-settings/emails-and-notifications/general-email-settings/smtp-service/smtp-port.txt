@@ -1,0 +1,3 @@
+should add smtp port with valid input
+should not add smtp port with invalid input
+should verify smtp port is required field

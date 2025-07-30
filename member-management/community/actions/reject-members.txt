@@ -1,0 +1,4 @@
+should reject a member by clicking the "Reject member" action and confirming in the alert pop-up
+should not reject a member by clicking the "Reject member" action and cancelling in the alert pop-up
+should verify that only community moderators have access to the "Reject Member" action
+should display the "Reject Member" action when there are pending members in the community

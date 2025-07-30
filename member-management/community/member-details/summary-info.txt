@@ -1,0 +1,4 @@
+should view the total idea count posted by the member
+should view the total comment count submitted by the member
+should view the total vote count given by the member
+should view the total kudo count given by the member
