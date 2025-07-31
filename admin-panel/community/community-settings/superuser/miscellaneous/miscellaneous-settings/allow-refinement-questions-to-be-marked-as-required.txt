@@ -1,0 +1,1 @@
+should enable and disable "Allow refinement questions to be marked as required" switch

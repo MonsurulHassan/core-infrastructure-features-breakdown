@@ -1,1 +1,2 @@
-1. should select supported language
+should select supported language
+should verify English language is selected as default language

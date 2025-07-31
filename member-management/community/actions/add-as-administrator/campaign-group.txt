@@ -1,0 +1,6 @@
+should display the add campaign group administrator modal when clicking the campaign group option
+should select a campaign group from the drop-down
+should close the campaign group administrator modal
+should add a campaign group administrator
+should remove an added campaign group from the modal
+should search for a campaign group using the campaign group name

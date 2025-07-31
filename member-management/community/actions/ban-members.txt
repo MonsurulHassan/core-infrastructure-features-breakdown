@@ -1,0 +1,3 @@
+should ban members
+should not able to ban members without selecting members
+should cancel banning members

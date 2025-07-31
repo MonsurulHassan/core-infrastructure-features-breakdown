@@ -1,0 +1,5 @@
+should view the group names if the member is added to any group
+should not show the group name if the member is not added to any group
+should remove member from the group
+should cancel removing member from the group
+should display a "show more" link when the member belongs to multiple groups

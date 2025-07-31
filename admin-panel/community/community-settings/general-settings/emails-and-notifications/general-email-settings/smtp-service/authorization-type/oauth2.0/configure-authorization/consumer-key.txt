@@ -1,0 +1,3 @@
+should add consumer key with valid input
+should not add consumer key with invalid input
+should verify consumer key is required field

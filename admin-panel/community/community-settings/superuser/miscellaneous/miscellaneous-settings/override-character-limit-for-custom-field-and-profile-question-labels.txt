@@ -1,0 +1,1 @@
+should enable and disable "Override Character Limit for custom Field & Custom Profile Question" Labels switch

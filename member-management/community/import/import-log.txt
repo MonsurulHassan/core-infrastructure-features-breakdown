@@ -1,0 +1,2 @@
+should view the import log
+should close the import log

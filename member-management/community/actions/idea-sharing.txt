@@ -1,0 +1,2 @@
+should enable or disable the idea sharing after selecting a member
+should not enable or disable the idea sharing without selecting a member

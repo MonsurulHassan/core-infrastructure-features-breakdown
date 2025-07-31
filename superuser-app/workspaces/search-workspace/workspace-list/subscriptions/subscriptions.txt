@@ -1,0 +1,4 @@
+should open the subscription modal after clicking the subscription number
+should display the subscription list
+should display the subscription logo, name, and status
+should close the subscription modal

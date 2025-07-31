@@ -1,0 +1,5 @@
+should search member by "powerbi" app
+should search member by "slack" role
+should search member by "teams" role
+should not allow search member by invalid search value
+should not allow search member by invalid search value

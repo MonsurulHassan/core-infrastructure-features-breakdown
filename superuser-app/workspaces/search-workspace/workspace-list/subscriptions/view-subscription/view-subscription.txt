@@ -1,0 +1,2 @@
+should display the workspace logo and name
+should display the subscription name

@@ -1,0 +1,3 @@
+should search member by "yet to join" invitation status
+should search member by "accepted" invitation status
+should not allow search member by invalid search value

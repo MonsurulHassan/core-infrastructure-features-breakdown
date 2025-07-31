@@ -1,0 +1,3 @@
+should add authorization uri with valid input
+should not add authorization uri with invalid input
+should verify authorization uri is required field

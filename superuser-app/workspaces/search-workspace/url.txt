@@ -1,0 +1,6 @@
+should search workspace using workspace name
+should search workspace using keyword search
+should search all workspace using wildcard
+should not search workspace using invalid input
+should not search workspace using HTML Tag input
+should not search workspace using empty input

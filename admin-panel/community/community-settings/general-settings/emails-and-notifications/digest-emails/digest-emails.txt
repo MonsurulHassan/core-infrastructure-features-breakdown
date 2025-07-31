@@ -1,2 +1,2 @@
-1. should check digest emails header name and description
-2. should redirect to digest emails help article
+should check digest emails header name and description
+should redirect to digest emails help article

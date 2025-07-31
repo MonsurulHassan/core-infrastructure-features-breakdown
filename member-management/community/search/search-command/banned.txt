@@ -1,0 +1,2 @@
+should search member by "Banned" search command
+should not allow search member by invalid search value

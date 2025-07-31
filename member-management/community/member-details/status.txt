@@ -1,0 +1,4 @@
+should view the membership status of the member
+should change the status of the member to Pending
+should change the status of the member to Banned
+should change the status of the member to Member

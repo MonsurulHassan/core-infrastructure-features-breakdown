@@ -1,0 +1,1 @@
+should enable and disable Allow Full Control Over Custom Pages (including custom landing page) switch

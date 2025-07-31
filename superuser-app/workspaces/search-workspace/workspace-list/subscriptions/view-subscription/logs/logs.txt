@@ -1,0 +1,2 @@
+should display all logs
+should display the Admin, Timestamp, IP, Web server, Action, and Notes column values

@@ -1,0 +1,4 @@
+should approve a member by clicking the "Approve member" action and confirming in the alert pop-up
+should not approve a member by clicking the "Approve member" action and cancelling in the alert pop-up
+should verify that only community moderators have access to the "Approve Member" action
+should display the "Approve Member" action when there are pending members in the community

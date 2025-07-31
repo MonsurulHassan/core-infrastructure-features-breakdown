@@ -1,0 +1,3 @@
+should save Plug in your Google Tag Manager ID with valid input
+should not save Plug in your Google Tag Manager ID with HTML tag input
+should display the field help text

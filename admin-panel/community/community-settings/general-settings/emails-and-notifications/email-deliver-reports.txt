@@ -1,3 +1,3 @@
-1. should check email deliver reports header name and description
-2. should redirect to email deliver reports help article after clicking on "Click here for more information"
-3. should view email deliver reports
+should check email deliver reports header name and description
+should redirect to email deliver reports help article after clicking on "Click here for more information"
+should view email deliver reports

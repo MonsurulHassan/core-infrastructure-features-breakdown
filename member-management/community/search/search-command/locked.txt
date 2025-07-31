@@ -1,0 +1,3 @@
+should search member by "Wrong Password" of "Locked" search command
+should search member by "Account Inactivity" of "Locked" search command
+should not allow search member by invalid search value

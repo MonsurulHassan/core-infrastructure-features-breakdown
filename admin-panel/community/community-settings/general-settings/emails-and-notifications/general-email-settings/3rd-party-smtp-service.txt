@@ -1,2 +1,0 @@
-1. setup basic 3rd party smtp service
-2. setup oauth 2.0 3rd party smtp service

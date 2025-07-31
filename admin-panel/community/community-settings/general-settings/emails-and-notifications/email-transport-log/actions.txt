@@ -1,2 +1,2 @@
-1. should view details of email transport
-2. should view debug log of email transport
+should view details of email transport
+should view debug log of email transport

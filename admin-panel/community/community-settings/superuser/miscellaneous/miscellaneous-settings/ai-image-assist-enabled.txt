@@ -1,0 +1,1 @@
+should enable and disable AI image assist enabled switch

@@ -1,0 +1,3 @@
+should add smtp username with valid input
+should not add smtp username with invalid input
+should verify smtp username is required field

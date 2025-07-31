@@ -1,0 +1,4 @@
+should display the "SSL" option as default connection security
+should select "STARTTLS" option from the connection security drop-down
+should select "Restrict TLS" option from the connection security drop-down
+should select "SSL" option from the connection security drop-down

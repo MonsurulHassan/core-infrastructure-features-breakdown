@@ -1,0 +1,4 @@
+should login successfully with valid email and password
+should login failed with invalid email and password
+should login successfully with email with space
+should view password from the password field

@@ -1,0 +1,6 @@
+should show the community member profile question's response if the member answers
+should not show the community member profile question's response if the member does not answer
+should update the member profile question's response by the admin
+should cancel updating the member profile question's response by the admin
+should display the last updated time next to the profile question response
+should display an info tip next to the updated time

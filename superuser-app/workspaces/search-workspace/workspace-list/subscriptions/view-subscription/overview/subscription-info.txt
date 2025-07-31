@@ -1,0 +1,4 @@
+should display the name, subscription, upgrade date, start date, end date, and renewal notice
+should update the subscription name
+should modify the subscription details
+should update the start date and end date

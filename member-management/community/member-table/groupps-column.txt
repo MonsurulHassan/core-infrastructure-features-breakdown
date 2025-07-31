@@ -1,0 +1,4 @@
+should display the member's assigned groups in the column
+should not show any group if the member has no assigned group
+should display all assigned groups after clicking the three-dot menu
+should allow changing the column width

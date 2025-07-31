@@ -1,0 +1,2 @@
+should enable or disable the leaderboard after selecting a member
+should not enable or disable the leaderboard without selecting a member

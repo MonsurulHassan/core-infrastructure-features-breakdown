@@ -1,0 +1,5 @@
+should search member by "Community Administrator"
+should search member by "Custom Administrator"
+should search member by "Campaign Administrator"
+should search member by "Campaign Group Administrator"
+should not allow search member by invalid search value

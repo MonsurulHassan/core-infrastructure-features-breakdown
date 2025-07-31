@@ -1,0 +1,2 @@
+should open the "Add New Subscription" modal after clicking the add new subscription button
+should close the "Add New Subscription" modal

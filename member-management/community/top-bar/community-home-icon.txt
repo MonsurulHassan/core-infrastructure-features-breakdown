@@ -1,0 +1,1 @@
+should redirect to community home page after clicking on community home icon

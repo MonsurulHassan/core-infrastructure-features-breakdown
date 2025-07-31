@@ -1,0 +1,2 @@
+should add subscripption name with valid input
+should not add subscrition name with HTML tag

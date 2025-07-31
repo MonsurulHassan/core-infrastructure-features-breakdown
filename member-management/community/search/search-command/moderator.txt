@@ -1,0 +1,5 @@
+should search member by "Community Moderator"
+should search member by "Campaign Moderator"
+should search member by "Group Moderator"
+should search member by "Custom Field Moderator"
+should not allow search member by invalid search value

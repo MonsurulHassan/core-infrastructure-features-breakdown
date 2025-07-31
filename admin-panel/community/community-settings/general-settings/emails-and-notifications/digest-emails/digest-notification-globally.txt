@@ -1,2 +1,2 @@
-1. should enable digest notifications globally
-2. should disable digest notifications globally
+should enable digest notifications globally
+should disable digest notifications globally

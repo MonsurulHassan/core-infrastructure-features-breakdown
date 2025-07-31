@@ -1,0 +1,6 @@
+should display "+role count" when more than two roles are present
+should display role details after clicking on the username
+should display community-wise role names
+should display workspace-specific roles
+should close the role details page
+should display user avatar, display name, and username on the role details page

@@ -1,0 +1,2 @@
+should save remote path with valid input
+should not save remote path with HTML input

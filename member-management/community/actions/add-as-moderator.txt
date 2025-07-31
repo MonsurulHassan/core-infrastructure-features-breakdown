@@ -1,0 +1,7 @@
+should add a community moderator
+should display the add campaign moderator modal when clicking the campaign option
+should select a campaign from the drop-down
+should close the campaign moderator modal
+should add a campaign moderator
+should remove an added campaign from the modal
+should search for a campaign using the campaign name
