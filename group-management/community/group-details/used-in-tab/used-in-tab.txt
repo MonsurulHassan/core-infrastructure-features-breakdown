@@ -1,0 +1,6 @@
+should show the count of used campaign
+should expand and collapse the Campaigns Used section
+should verify the used campaign group name, campaign logo and name
+should show the count of used stage
+should expand and collapse the Stages Used section
+should verify the used workflow and stage name

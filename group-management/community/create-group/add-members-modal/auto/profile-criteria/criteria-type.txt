@@ -1,0 +1,2 @@
+should select "Match All Criteria" criteria type and check member added to the group as per criteria
+should select "Any of the Criteria" criteria type and check member added to the group as per criteria

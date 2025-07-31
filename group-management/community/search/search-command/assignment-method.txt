@@ -1,0 +1,6 @@
+should search group by "Manual" assignment method
+should search group by "SSO" assignment method
+should search group by "Email Domain" assignment method
+should search group by "Profile Question" assignment method
+should search group by "All New Members" assignment method
+should not allow search group by invalid search value

@@ -1,0 +1,4 @@
+should show the member avatar, name and email address
+should add all the members of the current page
+should add all the members of all the pages
+should clear the selection of the members

@@ -1,0 +1,5 @@
+should create group with group name
+should not allow duplicate group name in Group Name field
+should not allow html tag in Group Name field
+should not keep Group Name field blank
+should not allow more than 100 characters in Group Name field

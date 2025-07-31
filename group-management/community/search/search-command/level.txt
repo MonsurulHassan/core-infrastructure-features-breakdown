@@ -1,0 +1,3 @@
+should search group by "Community" level
+should search group by "Workspace" level
+should not allow search group by invalid search value

@@ -1,0 +1,2 @@
+should check the modal name
+should close the create group modal

@@ -1,0 +1,5 @@
+should search member by member name
+should search member by member email address
+should trim space from the start and end of the search text
+should not show search result with invalid search text
+should clear search text

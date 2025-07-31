@@ -1,0 +1,7 @@
+should check the modal name and alert info
+should close the modal
+should expand and collapse the used campaign section
+should show the used campaign count, campaign group name, campaign logo, and name
+should expand and collapse the used stage section
+should show the used workflow and stage name
+should cancel deleting the group

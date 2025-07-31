@@ -1,0 +1,4 @@
+should view the group avatar
+should view the group name along with level
+should view the member count
+should view the group creation date

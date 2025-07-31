@@ -1,0 +1,3 @@
+should show "Community" for the community level group
+should show "Workspace" for the workspace level group
+should adjust the column width

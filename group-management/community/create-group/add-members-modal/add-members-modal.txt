@@ -1,0 +1,3 @@
+should check the modal name
+should close the modal
+should go back to "Create Group" modal

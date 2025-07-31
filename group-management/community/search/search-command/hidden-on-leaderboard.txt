@@ -1,0 +1,3 @@
+should search group by "Yes" value
+should search group by "No" value
+should not allow search group by invalid search value

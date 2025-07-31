@@ -1,0 +1,6 @@
+should create group allowing "Inherit Global, Campaign and Stage settings" as idea submission permission
+should create group allowing "This group may always submit irrespective Global, Campaign, and Stage settings" as idea submission permission
+should create group allowing "This group may never submit irrespective Global, Campaign, and Stage settings" as idea submission permission
+should create group allowing "Inherit Global, Campaign and Stage settings" as comment submission permission
+should create group allowing "This group may always submit irrespective Global, Campaign, and Stage settings" as comment submission permission
+should create group allowing "This group may never submit irrespective Global, Campaign, and Stage settings" as comment submission permission

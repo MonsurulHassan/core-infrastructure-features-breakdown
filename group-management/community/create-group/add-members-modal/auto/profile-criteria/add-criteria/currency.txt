@@ -1,0 +1,3 @@
+should add Currency type profile question criteria and check the question in profile question table
+should not allow invalid currency as response
+should close the modal

@@ -1,0 +1,3 @@
+should "Assigned On" column contain the group creation date
+should sort the column value by ascending and descending order
+should adjust the column width

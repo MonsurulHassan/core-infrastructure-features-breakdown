@@ -1,0 +1,6 @@
+should check the modal name
+should close the modal
+should update the group name
+should not keep the field blank
+should not allow html tags in the field
+should not allow more than 100 characters in the field

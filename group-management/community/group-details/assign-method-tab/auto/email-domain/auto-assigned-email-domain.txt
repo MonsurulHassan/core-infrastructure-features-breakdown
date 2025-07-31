@@ -1,0 +1,7 @@
+should add auto assigned email domain
+should check the member having auto assigned email domain added to the group after group creation
+should not add blocked email domain as auto assigned email domain
+should remove a single email domain
+should remove all the email domains
+should not allow invalid email domain
+should show and hide info tip after clicking on info tip icon

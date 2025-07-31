@@ -1,0 +1,3 @@
+should "Members" column contain the number of members added to the group
+should sort the member count by ascending and descending order
+should adjust the column width

@@ -1,0 +1,4 @@
+should search group by "Inherit Settings" value
+should search group by "May always submit" value
+should search group by "May never submit" value
+should not allow search group by invalid search value

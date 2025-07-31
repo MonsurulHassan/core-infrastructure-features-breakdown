@@ -1,0 +1,3 @@
+should search group by single choice type workspace member profile question responses
+should search group by single choice type community member profile question responses
+should not allow search group by invalid search value
