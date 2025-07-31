@@ -1,0 +1,2 @@
+should successfully resend the authentication code
+should display a success alert after resending the code

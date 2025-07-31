@@ -1,0 +1,4 @@
+should select University partner license
+should select Enterprise license
+should select Civic Engagement license
+should select Government license

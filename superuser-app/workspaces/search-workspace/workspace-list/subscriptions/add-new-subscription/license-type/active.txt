@@ -1,0 +1,4 @@
+should select Evaluation icense type
+should select Lite license
+should select Monthly license
+should select Free Account license

@@ -1,0 +1,2 @@
+should add email address using valid email
+should not add email address using invalid email

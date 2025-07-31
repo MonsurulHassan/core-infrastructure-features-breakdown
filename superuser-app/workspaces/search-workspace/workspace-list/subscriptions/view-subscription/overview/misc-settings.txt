@@ -1,0 +1,2 @@
+should display payment terms, Max Community Count:, Number of Seats:, User Limit:, Number of Campaigns Override:, Number of Idea Custom Fields Override:, Number of Profile Questions Override:, Number of Custom Idea Stages Override:, ChatGPT token limit:, AI image limit:, No Charge on Additional Communities:, Manual Renewal Forced:, File storage space allowed (Default:50MB):, Max file upload size allowed (Default:25MB):, Enable Support Chat Integration for all the communities:, Max Adhoc/Test Email Recipients (Default:25): settings
+should update misc settings.

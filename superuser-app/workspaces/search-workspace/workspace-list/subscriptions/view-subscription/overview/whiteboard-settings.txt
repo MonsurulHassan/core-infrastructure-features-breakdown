@@ -1,0 +1,2 @@
+should display the whiteboard settings information
+should update the whiteboard settings information

@@ -1,0 +1,3 @@
+should display the id, email, status, creation date, last access and admin notes
+should modify the status
+should modify the admin notes

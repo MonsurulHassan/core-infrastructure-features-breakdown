@@ -1,0 +1,7 @@
+should display the complete list of seats
+should display the user, role, and community columns
+should display the user avatar, display name, and username
+should display the role for each user
+should display all community names
+should display pagination controls
+should navigate to the next and previous pages by clicking the arrow icon

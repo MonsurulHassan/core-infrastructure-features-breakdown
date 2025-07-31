@@ -1,0 +1,1 @@
+should redirect to the login page by clicking the "Login as different user" link

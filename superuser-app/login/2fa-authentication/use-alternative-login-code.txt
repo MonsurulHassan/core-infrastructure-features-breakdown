@@ -1,0 +1,4 @@
+should display the Ideascale logo, page header, and description on the 2 Step Authentication Alternative Code page
+should successfully verify using a valid code
+should fail verification using an invalid code
+should back to authentication page by clicking the "Back to authentication page" link

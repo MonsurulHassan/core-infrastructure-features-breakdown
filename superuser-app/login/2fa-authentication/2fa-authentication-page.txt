@@ -1,0 +1,5 @@
+should display the Ideascale logo, page header, and description on the 2FA authentication page
+should verify that the full email address is not displayed
+should successfully verify using a valid OTP
+should fail verification using an invalid OTP
+should display "Resend Code", "Use alternative login code", and "Login as a different user" options

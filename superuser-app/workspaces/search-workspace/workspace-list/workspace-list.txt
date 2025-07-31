@@ -1,0 +1,6 @@
+should display workspace name, subscriptions, status, action, sudo, and view settings options
+should display the complete list of workspaces
+should display pagination controls
+should navigate to a specific page by clicking the page number
+should display the page size
+should navigate to the next and previous pages by clicking the arrow icons

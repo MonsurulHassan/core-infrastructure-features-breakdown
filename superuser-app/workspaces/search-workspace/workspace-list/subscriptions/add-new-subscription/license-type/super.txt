@@ -1,0 +1,5 @@
+should select Partner license
+should select Non-profit waiver license
+should select Mobile license
+should select Startup America license
+should select Student license

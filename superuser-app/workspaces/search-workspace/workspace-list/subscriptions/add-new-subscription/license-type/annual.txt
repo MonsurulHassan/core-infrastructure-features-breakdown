@@ -1,0 +1,2 @@
+should select Annual($999) license
+should select Annual($2500) license

@@ -1,0 +1,5 @@
+should display the complete list of communities
+should display the community name, status, ideas, and members columns
+should display the community logo and name
+should display the total ideas count for each community
+should display the total members count for each community

@@ -1,0 +1,2 @@
+should display workspace logo, name and URL
+should copy the workspace URL

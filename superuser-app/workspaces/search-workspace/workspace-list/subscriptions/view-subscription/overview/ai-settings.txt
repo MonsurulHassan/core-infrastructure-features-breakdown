@@ -1,0 +1,2 @@
+should display the AI settings information
+should update the AI settings information

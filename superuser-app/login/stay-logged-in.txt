@@ -1,0 +1,2 @@
+should keep the user logged in after closing and reopening the browser if stay logged-in checkbox is checked
+should unchecked stay logged in switch
