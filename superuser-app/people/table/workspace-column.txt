@@ -1,0 +1,4 @@
+should show the workspace name and url
+should redirect to the worksapce creating on worksapce title
+should show the status
+should able to copy the workspace and url

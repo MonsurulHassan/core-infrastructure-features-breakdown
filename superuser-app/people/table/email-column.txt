@@ -1,0 +1,1 @@
+should show the avatar and email address of the member

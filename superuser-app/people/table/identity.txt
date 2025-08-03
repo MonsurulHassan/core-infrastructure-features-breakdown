@@ -1,0 +1,5 @@
+should show the count of identity
+should show the identity details clicking on the identity count
+should sudo the member
+should reset password by automatically password generation
+should reset password by creating password
