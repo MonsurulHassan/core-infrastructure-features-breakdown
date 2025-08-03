@@ -1,0 +1,3 @@
+should add email with valid email address
+should not add email with invalid input
+should ensure email is mandatory field

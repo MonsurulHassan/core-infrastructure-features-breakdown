@@ -1,0 +1,2 @@
+should modify the user role and save changes by clicking the confirm button after selecting the role
+should not modify the user role when clicking the cancel button after selecting a role

@@ -1,0 +1,2 @@
+should open the add user modal after clicking on the "Add User" button
+should close the add user modal

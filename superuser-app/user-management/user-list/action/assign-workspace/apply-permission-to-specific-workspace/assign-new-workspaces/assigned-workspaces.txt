@@ -1,0 +1,7 @@
+should display the total count of assigned workspaces
+should display the workspace name and link
+should unassign the selected workspace
+should select all assigned workspaces at once
+should select workspaces one by one
+should clear all selected workspaces
+should display the Unassign button after selecting a workspace

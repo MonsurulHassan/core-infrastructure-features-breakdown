@@ -1,0 +1,2 @@
+should verify that the "Apply permission to all workspaces" checkbox is checked by default
+should assign the user to all workspaces

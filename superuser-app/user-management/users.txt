@@ -1,0 +1,7 @@
+should display All tab
+should display support tab
+should display System Admin tab
+should display Customer Relations tab
+should display Accountant tab
+should display Uber User tab
+should display Product tab

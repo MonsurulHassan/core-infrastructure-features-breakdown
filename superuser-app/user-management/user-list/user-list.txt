@@ -1,0 +1,3 @@
+should display the user avatar, display name, email, and role
+should display lock icon besides the lock user
+should display a three-dot menu in the Action column

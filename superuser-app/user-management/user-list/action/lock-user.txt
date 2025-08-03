@@ -1,0 +1,2 @@
+should lock the user by clicking the lock button in the pop-up
+should not lock the user by clicking the cancel button in the pop-up

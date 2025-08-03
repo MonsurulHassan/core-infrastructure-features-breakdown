@@ -1,0 +1,3 @@
+should allow selecting multiple roles at a time
+should ensure that the role field is mandatory
+should allow selecting a single role

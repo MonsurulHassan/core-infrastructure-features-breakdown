@@ -1,0 +1,2 @@
+should unlock the user by clicking the unlock button in the pop-up
+should not unlock the user by clicking the cancel button in the pop-up

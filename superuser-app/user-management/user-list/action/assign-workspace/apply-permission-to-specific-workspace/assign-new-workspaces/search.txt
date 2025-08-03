@@ -1,0 +1,5 @@
+should search for a workspace using the workspace name
+should search for a workspace using a keyword
+should not return results when searching with invalid input
+should display all workspaces after clicking the search button
+should allow scrolling through the searched workspace list

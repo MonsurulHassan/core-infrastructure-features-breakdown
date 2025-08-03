@@ -1,0 +1,1 @@
+should ensure that the lock user and remove user options are not visible for the superuser app owner

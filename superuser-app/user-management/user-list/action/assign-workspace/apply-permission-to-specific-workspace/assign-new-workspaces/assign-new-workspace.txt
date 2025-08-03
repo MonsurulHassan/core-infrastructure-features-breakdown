@@ -1,0 +1,5 @@
+should assign a single workspace
+should assign multiple workspaces
+should remove all added workspaces at once
+should remove workspaces one by one
+should close the assign workspace modal

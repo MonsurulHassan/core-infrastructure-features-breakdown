@@ -1,0 +1,5 @@
+shoud search user using user name
+should search user using keyword search
+should not search user using HTML input
+should not search user using invalid input
+should search user using email
