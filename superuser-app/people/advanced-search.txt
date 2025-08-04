@@ -1,0 +1,5 @@
+should search member by email address
+should search member by subscription status
+should search member by license
+should search member by license expires in days
+should search member by only showing expired subscription
