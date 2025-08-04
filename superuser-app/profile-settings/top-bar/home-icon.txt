@@ -1,0 +1,1 @@
+should go to sueruser app home page after clicking on the home icon

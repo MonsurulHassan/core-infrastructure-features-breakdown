@@ -1,0 +1,3 @@
+should enable and disable the theme toggle icon
+should display the app in dark mode after enabling dark mode
+should display the app in light mode after enabling light mode

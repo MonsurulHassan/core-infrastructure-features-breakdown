@@ -1,0 +1,6 @@
+should check or uncheck the "Email me a code" radio button
+should copy a backup code
+should refresh the backup codes
+should ensure the number of backup codes decreases after using a code
+should display five backup codes
+should display the backup code help text
