@@ -1,0 +1,3 @@
+should add spammer
+should not allow invalid inputs in IP field
+should not allow invalid inputs in Email field

@@ -1,0 +1,2 @@
+should allow url in Feature URL field
+should allow invalid inputs in Feature URL field

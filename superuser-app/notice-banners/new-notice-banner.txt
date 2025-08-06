@@ -1,0 +1,7 @@
+should create Info type notice banner
+should create Warning type notice banner
+should create Danger type notice banner
+should create Success type notice banner
+should not allow invalid inputs in Notice Description field
+should not allow invalid inputs in Anchor Text field
+should not allow invalid inputs in URL field

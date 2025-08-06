@@ -1,0 +1,2 @@
+should view the blocklist domain names
+should delete the domain

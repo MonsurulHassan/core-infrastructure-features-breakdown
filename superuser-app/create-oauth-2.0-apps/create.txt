@@ -1,0 +1,2 @@
+should create the app name
+should not allow invalid inputs as App name

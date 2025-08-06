@@ -1,0 +1,4 @@
+should search the feature
+should not allow html tags in search field
+should not show search result with invalid search inputs
+should clear the search text

@@ -1,0 +1,5 @@
+should view the released features list
+should view the upcoming features list
+should view the planning features list
+should update the new feature
+should delete the new feature

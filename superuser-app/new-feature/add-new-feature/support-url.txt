@@ -1,0 +1,2 @@
+should allow url in Support URL field
+should allow invalid inputs in Support URL field

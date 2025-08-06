@@ -1,0 +1,3 @@
+should add description in Description field
+should not keep Description field blank
+should allow all types of input in the rich text editor

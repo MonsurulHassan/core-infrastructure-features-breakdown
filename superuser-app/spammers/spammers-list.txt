@@ -1,0 +1,3 @@
+should show the spammers list
+should update the spammer
+should delete the spammer

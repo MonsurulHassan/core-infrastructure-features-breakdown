@@ -1,0 +1,7 @@
+should view All notice 
+should view Live notice banners
+should view Upcoming notice banners
+should view Pase notice banners
+should view Inactive notice banners
+should delete the notice banner
+should update the notice banner

@@ -1,0 +1,2 @@
+should view the seo list
+should delete the seo

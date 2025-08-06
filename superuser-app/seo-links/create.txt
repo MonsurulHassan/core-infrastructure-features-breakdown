@@ -1,0 +1,4 @@
+should create seo link
+should not allow invalid inputs as SEO Text
+should not allow invalid inputs as SEO Keywords
+should not allow invalid inputs as SEO URL

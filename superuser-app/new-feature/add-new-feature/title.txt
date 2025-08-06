@@ -1,0 +1,3 @@
+should add title in Title field
+should not allow html tags
+should not keep title field blank

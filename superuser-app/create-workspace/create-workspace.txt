@@ -1,0 +1,6 @@
+should create workspace
+should not allow invalid inputs in Workspace field
+should not allow invalid inputs in Workspace URL field
+should not allow invalid inputs in Community Name field
+should not allow invalid inputs in Community URL field
+should not allow invalid inputs in Email Address field
