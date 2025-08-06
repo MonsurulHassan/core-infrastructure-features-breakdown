@@ -1,0 +1,7 @@
+should check or uncheck the "Use an authenticator app" radio button
+should save the authenticator app using a valid 6-digit code
+should not save the authenticator app using an invalid code
+should reset the QR code
+should copy a backup code
+should refresh the backup codes
+should ensure the number of backup codes decreases after using a code

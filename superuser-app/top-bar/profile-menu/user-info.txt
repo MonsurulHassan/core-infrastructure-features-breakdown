@@ -1,0 +1,2 @@
+should view avatar, display name in the profile menu
+should go to profile settings page after clicking on user info

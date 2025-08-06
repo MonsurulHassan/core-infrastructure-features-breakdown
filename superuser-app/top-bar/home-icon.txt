@@ -1,0 +1,1 @@
+should remain on the superuser app home page after clicking the home icon
