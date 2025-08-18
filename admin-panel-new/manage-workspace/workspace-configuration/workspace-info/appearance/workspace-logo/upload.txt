@@ -1,0 +1,105 @@
+1.
+Title: Should add workspace logo via browsing file
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Info page
+# Click on the "Appearance" tab
+# Click on the "Add logo"
+# Click on "Browse File"
+# Upload the file
+# Click on the "Save changes" button in "Adjust Image" modal
+# Add alt text in "Alt Text" field
+# Click on the Save button
+
+Expectation:
+Workspace logo will be added
+
+2.
+Title: Should add workspace logo via dragging and dropping file
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Info page
+# Click on the "Appearance" tab
+# Click on the "Add logo"
+# Drag a file and drop in to the field
+# Click on the "Save changes" button in "Adjust Image" modal
+# Add alt text in "Alt Text" field
+# Click on the Save button
+
+Expectation:
+Workspace logo will be added
+
+3.
+Title: Should not allow html tags as alt text while adding workspace logo
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the "Appearance" tab
+# Click on the "Add logo"
+# Click on "Browse File"
+# Upload the file
+# Click on the "Save changes" button in "Adjust Image" modal
+# Add html tags in "Alt Text" field
+# Click on the Save button
+Expectation:
+Error message will be shown
+
+4.
+Title: Should delete the uploaded file
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the "Appearance" tab
+# Click on the "Add logo"
+# Click on "Browse File"
+# Upload the file
+# Click on the "Save changes" button in "Adjust Image" modal
+# Click on the delete icon
+
+Expectation:
+Uploaded file will be deleted
+
+5.
+Title: Should not allow invalid uploads
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the "Appearance" tab
+# Click on the "Add logo"
+# Click on "Browse File"
+# Upload an unsupported file
+# Click on the Save button
+
+Expectation:
+Alert will be shown
+File will not be uploaded
+
+Steps:
+# Upload a file exceeding the file size
+# Click on the Save button
+
+Expectation:
+Alert will be shown
+File will not be uploaded
+
+6.
+Title: Should cancel the file upload
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the "Appearance" tab
+# Click on the "Add logo"
+# Click on "Browse File"
+# Upload the file
+# Click on the "Save changes" button in "Adjust Image" modal
+# Click on the cross icon in the modal
+
+Expectation:
+Modal will be closed
+File will not be uploaded

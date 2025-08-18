@@ -1,0 +1,95 @@
+1.
+Title: Should workspace terms of service remain disabled by default
+
+Pre-condition:
+New workspace should be available
+
+Steps:
+# Login to the new workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the "Terms of Service" tab
+
+Expectation:
+Workspace terms of service remains disabled
+
+2.
+Title: Should enable workspace terms of service
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the "Terms of Service" tab
+# Check the "Terms of Service" checkbox
+# Add the terms of service
+# Click on the Save button
+
+Expectation:
+Workspace terms of service acceptance page will be shown
+
+3.
+Title: Should update workspace terms of service notifying the users about the updates
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the "Terms of Service" tab
+# Check the "Terms of Service" checkbox
+# Add the terms of service
+# Check the "Notify users about the updates" checkbox
+# Click on the "Save" button
+
+Expectation:
+Workspace terms of service will be updated
+Worksapce terms of service acceptance page will be shown
+
+4.
+Title: Should update workspace terms of service without notifying the users about the updates
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the "Terms of Service" tab
+# Check the "Terms of Service" checkbox
+# Add the terms of service
+# Uncheck the "Notify users about the updates" checkbox
+# Click on the "Save" button
+
+Expectation:
+Workspace terms of service will be updated
+Worksapce terms of service acceptance page will not be shown
+
+5.
+Title: Should cancel updating workspace terms of service
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the "Terms of Service" tab
+# Update the terms of service
+# Click on the Cancel button
+
+Expectation:
+Workspace terms of service update will be cancelled
+
+6.
+Title: Should check the text formats in the text editor
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the "Terms of Service" tab
+# Check the "Terms of Service" checkbox
+# Type terms of service text as Heading in the text editor
+# Type terms of service text as Bold in the text editor
+# Type terms of service text as Italic in the text editor
+# Type terms of service text as Underline in the text editor
+# Type terms of service text as Strike through in the text editor
+# Type terms of service text as Unordered number in the text editor
+# Type terms of service text as Ordered number in the text editor
+# Type terms of service text as Indent in the text editor
+# Type terms of service text as Align in the text editor
+# Type terms of service text as Quote in the text editor
+# Type terms of service text as Link in the text editor
+
+Expectation:
+Texts will be shown as per the selection of the text format

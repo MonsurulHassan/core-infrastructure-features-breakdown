@@ -1,0 +1,81 @@
+1.
+Title: Should not set workspace url by Workspace Admin
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+
+Expectation:
+Workspace URL field will remain disabled
+
+2.
+Title: Should set workspace url by Superuser via sudo
+
+Steps:
+# Login to the workspace as Superuser via sudo
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Input workspace url in the Workspace URL field
+# Click on the Save button
+
+Expectation:
+The success alert will be shown
+Workspace URL will be updated
+
+3.
+Title: Should not allow invalid inputs as workspace url
+
+Steps:
+# Login to the workspace as Superuser via sudo
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Input blank space in "Workspace URL" field
+# Click on the Save button
+
+Expectation:
+Error message will be shown
+
+Steps:
+# Input html tag in "Workspace URL" field
+# Click on the Save button
+
+Expectation:
+Error message will be shown
+
+Steps:
+# Input special characters in "Workspace URL" field
+# Click on the Save button
+
+Expectation:
+Error message will be shown
+
+Steps:
+# Input any character other than hyphen in between the texts in "Workspace URL" field
+# Click on the Save button
+
+Expectation:
+Error message will be shown
+
+4.
+Title: Should trim space in the start and end of the workspace url in "Workspace URL" field
+
+Steps:
+# Login to the workspace as Superuser via sudo
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Input workspace url having spaces at the start and end in "Workspace URL" field
+# Click on the Save button
+
+Expectation:
+Success alert will be shown 
+Workspace url will be set trimming the spaces
+
+5.
+Title: Should cancel saving the workspace url
+
+Steps:
+# Login to the workspace as Superuser via sudo
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Input workspace url in "Workspace URL" field
+# Click on the Cancel button
+
+Expectation:
+No success alert will be shown 
+Workspace URL will remain as it was

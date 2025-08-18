@@ -1,0 +1,26 @@
+1. 
+Title: should remove the added workspace favicon
+
+Pre-condition:
+Workspace favicon should remain added before
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Worksapce > Workspace Configuration > Workspace Info page 
+# Click on the "Appearance" tab
+# Click on the cross icon of the workspace favicon
+# Click on the Save button
+
+Expectation:
+Workspace favicon will be removed
+
+2.
+Title: should not allow workspace favicon add in free subscription
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the Appearance tab
+
+Expectation:
+Unable to add workspace favicon

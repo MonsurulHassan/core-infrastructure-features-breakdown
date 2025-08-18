@@ -1,0 +1,66 @@
+1.
+Title: Should set workspace default language
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Select the workspace default language in "Default Language" drop down
+# Click on the Save button
+
+Expecation:
+Success alert will be shown.
+Workspace default language will be set.
+"(Default)" should be shown beside the default language in Multi-Language section
+
+2.
+Title: Should cancel changing workspace default language
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Select the workspace default language in "Default Language" drop down 
+# Click on the Cancel button
+
+Expecation:
+Success alert will not be shown.
+Workspace default language will remain unchanged.
+
+3.
+Title: Should show "No options" with invalid search inputs
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Search default language with invalid inputs
+
+Expecation:
+No options will be shown
+
+4.
+Title: Should enable multi language
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Check the "Enable Multi-Language Support" checkbox
+# Select the multiple languages
+# Click on the Save button
+
+Expecation:
+Success alert will be shown.
+Multiple languages will be selected.
+
+5.
+Title: Should enable batch translation to the target language
+
+Pre-condition:
+Multi-language should remain enabled
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Select the target language
+# Click on the "Start Translation" button
+
+Expecation:
+Batch translation will be enabled

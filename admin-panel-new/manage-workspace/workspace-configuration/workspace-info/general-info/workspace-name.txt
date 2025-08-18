@@ -1,0 +1,71 @@
+1.
+Title: Should set workspace name
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Set the workspace name in "Workspace Name" field 
+# Click on the Save button
+
+Expectation:
+Success alert will be shown
+Workspace name will be set
+
+2.
+Title: Should not allow invalid inputs as workspace name
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Input blank space in "Workspace Name" field
+# Click on the Save button
+
+Expectation:
+Error message will be shown
+
+Steps:
+# Input html tag in "Workspace Name" field
+# Click on the Save button
+
+Expectation:
+Error message will be shown
+
+Steps:
+# Input special characters in "Workspace Name" field
+# Click on the Save button
+
+Expectation:
+Error message will be shown
+
+Steps:
+# Input characters exceeding the limit in "Workspace Name" field
+# Click on the Save button
+
+Expectation:
+Error message will be shown
+
+3.
+Title: Should trim space in the start and end of the workspace name in "Workspace Name" field
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Input workspace name having spaces at the start and end in "Workspace Name" field
+# Click on the Save button
+
+Expectation:
+Success alert will be shown 
+Workspace name will be set trimming the spaces
+
+4.
+Title: Should cancel saving the workspace name
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Input workspace name in "Workspace Name" field
+# Click on the Cancel button
+
+Expectation:
+No success alert will be shown
+Workspace name will remain as it was

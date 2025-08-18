@@ -1,0 +1,36 @@
+1.
+Title: should add workspace logo from file library
+
+Pre-condition:
+File should be available in the file library
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the "Appearance" tab
+# Click on the "Add logo"
+# Click on "File Library"
+# Select the file
+# Click on the Save button
+
+Expectation:
+Workspace logo will be added
+
+2.
+Title: Should cancel adding workspace logo from file library
+
+Pre-condition:
+File should be available in the file library
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the "Appearance" tab
+# Click on the "Add logo"
+# Click on "File Library"
+# Select the file
+# Click on the cross button of the modal
+
+Expectation:
+Modal will be closed
+Worksapce logo will not be added

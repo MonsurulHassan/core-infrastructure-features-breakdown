@@ -1,0 +1,36 @@
+1.
+Title: Should set workspace timezone
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Select the workspace timezone in "Timezone" drop down 
+# Click on the Save button
+
+Expectation:
+Success alert will be shown
+Workspace timezone will be set
+
+2.
+Title: Should cancel changing workspace timezone
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Select the workspace timezone in "Timezone" drop down 
+# Click on the Cancel button
+
+Expectation:
+Success alert will not be shown 
+Workspace timezone will remain unchanged
+
+3.
+Title: Should show "No options" with invalid search inputs
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Search timezone with invalid inputs
+
+Expectation:
+No options will be shown

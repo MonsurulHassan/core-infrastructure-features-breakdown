@@ -1,0 +1,71 @@
+1.
+Title: Should add custom domain
+
+Steps:
+# Log in to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the Custom Domain tab
+# Input the custom domain
+# Click on the Save button
+
+Expecation:
+Success alert will be shown
+Custom domain will be set
+
+2.
+Title: Should cancel adding custom domain
+
+Steps:
+# Log in to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the Custom Domain tab
+# Input the custom domain
+# Click on the Cancel button
+
+Expecation:
+Custom domain will not be set.
+
+3.
+Title: Should not allow invalid inputs as custom domain
+
+Steps:
+# Log in to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the Custom Domain tab
+# Input blank space in the text field
+# Click on the Save button
+
+Expecation:
+Error message will be shown
+
+Steps:
+# Input html tag in the text field
+# Click on the Save button
+
+Expecation:
+Error message will be shown
+
+Steps:
+# Input special characters in the text field
+# Click on the Save button
+
+Expecation:
+Error message will be shown
+
+Steps:
+# Input custom domain which has no dns record in the text field
+# Click on the Save button
+
+Expecation:
+Error alert will be shown
+
+4.
+Title: Should now allow custom domain addition in free subscription
+
+Steps:
+# Log in to the workspace having free subscription as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the Custom Domain tab
+
+Expecation:
+Unable to add custom domain

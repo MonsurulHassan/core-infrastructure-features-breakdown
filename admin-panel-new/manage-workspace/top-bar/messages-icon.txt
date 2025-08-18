@@ -1,0 +1,4 @@
+1. should check Messages modal content for new messages
+2. should check Messages modal content for no new messages
+3. should redirect to Inbox of Messages tab in Profile page after clicking on "View All Messages" button
+4. should redirect to Compose of Messages tab in Profile page after clicking on "Compose" button

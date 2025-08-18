@@ -1,0 +1,59 @@
+1.
+Title: Should add workspace logo redirection link
+
+Pre-condition:
+Workspace logo should be added
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the "Appearance" tab
+# Type link in the "Logo Redirection Link"
+# Click on the Save button
+# Click on the workspace logo
+
+Expectation:
+Will be redirected to the link
+
+2.
+Title: Should not allow invalid link as logo redirection link
+
+Pre-condition:
+Workspace logo should be added
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the Appearance tab
+# Type invalid link in the "Logo Redirection Link"
+# Click on the Save button
+
+Expectation:
+Error message will be shown
+
+3.
+Title: should remove the added workspace logo
+
+Pre-condition:
+Workspace logo should remain added
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the Appearance tab
+# Click on the cross icon of the workspace logo
+# Click on the Save button
+
+Expectation:
+Workspace logo will be removed
+
+4.
+Title: should not allow workspace logo add in free subscription
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Click on the Appearance tab
+
+Expectation:
+Unable to add workspace logo

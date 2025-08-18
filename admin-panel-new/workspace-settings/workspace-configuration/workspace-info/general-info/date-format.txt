@@ -1,3 +1,0 @@
-should set date format and observe the effect in community
-should cancel changing date format
-should show "No options" with invalid search input

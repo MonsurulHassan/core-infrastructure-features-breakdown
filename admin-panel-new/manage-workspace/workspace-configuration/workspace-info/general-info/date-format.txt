@@ -1,0 +1,36 @@
+1.
+Title: should set workspace date format
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Select the workspace date format in "Date Format" drop down
+# Click on the Save button
+
+Expecation:
+Success alert will be shown 
+Workspace date format will be set
+
+2.
+Title: should cancel changing workspace date format
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Select the workspace date format in "Date Format" drop down 
+# Click on the Cancel button
+
+Expecation:
+Success alert will not be shown 
+Workspace date format will remain unchanged
+
+3.
+Title: should show "No options" with invalid search inputs
+
+Steps:
+# Login to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
+# Search date format with invalid inputs
+
+Expecation:
+No options will be shown

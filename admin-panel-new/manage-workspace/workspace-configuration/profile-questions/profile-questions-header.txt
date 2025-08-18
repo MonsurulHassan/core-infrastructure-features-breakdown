@@ -1,0 +1,15 @@
+1.
+Title: Should check header name, description and help article link
+
+Steps:
+# Log in to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Profile Questions
+
+Expecation:
+Header name and description will be displayed
+
+Steps:
+# Click on the "Learn More" link
+
+Expecation:
+Will be redirected to the Worksapce Profile Questions help article page

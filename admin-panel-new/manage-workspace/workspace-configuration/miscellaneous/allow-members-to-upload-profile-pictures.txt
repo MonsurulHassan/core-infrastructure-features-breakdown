@@ -1,0 +1,53 @@
+1.
+Title: Should allow members to upload profile pictures
+
+Steps:
+# Log in to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Info page
+# Click on the "Miscellaneous" tab
+# Check the "Allow Members to Upload Profile Pictures" checkbox
+# Click on the Save button
+
+Expectation:
+Success alert will be shown
+
+Steps:
+# Go to the profile page
+# Click on the "Change profile picture" icon in avatar
+
+Expectation:
+No upload option will be available
+
+2.
+Title: Should not allow members to upload profile pictures
+
+Steps:
+# Log in to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Info page
+# Click on the "Miscellaneous" tab
+# Uncheck the "Allow Members to Upload Profile Pictures" checkbox
+# Click on the Save button
+
+Expectation:
+Success alert will be shown
+
+Steps:
+# Go to the profile page
+# Click on the "Change profile picture" icon in avatar
+
+Expectation:
+Profile picture upload option will be available
+
+3.
+Title: Should cancel toggling the checkbox
+
+Steps:
+# Log in to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Info page
+# Click on the "Miscellaneous" tab
+# Toggle the "Allow Members to Upload Profile Pictures" checkbox
+# Click on the Cancel button
+
+Expectation:
+No success alert will be shown
+The state of the checkbox will remain as it was

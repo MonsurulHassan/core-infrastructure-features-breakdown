@@ -1,0 +1,55 @@
+1.
+Title: Should enable @username
+
+Steps:
+# Log in to the workspace as Superuser via sudo
+# Go to Manage Workspace > Workspace Info page
+# Click on the "Miscellaneous" tab
+# Check the "Enable @username" checkbox
+# Click on the Save button
+
+Expectation:
+Success alert will be shown
+
+Steps:
+# Go to the Community Home page of a community
+# Click on the "Submit" button
+# Try to mention a member in "Description" field of "Submission Form"
+
+Expectation:
+Member will be mentioned using username
+
+2.
+Title: Should disable @username
+
+Steps:
+# Log in to the workspace as Superuser via sudo
+# Go to Manage Workspace > Workspace Info page
+# Click on the "Miscellaneous" tab
+# Uncheck the "Enable @username" checkbox
+# Click on the Save button
+
+Expectation:
+Success alert will be shown
+
+Steps:
+# Go to the Community Home page of a community
+# Click on the "Submit" button
+# Try to mention a member in "Description" field of "Submission Form"
+
+Expectation:
+Member can't be mentioned using username
+
+3.
+Title: Should cancel toggling the checkbox
+
+Steps:
+# Log in to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Info page
+# Click on the "Miscellaneous" tab
+# Toggle the "Enable @username" checkbox
+# Click on the Cancel button
+
+Expectation:
+No success alert will be shown
+The state of the checkbox will remain as it was

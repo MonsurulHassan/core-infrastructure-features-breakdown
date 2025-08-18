@@ -1,0 +1,44 @@
+1.
+Title: Should search profile question by name
+
+Steps:
+# Log in to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Profile Questions
+# Type question name in the search field
+
+Expecation:
+Profile question will be displayed in the search result
+
+2.
+Title: Should trim space from the start and end of the search text
+
+Steps:
+# Log in to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Profile Questions
+# Type question name having space in the start and end in the search field
+
+Expecation:
+Ignoring the spaces in the search text, profile question will be displayed in the search result
+
+3.
+Title: Should not show search result with invalid search inputs
+
+Steps:
+# Log in to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Profile Questions
+# Type invalid search inputs in the search field
+
+Expecation:
+Profile question will not be displayed in the search result
+
+4.
+Title: Should clear search text
+
+Steps:
+# Log in to the workspace as Workspace Admin
+# Go to Manage Workspace > Workspace Configuration > Profile Questions
+# Type search texts in the search field
+# Click on the cross icon
+
+Expecation:
+Search text will be cleared
