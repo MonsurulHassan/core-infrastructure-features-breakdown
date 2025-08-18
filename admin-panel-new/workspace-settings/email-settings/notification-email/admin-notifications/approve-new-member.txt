@@ -1,0 +1,44 @@
+1.
+Title:
+should uncheck approve new member notification checkbox
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Find "Receive email notifications to approve new members" setting
+# Uncheck the notification checkbox
+
+Expected Result:
+# Should uncheck approve new member email notifications
+# Checkbox should be unmarked
+
+2.
+Title:
+should check approve new member notification checkbox
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Find "Receive email notifications to approve new members" setting
+# Check the notification checkbox
+
+Expected Result:
+# Should check approve new member email notifications
+# Checkbox should be marked as checked
+
+3.
+Title:
+should save approve new member notification settings
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Enable/disable approve new member notification checkbox
+# Click save button
+
+Expected Result:
+# Should save the approve new member notification settings
+# Should display success confirmation message

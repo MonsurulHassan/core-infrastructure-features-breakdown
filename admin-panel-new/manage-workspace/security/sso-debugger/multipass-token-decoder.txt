@@ -1,0 +1,3 @@
+should verify that the encoded token field is mandatory
+should decode the token with a valid encoded token
+should not decode the token with an invalid encoded token

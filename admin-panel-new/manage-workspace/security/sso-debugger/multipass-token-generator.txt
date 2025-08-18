@@ -1,0 +1,6 @@
+should generate a token with valid inputs
+should not generate a token with invalid inputs
+should display the generated token output
+should not allow HTML tags in the input field
+should prevent adding an expire date by typing
+should not generate a token without providing Name, SSO ID, and email address

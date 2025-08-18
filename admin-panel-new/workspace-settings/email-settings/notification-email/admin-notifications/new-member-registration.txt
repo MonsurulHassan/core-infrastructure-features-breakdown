@@ -1,0 +1,44 @@
+1.
+Title:
+should check new member registration notification checkbox
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Find "Receive new member registration notifications" setting
+# Check the notification checkbox
+
+Expected Result:
+# Should check new member registration email notifications
+# Checkbox should be marked as checked
+
+2.
+Title:
+should uncheck new member registration notification checkbox
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Find "Receive new member registration notifications" setting
+# Uncheck the notification checkbox
+
+Expected Result:
+# Should uncheck new member registration email notifications
+# Checkbox should be unmarked
+
+3.
+Title:
+should save new member registration notification settings
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Enable/disable new member registration notification checkbox
+# Click save button
+
+Expected Result:
+# Should save the new member registration notification settings
+# Should display success confirmation message

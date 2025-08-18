@@ -7,7 +7,7 @@ Steps:
 # Select the workspace date format in "Date Format" drop down
 # Click on the Save button
 
-Expecation:
+Expectation:
 Success alert will be shown 
 Workspace date format will be set
 
@@ -20,7 +20,7 @@ Steps:
 # Select the workspace date format in "Date Format" drop down 
 # Click on the Cancel button
 
-Expecation:
+Expectation:
 Success alert will not be shown 
 Workspace date format will remain unchanged
 
@@ -32,5 +32,5 @@ Steps:
 # Go to Manage Workspace > Workspace Configuration > Workspace Info page
 # Search date format with invalid inputs
 
-Expecation:
+Expectation:
 No options will be shown

@@ -1,0 +1,5 @@
+should check the header name and description
+should redirect to the help article of gdpr
+should accept the gdpr
+should save contact information
+should not save contact information with invalid inputs

@@ -6,7 +6,7 @@ Workspace favicon should remain added before
 
 Steps:
 # Login to the workspace as Workspace Admin
-# Go to Manage Worksapce > Workspace Configuration > Workspace Info page 
+# Go to Manage Workspace > Workspace Configuration > Workspace Info page
 # Click on the "Appearance" tab
 # Click on the cross icon of the workspace favicon
 # Click on the Save button

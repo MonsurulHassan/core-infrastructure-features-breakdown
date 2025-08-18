@@ -1,4 +1,50 @@
+1. 
+Title: 
 should view email deliver reports
-should verify pagination display in the email deliver reports 
-should navigate to the previous and next page using pagination
-should display total email delivery report count
+
+Steps:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Go to the Email reports tab
+
+Expected Result:
+# should display all email reports
+
+2.
+Title:
+should search report using valid Report ID
+
+Steps:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Go to the Email reports tab
+# Search report with valid Report ID
+
+Expected Result:
+# Should display the report with the searched report ID
+
+3. Title:
+should not display report using invalid data
+
+Steps:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Go to the Email reports tab
+# Search report with invalid data
+
+Expected Result:
+# Should display "No data available" text
+
+4. Title:
+should display all reports when clicking on the cross icon from the search bar
+
+Steps:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Go to the Email reports tab
+# Search report with invalid data
+# Enter data in the search bar
+# Click on the cross icon from the search bar
+
+Expected Result:
+All reports should be displayed

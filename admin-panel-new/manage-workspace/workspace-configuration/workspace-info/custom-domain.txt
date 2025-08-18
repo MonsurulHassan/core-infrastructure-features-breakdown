@@ -8,7 +8,7 @@ Steps:
 # Input the custom domain
 # Click on the Save button
 
-Expecation:
+Expectation:
 Success alert will be shown
 Custom domain will be set
 
@@ -22,7 +22,7 @@ Steps:
 # Input the custom domain
 # Click on the Cancel button
 
-Expecation:
+Expectation:
 Custom domain will not be set.
 
 3.
@@ -35,28 +35,28 @@ Steps:
 # Input blank space in the text field
 # Click on the Save button
 
-Expecation:
+Expectation:
 Error message will be shown
 
 Steps:
 # Input html tag in the text field
 # Click on the Save button
 
-Expecation:
+Expectation:
 Error message will be shown
 
 Steps:
 # Input special characters in the text field
 # Click on the Save button
 
-Expecation:
+Expectation:
 Error message will be shown
 
 Steps:
 # Input custom domain which has no dns record in the text field
 # Click on the Save button
 
-Expecation:
+Expectation:
 Error alert will be shown
 
 4.
@@ -67,5 +67,5 @@ Steps:
 # Go to Manage Workspace > Workspace Configuration > Workspace Info page
 # Click on the Custom Domain tab
 
-Expecation:
+Expectation:
 Unable to add custom domain

@@ -7,7 +7,7 @@ Steps:
 # Select the workspace default language in "Default Language" drop down
 # Click on the Save button
 
-Expecation:
+Expectation:
 Success alert will be shown.
 Workspace default language will be set.
 "(Default)" should be shown beside the default language in Multi-Language section
@@ -21,7 +21,7 @@ Steps:
 # Select the workspace default language in "Default Language" drop down 
 # Click on the Cancel button
 
-Expecation:
+Expectation:
 Success alert will not be shown.
 Workspace default language will remain unchanged.
 
@@ -33,7 +33,7 @@ Steps:
 # Go to Manage Workspace > Workspace Configuration > Workspace Info page
 # Search default language with invalid inputs
 
-Expecation:
+Expectation:
 No options will be shown
 
 4.
@@ -46,7 +46,7 @@ Steps:
 # Select the multiple languages
 # Click on the Save button
 
-Expecation:
+Expectation:
 Success alert will be shown.
 Multiple languages will be selected.
 
@@ -62,5 +62,5 @@ Steps:
 # Select the target language
 # Click on the "Start Translation" button
 
-Expecation:
+Expectation:
 Batch translation will be enabled

@@ -1,7 +1,97 @@
+1.
+Title:
 should search email by type
+
+Steps:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Go to the Email delivery logs tab
+# Enter email type in the search field
+# Click search button
+
+Expected Result:
+# Should display emails matching the specified type
+
+2.
+Title:
 should search email by receiver
+
+Steps:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Go to the Email delivery logs tab
+# Enter receiver email address in the search field
+# Click search button
+
+Expected Result:
+# Should display emails sent to the specified receiver
+
+3.
+Title:
 should search email by sender
+
+Steps:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Go to the Email delivery logs tab
+# Enter sender email address in the search field
+# Click search button
+
+Expected Result:
+# Should display emails sent from the specified sender
+
+4.
+Title:
 should search email by subject
+
+Steps:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Go to the Email delivery logs tab
+# Enter email subject in the search field
+# Click search button
+
+Expected Result:
+# Should display emails with the specified subject
+
+5.
+Title:
 should search email by uid
+
+Steps:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Go to the Email delivery logs tab
+# Enter valid UID in the search field
+# Click search button
+
+Expected Result:
+# Should display the email with the specified UID
+
+6.
+Title:
 should search email by message_id
+
+Steps:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Go to the Email delivery logs tab
+# Enter valid message ID in the search field
+# Click search button
+
+Expected Result:
+# Should display the email with the specified message ID
+
+7.
+Title:
 should not search email by invalid input
+
+Steps:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Go to the Email delivery logs tab
+# Enter invalid or non-existent data in the search field
+# Click search button
+
+Expected Result:
+# Should display no results

@@ -1,0 +1,2 @@
+should display the page header and description
+should ensure "Learn More" link redirects to the help article page

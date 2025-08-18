@@ -1,0 +1,44 @@
+1.
+Title:
+should check private message email notification checkbox
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Find "Receive private message emails" setting
+# Check the notification checkbox
+
+Expected Result:
+# Should check private message email notifications
+# Checkbox should be marked as checked
+
+2.
+Title:
+should uncheck private message email notification checkbox
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Find "Receive private message emails" setting
+# Uncheck the notification checkbox
+
+Expected Result:
+# Should uncheck private message email notifications
+# Checkbox should be unmarked
+
+3.
+Title:
+should save private message email notification settings
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Enable/disable private message email notification checkbox
+# Click save button
+
+Expected Result:
+# Should save the private message email notification settings
+# Should display success confirmation message

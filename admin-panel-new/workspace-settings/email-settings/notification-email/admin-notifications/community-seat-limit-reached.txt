@@ -1,0 +1,61 @@
+1.
+Title:
+should uncheck community seat limit reached notification checkbox
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Find "community seat limit reached" setting
+# Uncheck the notification checkbox
+
+Expected Result:
+# Should uncheck community seat limit reached email notifications
+# Checkbox should be unmarked
+
+2.
+Title:
+should check community seat limit reached notification checkbox
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Find "community seat limit reached" setting
+# Check the notification checkbox
+
+Expected Result:
+# Should check community seat limit reached email notifications
+# Checkbox should be marked as checked
+
+3.
+Title:
+should set seat count lower threshold
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Check the "community seat limit reached" chekbox
+# Find "Seat count lower threshold" field
+# Enter valid threshold value
+
+Expected Result:
+# Should set the seat count lower threshold
+# Field should accept valid numeric input
+
+4.
+Title:
+should not accept invalid input for seat count lower threshold
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Check the "community seat limit reached" checkbox
+# Find "Seat count lower threshold" field
+# Enter invalid input (non-numeric or negative values or long numeric value)
+
+Expected Result:
+# Should not accept invalid input
+# Should display field error message
