@@ -1,0 +1,2 @@
+should enable Receive new member registration notifications switch
+should disable Receive new member registration notifications switch

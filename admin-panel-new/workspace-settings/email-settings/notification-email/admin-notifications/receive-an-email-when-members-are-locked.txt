@@ -1,0 +1,2 @@
+should disable Receive an email when members are locked switch
+should enable Receive an email when members are locked switch

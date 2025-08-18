@@ -1,0 +1,4 @@
+should disable Receive email notifications when community seat threshold reached switch
+should enable Receive email notifications when community seat threshold reached switch
+should set seat count lower threshold switch
+should not use invalid input as seat count lower threshold switch

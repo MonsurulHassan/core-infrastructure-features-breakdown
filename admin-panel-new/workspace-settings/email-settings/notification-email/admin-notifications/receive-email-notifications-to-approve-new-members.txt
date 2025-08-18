@@ -1,0 +1,2 @@
+should disable Receive email notifications to approve new members switch
+should enable Receive email notifications to approve new members switch

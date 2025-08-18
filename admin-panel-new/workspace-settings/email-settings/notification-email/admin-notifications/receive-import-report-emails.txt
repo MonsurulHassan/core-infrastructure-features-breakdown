@@ -1,0 +1,2 @@
+should enable Receive import report emails switch
+should disable Receive import report emails switch
