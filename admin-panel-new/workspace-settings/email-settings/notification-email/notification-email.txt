@@ -1,4 +1,24 @@
+1.
+Title: 
 should check email logs header name and description
+
+Steps:
+# Login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Notification Email page
+# See the page header and description
+
+Expected Result:
+# Should display page header "General Email"
+# Should display page description "This section contains all settings and tools for customizing the emails sent from this workspace."
+
+2.
+Title:
 should redirect to the notification emails help article after clicking on "Learn more"
-should verify deliverability test
-should save general email settings information
+
+Steps:
+# Login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Click on the "Learn more" link from the description
+
+Expected Result:
+# Should redirect to the notification emails help article page

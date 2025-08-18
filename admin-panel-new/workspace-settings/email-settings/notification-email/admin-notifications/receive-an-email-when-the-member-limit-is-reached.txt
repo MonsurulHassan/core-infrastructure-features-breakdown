@@ -1,2 +1,0 @@
-should disable Receive an email when the member limit is reached switch
-should enable Receive an email when the member limit is reached switch

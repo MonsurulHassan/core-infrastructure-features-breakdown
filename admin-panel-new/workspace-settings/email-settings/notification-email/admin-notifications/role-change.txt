@@ -1,0 +1,44 @@
+1.
+Title:
+should check role change email notification checkbox
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Find "Receive role change emails" setting
+# Check the notification checkbox
+
+Expected Result:
+# Should check role change email notifications
+# Checkbox should be marked as checked
+
+2.
+Title:
+should uncheck role change email notification checkbox
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Find "Receive role change emails" setting
+# Uncheck the notification checkbox
+
+Expected Result:
+# Should uncheck role change email notifications
+# Checkbox should be unmarked
+
+3.
+Title:
+should save role change email notification settings
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Enable/disable role change email notification checkbox
+# Click save button
+
+Expected Result:
+# Should save the role change email notification settings
+# Should display success confirmation message

@@ -1,0 +1,44 @@
+1.
+Title:
+should check account unlocked notification checkbox
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Find "Account Unlocked" notification setting
+# Check the notification checkbox
+
+Expected Result:
+# Should check account unlocked email notifications
+# Checkbox should be marked as checked
+
+2.
+Title:
+should uncheck account unlocked notification checkbox
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Find "Account Unlocked" notification setting
+# Uncheck the notification checkbox
+
+Expected Result:
+# Should uncheck account unlocked email notifications
+# Checkbox should be unmarked
+
+3.
+Title:
+should save account unlocked notification settings
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Enable/disable account unlocked notification checkbox
+# Click save button
+
+Expected Result:
+# Should save the account unlocked notification settings
+# Should display success confirmation message

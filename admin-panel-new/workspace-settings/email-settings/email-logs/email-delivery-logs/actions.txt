@@ -1,2 +1,28 @@
+1.
+Title:
 should view details of email delivery logs
+
+Steps:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Go to the Email delivery logs tab >> First log
+# Click on the three dots from the actions column
+# Click on the View details
+
+Expected Result:
+# Email Delivery details modal will be appeared
+# UID and Message ID will be shown.
+
+2. 
+Title: 
 should view debug log of email delivery logs
+
+Steps:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Go to the Email delivery logs tab >> First log
+# Click on the three dots from the actions column
+# Click on the View debug log
+
+Expected Result:
+# Debug log modal will be appeared

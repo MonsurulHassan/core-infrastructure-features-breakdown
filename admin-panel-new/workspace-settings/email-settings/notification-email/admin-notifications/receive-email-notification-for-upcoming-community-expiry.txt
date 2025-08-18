@@ -1,4 +1,0 @@
-should disable Receive Email notification for Upcoming Community Expiry switch
-should enable Receive Email notification for Upcoming Community Expiry switch
-should set Upcoming Community Expiry Notification (Days) switch
-should not use invalid input as Upcoming Community Expiry Notification (Days) switch

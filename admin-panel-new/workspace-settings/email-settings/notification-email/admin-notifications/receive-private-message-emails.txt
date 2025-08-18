@@ -1,2 +1,0 @@
-should enable Receive private message emails switch
-should disable Receive private message emails switch

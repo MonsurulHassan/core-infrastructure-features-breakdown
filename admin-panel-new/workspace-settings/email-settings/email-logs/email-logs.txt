@@ -1,2 +1,25 @@
+1.
+
+Title: 
 should check email logs header name and description
-should redirect to email deliver reports help article after clicking on "Learn more"
+
+Steps:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# see the page header and description
+
+Expected Result:
+# Page header should be "Email Logs"
+# Page description should be "This section shows the Logs of all the sent emails and test emails sent to check deliverability."
+
+2.
+
+Title: should redirect to email deliver reports help article after clicking on "Learn more"
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Click on the "Laern More" link from the page description
+
+Expected Result:
+# should redirect to the email deliver reports help article.

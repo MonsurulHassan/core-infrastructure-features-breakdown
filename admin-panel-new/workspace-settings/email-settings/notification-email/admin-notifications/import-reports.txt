@@ -1,0 +1,44 @@
+1.
+Title:
+should check import report emails notification checkbox
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Find "Receive import report emails" setting
+# Check the notification checkbox
+
+Expected Result:
+# Should check import report email notifications
+# Checkbox should be marked as checked
+
+2.
+Title:
+should uncheck import report emails notification checkbox
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Find "Receive import report emails" setting
+# Uncheck the notification checkbox
+
+Expected Result:
+# Should uncheck import report email notifications
+# Checkbox should be unmarked
+
+3.
+Title:
+should save import report emails notification settings
+
+Steps:
+# Login to the workspace as workspace admin
+# Go to the manage workspace (new) >> Email Settings >> Notification Email page
+# Navigate to Admin Notifications section
+# Enable/disable import report emails notification checkbox
+# Click save button
+
+Expected Result:
+# Should save the import report emails notification settings
+# Should display success confirmation message

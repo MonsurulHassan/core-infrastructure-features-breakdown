@@ -1,4 +1,74 @@
+1.
+Title:
 should view email delivery logs
+
+Steps:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Go to the Email delivery logs tab
+
+Expected Result:
+# should display all email delivery logs
+
+2.
+Title:
 should display total email delivery logs count
+
+Steps:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Go to the Email delivery logs tab
+# See the logs count
+
+Expected Result:
+Should display total email delivery logs count
+
+3.
+Title:
 should display pagination
+
+Pre-Condition:
+Ten email delivery logs shuld be present.
+
+Steps:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Go to the Email delivery logs tab
+# See the Pagination
+
+Expected Result:
+# Should display pagination
+
+4.
+Title:
 should navigate to the previous and next page using pagination
+
+Pre-Condition:
+Ten email delivery logs shuld be present.
+
+Steps-1:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Go to the Email delivery logs tab
+# Click on the page number
+
+Expected Result:
+Should go to the specified page
+
+Steps-2:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Go to the Email delivery logs tab
+# Click on the right arrow icon
+
+Expected Result:
+Should go to the next page
+
+Steps-3:
+# login to the workspace as workspace admin
+# go to the manage workspace (new) >> Email Settings >> Email Logs page
+# Go to the Email delivery logs tab
+# Click on the left arrow icon
+
+Expected Result:
+Should go to the previous page
